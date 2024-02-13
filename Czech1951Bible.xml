@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <bible translation="Czech Bible (SKRABAL) 1951 - Dr Pavel Škrabal" Copyright="Public Domain">
 	<testament name="New">
 		<book number="40">
@@ -834,7 +834,7 @@
 				<verse number="11">Kdo je mezi vámi větší, buď vaším služebníkem!</verse>
 				<verse number="12">Neboť kdo se povyšuje, bude ponížen, a kdo se ponižuje, bude povýšen.“</verse>
 				<verse number="13">„Běda vám, vykladatelé Písma a pokrytečtí farizeové! Zavíráte nebeské království před lidmi; sami totiž nevcházíte, a těm, kdo chtějí vejít, nedovolujete vstoupit.</verse>
-				<verse number="14"></verse>
+				<verse number="14">***</verse>
 				<verse number="15">Běda vám, vykladatelé Písma a pokrytečtí farizeové! Obcházíte moře i pevninu, abyste získali jednoho proselytu. A když se jím stane, děláte z něho pekelníka dvakrát horšího, než jste sami.</verse>
 				<verse number="16">Běda vám, vůdcové slepých! Říkáte: ´Kdo bude přísahat při chrámu, to neplatí; kdo však bude přísahat při chrámovém zlatě, ten je vázán´.</verse>
 				<verse number="17">Pošetilci a slepci! Vždyť co je větší? Zlato, či chrám, který posvěcuje to zlato?</verse>
@@ -1514,9 +1514,9 @@
 				<verse number="41">Kdokoli vám dá napít z číše vody proto, že jste Kristovi, vpravdě vám pravím, nepřijde o svou odměnu.“</verse>
 				<verse number="42">„A tomu, kdo pohorší jednoho z těchto maličkých, kteří věří, bylo by lépe, kdyby mu byl na krk uvázán mlýnský kámen a byl vhozen do moře.</verse>
 				<verse number="43">A je-li ti kamenem úrazu tvá ruka, usekni ji; lépe je pro tebe, abys vešel do života jednoruký, než abys měl obě ruce, a šel do pekla, do neuhasitelného ohně.</verse>
-				<verse number="44"></verse>
+				<verse number="44">***</verse>
 				<verse number="45">A jestliže tvá noha je ti kamenem úrazu, uřízni ji; lépe je pro tebe, abys vešel do života chromý, než abys měl obě nohy, a byl vržen do pekla.</verse>
-				<verse number="46"></verse>
+				<verse number="46">***</verse>
 				<verse number="47">A jestliže tvé oko je ti kamenem úrazu, vyloupni je; lépe je pro tebe, abys vešel do Božího království jednooký, než abys měl obě oči, a byl vržen do pekla,</verse>
 				<verse number="48">kde jejich Červ neumírá a oheň neuhasíná.</verse>
 				<verse number="49">Neboť každý bude solen ohněm.“</verse>
@@ -1602,7 +1602,7 @@
 				<verse number="23">Vpravdě vám pravím: Kdo řekne této hoře: ´Zdvihni se a vrhni se do moře', a nebude pochybovat ve svém srdci, nýbrž bude věřit, že se stane, co říká, stane se mu to.</verse>
 				<verse number="24">Proto vám pravím: Věřte, že obdržíte všecko, začkoli budete v modlitbě prosit, a stane se vám.</verse>
 				<verse number="25">A když se postavíte k modlitbě, odpusťte, máte-li co proti komu, aby i váš Otec v nebesích vám odpustil vaše hříchy.“</verse>
-				<verse number="26"></verse>
+				<verse number="26">***</verse>
 				<verse number="27">A přijdou znovu do Jerusalema. Když chodil v chrámě, přistoupili k němu veleknězi, vykladatelé Písma a starší</verse>
 				<verse number="28">a řekli mu: „Jakou mocí toto děláš? A kdo ti dal tuto moc, abys toto dělal?“</verse>
 				<verse number="29">A Ježíš jim odpověděl: „Zeptám se vás na jednu věc. Odpovězte mi, a povím vám, jakou mocí toto dělám.</verse>
@@ -1798,7 +1798,7 @@
 				<verse number="25">Byly tři hodiny, když ho ukřižovali.</verse>
 				<verse number="26">Jeho vinu označoval nápis: „Židovský král.“</verse>
 				<verse number="27">S ním ukřižovali i dva lotry, jednoho po jeho pravici a druhého po levici.</verse>
-				<verse number="28"></verse>
+				<verse number="28">***</verse>
 				<verse number="29">I kolemjdoucí ho tupili, pokyvovali hlavou a říkali: „Cha, boříš chrám a ve třech dnech ho stavíš!</verse>
 				<verse number="30">Sestup s kříže a zachraň se!“</verse>
 				<verse number="31">Podobně se posmívali i veleknězi a s vykladateli Písma vespolek říkali: „Jiné zachránil, sám sebe zachránit nemůže.</verse>
@@ -2668,7 +2668,7 @@
 				<verse number="33">Kdo bude hledět si zachránit život, ztratí ho; a kdo ho ztratí, zachová ho na živu.</verse>
 				<verse number="34">Pravím vám: Tu noc budou dva na jednom loži: jeden bude vzat, a druhý ponechán.</verse>
 				<verse number="35">Dvě budou spolu mlít: jedna bude vzata, druhá ponechána\.</verse>
-				<verse number="36"></verse>
+				<verse number="36">***</verse>
 				<verse number="37">Zeptali se ho: \Kde, Pane?\ On jim řekl: \Kde bude mrtvola, tam se shromáždí i supi\.</verse>
 			</chapter>
 			<chapter number="18">
@@ -4270,7 +4270,7 @@
 				<verse number="34">Komoří se otázal Filipa: „Prosím tě, o kom to prorok mluví? O sobě či o někom jiném?“</verse>
 				<verse number="35">Filip tedy počal mluvit, a vycházeje od onoho místa z Písma, zvěstoval mu Ježíše.</verse>
 				<verse number="36">Jak pokračovali v cestě, přišli k jakési vodě; i pravil komoří: „Hle, voda, co brání, abych nebyl pokřtěn?“</verse>
-				<verse number="37"></verse>
+				<verse number="37">***</verse>
 				<verse number="38">I rozkázal zastavit vůz, a oba, Filip i komoří, sestoupili do vody, a pokřtil ho.</verse>
 				<verse number="39">Když však vystoupili z vody, duch ran uchvátil Filipa, takže ho již komoří ne spatřil. Jel tedy svou cestou a radoval se</verse>
 				<verse number="40">Filip se pak octl v Azotu, procházel vše mi městy a hlásal radostnou zvěst, až při šel do Caesareje.</verse>
@@ -4547,7 +4547,7 @@
 				<verse number="31">Když ho přečtli, zaradovali se z té útěchy.</verse>
 				<verse number="32">Judas a Silas, kteří byli i proroky, mnoha slovy povzbudili a utvrdili bratry.</verse>
 				<verse number="33">I pobyli tam nějaký čas a byli od bratří v pokoji propuštěni k těm, kdo je poslali.</verse>
-				<verse number="34"></verse>
+				<verse number="34">***</verse>
 				<verse number="35">Ale Pavel a Barnabáš zůstali v Antiochii, učili a kázali slovo Páně i s mnoha jinými.</verse>
 				<verse number="36">Ale po krátkém čase řekl Pavel Barnabášovi: „Vraťme se, dohlédněme přece na bratry po všech městech, v nichž jsme kázali slovo Páně, jak se mají.“</verse>
 				<verse number="37">Barnabáš pak chtěl s sebou vzít i Jana, zvaného Marek.</verse>
@@ -4865,7 +4865,7 @@
 				<verse number="4">Než abych tě dále nezdržoval, prosím, abys nás ve své blahovůli krátce vyslechl.</verse>
 				<verse number="5">Shledali jsme totiž, Že tento muž je morovou nákazou a rozněcuje nepokoje mezi všemi Židy v celém světě a je náčelníkem nazarejské sekty,</verse>
 				<verse number="6">ano dokonce se pokusil znesvětit chrám; proto jsme ho jali.</verse>
-				<verse number="7"></verse>
+				<verse number="7">***</verse>
 				<verse number="8">Sám se můžeš výslechem dovědět od něho vše, co na něj žalujeme.“</verse>
 				<verse number="9">Připojili se pak i Židé a tvrdili, že je tomu tak.</verse>
 				<verse number="10">Vladař pokynul Pavlovi, že smí mluvit, a on odpověděl: „Vím, že po mnoho: let jsi soudcem tohoto národa, proto s důvěrou budu hájit svou věc.</verse>
@@ -5025,7 +5025,7 @@
 				<verse number="26">Jdi k tomuto lidu a řekni: Budete poslouchat a poslouchat, a neporozumíte, budete se dívat a dívat, a neuvidíte.</verse>
 				<verse number="27">Neboť srdce tohoto lidu se zatvrdilo; ušima těžko slyšeli a své oči zavřeli, aby očima neviděli, ušima neslyšeli, srdcem nechápali a neobrátili se, já abych je pak neuzdravil.</verse>
 				<verse number="28">Budiž vám tedy známo, že tato Boží spása byla poslána k pohanům; ti budou také slyšeti.“</verse>
-				<verse number="29"></verse>
+				<verse number="29">***</verse>
 				<verse number="30">Zůstal pak celá dvě léta v svém najatém bytě a přijímal všechny, kdo k němu přicházeli;</verse>
 				<verse number="31">hlásal Boží království a učil o Pánu Ježíši Kristu se vší neohrožeností a bez překážek.</verse>
 			</chapter>
@@ -5491,7 +5491,7 @@
 				<verse number="21">Pozdravuje vás Timothej, můj pomocník, dále Lukios, Jason a Sosipater, moji soukmenovci.</verse>
 				<verse number="22">Pozdravuji vás já Tercius, který jsem napsal tento list v Pánu.</verse>
 				<verse number="23">Pozdravuje vás Gaius, hostitel můj a celé církve. Pozdravuje vás Erastus, městský důchodní, a bratr Kvartus.</verse>
-				<verse number="24"></verse>
+				<verse number="24">***</verse>
 				<verse number="25">Tomu, jenž je mocen utvrdit vás podle mého evangelia a kázání Ježíše Krista, podle zjevení tajemství, které bylo zahaleno odvěkým časům,</verse>
 				<verse number="26">ale nyní je odhaleno a prorockými spisy na příkaz věčného Boha oznámeno všem pohanům, aby se podrobili víře, -</verse>
 				<verse number="27">jedinému moudrému Bohu skrze Ježíše Krista budiž sláva na věky věkův. Amen.</verse>
