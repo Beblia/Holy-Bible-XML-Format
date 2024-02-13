@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<bible translation="Berber = Morocco and Algeria - Tachelheit Bible (RBD)" Status="Copyrighted: 1998 by United Bible Societies">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible translation="Berber = Morocco and Algeria - Tachelheit Bible (RBD)" Status="Copyrighted: 1998 by United Bible Societies" site="https://www.bible.com/bible/3161/MAT.1.SHILNT10">
   <testament name="New">
     <book number="40">
       <chapter number="1">
@@ -39,7 +39,7 @@
         <verse number="7">yazn hirudus ġakudan mad-d-itawin imajusin s-dars s-tntla. isqsa-tn: «managu ad-awn-iban itri?»</verse>
         <verse number="8">yazn-tn ilmma s-bitlaḥm yini-asn: «zaydat tsigglm s-warraw-an ġ-kraygatt mani. ġakud nna-ti-tufam tawim-iyi-d lh̬bar baš ad-dduġ ad-as-n-sjdġ ula nkki.»</verse>
         <verse number="9">lliġ sfldn ntni i-mad-asn-inna-ugllid, munn-daġ d-uġaras-nsn. iban-asn-d-daġ itri lli-yadlli-ẓran ġ-ššrq, frḥn bahra s-lfrḥ iggutn. izwur-asn itri aylliġ ilkm iggi n-illiġ illa-uḥšmi, ibidd.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">kšmn ntni s-tgmmi, s-ẓran aḥšmi d-innas maryam. ḍrn f-ifaddn-nsn, knun s-wakal ġ-lgddam-ns. rẓmn itlsan-nsn, fkn-as tiwafkiw n-uwrġ d-lbh̬ur d-tujjut l-lmurr.</verse>
         <verse number="12">iml-asn rbbi ġakudan ġ-twargit a-ur-wrrin s-dar hirudus. amẓn ilmma aġaras yaḍni s-tmazirt-nsn.</verse>
         <verse number="13">lliġ ddan ntni iban-d yal-lmalak n-sidi rbbi i-yusf ġ-twargit yini-as: «nkr tawit aḥšmi d-innas trwlm s-tmazirt n-miṣr, tqamam-n ġin ard-ak-iniġ a-di-twrrim, ašku hirudus ra-isiggil s-uḥšmi-ad a-t-inġ.»</verse>
@@ -918,7 +918,7 @@
         <verse number="1">«ġ-uwssan-an ra-tg-tgldit n-ignna zund mrawt-tfrh̬in, usint lqnadl ffuġnt a-n-mnaggarnt asli.</verse>
         <verse number="2">smmust gisnt gant ist-lɛaql, smmust ur-swangmnt ġ-ma-ra-tnd-d-iqqan.</verse>
         <verse number="3">ist-lɛaql, lliġ usint lqnadl-nsnt awint didsnt tabuqqalt n-zzit. imma h̬tilli ur-swangmnin ur-didsnt-iwint zzit.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">lliġ-n-imaṭl-usli, yawi-tnt iṭs kullutnt gnnt.</verse>
         <verse number="6">ġ-ṭuẓẓunt n-iyḍ sfldnt i-kra n-yan yull awal-ns inna ‹hay-asli yuška-d, ffuġamd-d a-t-in-tmnaggarmt.›</verse>
         <verse number="7">nkrnt-tfrh̬in kullutnt, ssngaddant tiftilin i-lqnadl-nsnt.</verse>
@@ -1514,9 +1514,9 @@
         <verse number="41">lḥqq a-rad-awn-iniġ, wanna-yawn-ifkan lkas n-waman s-ism-inu f-ssibt n-ma-tgam win lmasiḥ, rad-as-tili lbaraka-ns.»</verse>
         <verse number="42">«wanna issḍrn yan zġ-imẓẓiyn-ad lli-sri-umnnin, yuf-as mrad is-as-ityaggal-uẓru n-uzrg imqqurn ġ-umggrḍ-ns ityawgar-n ġ-umda.</verse>
         <verse number="43">iġ-a-k-issṭar-ufus-nnk, bbi-t. yuf-ak a-tkšmt s-tudrt bla afus ula a-tddut s-jhnnama s-sin ifassn, s-lɛafit lli-ur-ra-ih̬si.</verse>
-        <verse number="44"></verse>
+        <verse number="44">***</verse>
         <verse number="45">iġ-a-k-issṭar-uḍar-nnk, bbi-t. yuf-ak a-tkšmt s-tudrt tgit abiḍar ula a-dark-ilin sin iḍarn ttyawgart-n ġ-jhnnama.</verse>
-        <verse number="46"></verse>
+        <verse number="46">***</verse>
         <verse number="47">iġ-a-k-tssṭar tiṭ-nnk ssukf-tt-id. yuf-ak a-tkšmt s-tgldit n-rbbi tgit abukaḍ ula a-dark-ilint snat-walln ttyawgart-n ġ-lɛafit n-jhnnama</verse>
         <verse number="48">ġ-illiġ ur-a-ttmtat-twukka-nsn ula-da-gis-th̬ssi lɛafit,</verse>
         <verse number="49">ra-imarġ kraygatt yan s-lɛafit.</verse>
@@ -1602,7 +1602,7 @@
         <verse number="23">lḥqq a-rad-awn-iniġ, wanna innan i-uwrir-ad ‹itti zġ-ġid tḍrt-n ġ-umda,› iġ-yumn is-ra-yili maylli-s-inna bla iškka ġ-uwl-ns, hati rad-as-yili.</verse>
         <verse number="24">f-mayad a-f-rad-awn-iniġ, kullu ma-tḍalbm iġ-a-ttẓallam i-rbbi, amnat is-rad-awn-ityawfka, hati rad-awn-yili.</verse>
         <verse number="25">ġakud nna-tbiddm ar-ttẓallam, ṣamḥat i-wanna gigun iskrn kra yʷh̬šnn, baš ad-awn-iṣamḥ babatun lli-illan ġ-ignna ula kunni f-ddnub-nnun.»</verse>
-        <verse number="26"></verse>
+        <verse number="26">***</verse>
         <verse number="27">aškin-d-daġ s-tmdint n-urušalim. lliġ a-ifttu yasuɛ ġ-tgmmi n-rbbi mnaggarn-t-id inmġurn n-tgmmi n-rbbi d-imslmdn n-ššrɛ d-imġarn n-tmazirt.</verse>
         <verse number="28">inin-as: «ma-k-id-yuznn a-tskart kullu ġayad? awal n-mi ayd-s-a-ti-tskart?»</verse>
         <verse number="29">isawl yasuɛ yini-asn: «ula nkki ra-kʷn-sqsaġ yan-usqsi. rarat-iyi-d iniġ-awn ma-yyi-d-yuznn ad-skarġ mayad.</verse>
@@ -1813,7 +1813,7 @@
         <verse number="40">llant ġin kra n-tmġarin biddnt ġ-tuggugt ar-tmnadnt kullu ma-ijran. tlla gisnt maryam ullt-magdala, d-maryam innas n-aytmatn yaɛqub imẓẓin d-yusf, ntnti d-saluma.</verse>
         <verse number="41">kkant-sttin ar-tmununt d-yasuɛ ar-ti-tɛawannt lliġ illa ġ-jalil. ilint ġin tiyyaḍ ggutnin lli-d-dids-uškanin s-urušalim.</verse>
         <verse number="42">ġassan ar-tujadn mddn i-lɛid, ig ass lli-iqaman i-wass n-usunfu. lliġ-di-truḥ-tdggʷat yašk-id yusf gu-rama. iga ntta yan zġ-imġarn l-lmḥkama, ar-ti-tuqqarn mddn. ula ntta ar-itrju tagldit n-rbbi a-di-tašk. izɛm ikšm s-dar bilaṭus iḍalb zġ-gis ddat n-yasuɛ.</verse>
-        <verse number="43"></verse>
+        <verse number="43">***</verse>
         <verse number="44">itɛjjb bilaṭus lliġ isfld is-yad-immut. iġr i-lqbṭan n-iɛskrin isqsa-t: «mnšk ayd-s-immut?»</verse>
         <verse number="45">lliġ-as-t-inna lqbṭan ifk ilmma ddat i-yusf.</verse>
         <verse number="46">isġ-d yusf lkttan išwan, izzugz-d ddat n-yasuɛ zġ-uggjdi issmuttl-tt, isrs-tt-in ġ-yan-umḍḍal, iga ifri ityawġza ġ-ujarif. issknuki-d yan-ifir iqqn srs imi n-umḍḍal.</verse>
@@ -2669,7 +2669,7 @@
         <verse number="33">wanna isiggiln a-ijjnjm tudrt-ns ra-stt-ijlu. d-wanna ijlan tudrt-ns ra-stt-ijjnjm.</verse>
         <verse number="34">rad-awn-iniġ, ġ-iḍ-an rad-ilin sin mddn ġ-tisi, ra-yitti yan iqama yan.</verse>
         <verse number="35">rad-ilint snat-tmġarin ar-ẓẓaḍnt, ra-titti yat tqama yat.»</verse>
-        <verse number="36"></verse>
+        <verse number="36">***</verse>
         <verse number="37">sqsan-t imḥḍarn-ns: «wa-sidi, maniġ a-ra-yili mayad?» yini-asn: «innaġ illa miḍrus a-ġ-a-n-tmunun igadrn.»</verse>
       </chapter>
       <chapter number="18">
@@ -2677,7 +2677,7 @@
         <verse number="2">yini-asn: «ha-yal-lqaḍi ġ-yat-tmdint, ur-iksuḍ rbbi ula-da-stt-itawi ġ-mddn.</verse>
         <verse number="3">tili yat-thjjalt ġ-tmdint-an ar-bdda-tssmummʷi ġ-dar lqaḍi ar-as-ttini: ‹fukku-yyi zġ-unuwwaš-inu.›</verse>
         <verse number="4">mnnaw-uwssan ur-iri lqaḍi ad-as-isfld, imil yini d-ih̬f-ns: ‹tahjjalt-ad ar-bdda-yyi-tssiḥil. wah̬h̬a ur-ksuḍġ rbbi ula-da-stti-tawiġ ġ-mddn ra-stt-fukkuġ, a-ur-sul-di-ttaški ad-iyi-trẓ ih̬f.›»</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">yini-asn siditnnġ: «ġmkad a-s-inna lqaḍi-an yʷh̬šnn,</verse>
         <verse number="7">imma rbbi is-ur-ra-ifukku mddn-ns lli-as-aqranin ġ-iyḍ ula azal? is-ra-imaṭl ad-asn-ifk maylli zġ-gis ḍalbn?</verse>
         <verse number="8">rad-awn-iniġ, ra-tn-ifukku ḥayna. walaynni ġassan ġ-rad-d-wrriġ s-ddunit-ad nkki lli-igan yus n-bnadm, is-rad-d-afġ ma-sul-yumnn?»</verse>
@@ -2974,13 +2974,13 @@
         <verse number="42">izayd yini: «wa-yasuɛ, swangm-iyi-d ġakud nna-tkšmt s-tgldit-nnk.»</verse>
         <verse number="43">yini-as yasuɛ: «lḥqq a-rad-ak-iniġ, ra-didi-tilit ġassad ġ-talɛrṣt l-lmjd.»</verse>
         <verse number="44">lliġ tlkm tasaɛt tis snat d-mrawt ḍrnd-d tillas f-tmazirt-an kullutt, ur-sul-tsfaw tafukt ar tasaɛt tis kraṭṭ n-tdggʷat. yut-ušrrig lh̬amiya n-tḥanut tamẓlayt ġ-tgmmi n-rbbi, tbḍu f-sin.</verse>
-        <verse number="45"></verse>
+        <verse number="45">***</verse>
         <verse number="46">yall yasuɛ awal-ns yini: «wa-baba, ġ-gr ifassn-nnk a-ġ-fkiġ rruḥ-inu.» ġir inna awal-ad s-issufġ rruḥ-ns.</verse>
         <verse number="47">lqbṭan n-iɛskrin, lliġ iẓra mayd ijran itɛjjb ġ-lmjd n-rbbi yini: «s-ṣṣaḥt, argaz ifulkin ayad.»</verse>
         <verse number="48">kullu willi munnin ġin a-gis-ssmuqquln, lliġ ẓran mayad wrrin s-tgʷmma-nsn ṭiyyr-asn bahra, ar-kkatn ġ-idmarn-nsn.</verse>
         <verse number="49">biddn imddukkʷal n-yasuɛ ġ-tuggugt, ntni d-tmġarin lli-d-dids-munnin zġ-tmazirt n-jalil, ar-tmnadn kullu ma-ijran.</verse>
         <verse number="50">yili ġin yan-urgaz ism-ns yusf, iga gu-rama ġ-tmazirt n-yudaya. ig argaz ifulkin, ar-bahra-ittiri a-irḍu rbbi, ar-itrju tagldit n-rbbi a-di-tašk. ig ntta yan zġ-imġarn l-lmḥkama, walaynni ur-irḍi s-ġaylli nnan f-yasuɛ ula ġaylli srs skrn.</verse>
-        <verse number="51"></verse>
+        <verse number="51">***</verse>
         <verse number="52">ikšm s-dar bilaṭus iḍalb zġ-gis ddat n-yasuɛ.</verse>
         <verse number="53">izzugz-d ddat zġ-uggjdi issmuttl-tt ġ-lkttan išwan, isrs-tt-in ġ-yan-umḍḍal igan ifri ityawġza ġ-ujarif, ur-jju-n-gis-ittrs yan.</verse>
         <verse number="54">ġassan ar-tujadn mddn i-lɛid, ig ass lli-iqaman i-wass n-usunfu.</verse>
@@ -3222,7 +3222,7 @@
         <verse number="1">tiġurdin n-mayan yili yal-lɛid dar ayt-yudaya, iddu yasuɛ s-tmdint n-urušalim.</verse>
         <verse number="2">illa yan-ifrḍ ġ-urušalim ġ-tama n-imi n-uwlli, ar-as-ttinin ‹ifrḍ n-bitzata› s-wawal n-ayt-yudaya. sutln-as smmus ilḥnin.</verse>
         <verse number="3">ar-gisn-ggann imuḍan ggutnin, ibukaḍn d-ibiḍarn d-ikušamn.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">illa ġin yan-urgaz yuḍn kraḍ id-mraw d-tam (38) n-usggʷas.</verse>
         <verse number="6">lliġ-t-iẓra yasuɛ yissan izd kigan d-isggʷasn a-ġin-ign, yini-as: «is-trit a-tjjit?»</verse>
         <verse number="7">isawl-d-umaḍun yini-as: «wa-sidi, ur-dari ma-yyi-išškšamn s-ifrḍ akud nna-gis-mmussan-waman. ġakud nna-n-akmurġ s-iyi-izwar kra n-yan yaḍni igguz s-waman.»</verse>
@@ -3989,7 +3989,7 @@
         <verse number="19">sfldn fllas kullu ayt-urušalim, ar-ttinin i-igr-an s-wawal-nsn ‹ḥakal-dama›. tga lmɛna-ns ‹igr n-idammn›.</verse>
         <verse number="20">izayd bṭrus yini-asn: «ityara ġ-warra n-imurign ‹a-th̬lu-tgmmi-ns. a-ur-gis-izdġ yan.› ityara-daġ ‹a-yamẓ yan yaḍni taġamt-ns ġ-twuri.›</verse>
         <verse number="21">f-mayan a-f-d-iqqan a-nsti yan yaḍni a-didnnġ-yakka tugga f-tnkra n-siditnnġ yasuɛ zġ-lmut. iqqan-d a-ig yan zġ-willi didnnġ llanin kullu ussan lli-ġ-a-ntmunu d-siditnnġ yasuɛ, zġ-ġakud lliġ iddm ġ-waman f-ufus n-yuḥanna ar ass lli-ġ-fllannġ-ityalal.»</verse>
-        <verse number="22"></verse>
+        <verse number="22">***</verse>
         <verse number="23">awin-d sin irgazn. yan iga yusf lli-mi-ttinin barsaba (tga lknit-ns yusṭus), d-wayyaḍ iga mattyas.</verse>
         <verse number="24">ẓẓalln ilmma inin: «wa-siditnnġ, tssnt ulawn n-kullu mddn. ml-aġ ġilad manwa ġ-sin-ad a-igan ġwalli tstit</verse>
         <verse number="25">a-yamẓ taġamt ġ-twuri-ad ula tarqqast-ad lli-zġ-iḍr yahuda a-iddu s-illi-as-igan.»</verse>
@@ -4469,7 +4469,7 @@
         <verse number="36">nssn dawd ġ-uwssan-ns is-iskr ma-ira rbbi, immt ilmma ityawmḍal ġ-gr imzwura-ns, trkm ddat-ns.</verse>
         <verse number="37">imma ġwad-d-issnkr rbbi, ur-t-yudji a-irkm.</verse>
         <verse number="38">«way-aytma, nra a-tissanm lh̬bar-ad ifulkin. ašku f-ssibt n-ġwad-d-inkrn a-s-yujad rbbi a-fllawn-issitti ddnub-nnun. kullu wanna srs yumnn, ra-t-issġus zġ-kullu ġaylli mi ur-iẓḍar ššrɛ n-musa a-t-zgis-issġus.</verse>
-        <verse number="39"></verse>
+        <verse number="39">***</verse>
         <verse number="40">imma ġilad, rarat lɛaql-nnun ad-awn-ur-ijru ġmklli nnan lanbiya:</verse>
         <verse number="41">‹ẓrat a-iṭnnaẓn, ar-ttɛjjabm tthlkm. ašku rad-skrġ kra ihiyyan ġ-uwssan-nnun. iġ-illa mad-awn-fllas-innan, ur-ra-ti-tamnm.›»</verse>
         <verse number="42">iffuġ ilmma bulus d-barnaba zġ-tgmmi n-tẓallit. ḍalbn-tn mddn a-n-wrrin imal ass-an n-usunfu ad-asn-sawln s-uggʷar f-tġawsiwin-ad.</verse>
@@ -4548,7 +4548,7 @@
         <verse number="31">lliġ-tt-ġran ntni, frḥn s-iwaliwn n-irqqasn lli-s-tn-zzɛamn.</verse>
         <verse number="32">isawl ilmma yahuda d-sila s-aytmatn-an, ar-tn-zzɛamn ar-tn-ssdusn, ašku gan ula ntni zġ-willi ittinin iwaliwn nna-yasn-imala rbbi.</verse>
         <verse number="33">tigira n-ma-darsn-gawrn kra n-uwssan, safḍn-tn aytmatn s-sslamt, wrrin s-dar ġwilli-tn-uznnin.</verse>
-        <verse number="34"></verse>
+        <verse number="34">***</verse>
         <verse number="35">imma bulus d-barnaba qaman ġ-anṭakiyya, ar-sslmadn ar-tbrraḥn s-wawal n-siditnnġ ntni d-wiyyaḍ ggutnin.</verse>
         <verse number="36">yan-wass isawl bulus s-barnaba yini-as: «a-nwrri s-dar aytmatn ġ-tmdinin kullutnt lli-ġ-nbrrḥ s-wawal n-siditnnġ, a-nẓr mamnk ad-gan.»</verse>
         <verse number="37">ira barnaba ad-didsn-awin yuḥanna lli-mi-ttinin marqus.</verse>
@@ -4866,7 +4866,7 @@
         <verse number="4">imma ġilad ur-riġ a-k-ssmaṭlġ. ra-k-nḍalb ad-aġ-tskrt afulki-ad, tsfldt i-kra n-iwaliwn drusnin f-maylli darnnġ ijran.</verse>
         <verse number="5">ašku nufa-n argaz-ad iga bu-irwwayn, ar-issnkar uduy ġ-gr ayt-yudaya ġ-ddunit kullutt. iga zġ-inmġurn n-willi mi ttinin ‹ayt-naṣira›.</verse>
         <verse number="6">ġmkan a-iskar aylliġ ira a-issḥrm tigmmi n-rbbi, namẓ-t nkkʷni ġakudan.</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">iġ-ti-tsqsat ra-tissant kullu ġaylli-s-a-srs-ntaštkka.»</verse>
         <verse number="9">nkrn ilmma wiyyaḍ zġ-ayt-yudaya inin: «s-ṣṣaḥt ġmkan a-illan.»</verse>
         <verse number="10">inɛt-n lḥakm i-bulus s-ufus baš a-isawl. yini: «wa-sidi, ssnġ izd isggʷasn ggutnin ayd tḥkamt ġ-tmazirt-ad. mayad a-f-frḥġ s-uggʷar ad-rarġ awal f-mddn-ad ġ-lgddam-nnk.</verse>
@@ -5026,7 +5026,7 @@
         <verse number="26">‹ddu s-mddn-an tinit-asn, rad-bahra-tsflidm walaynni ur-ra-tfhmm ma-mi-tsfldm. rad-bahra-ttmnadm walaynni ur-ra-tissanm ma-tmnadm.</verse>
         <verse number="27">wrrin mddn-an iqqur ih̬f-nsn, ẓẓayn imzgan-nsn, qqnnt-walln-nsn. ur-rint ad-ẓrnt-walln-nsn ula sfldn imzgan-nsn ula fhmn ġ-iguyya-nsn. ur-rin ad-d-sri-wrrin a-tn-jjujjiġ.›</verse>
         <verse number="28">f-mayan a-f-rad-awn-iniġ, ajnjm-ad ifka-t rbbi ġilad i-ayt-tmizar yaḍni. ntni a-ra-srs-isfld.»</verse>
-        <verse number="29"></verse>
+        <verse number="29">***</verse>
         <verse number="30">iqama bulus ġin sin isggʷasn, izdġ ġ-tgmmi lli-ikʷra, ar-issmrḥba s-kullu wanna-n-dars-yuškan.</verse>
         <verse number="31">ar-asn-isawal s-zzɛamt f-tgldit n-rbbi, ar-tn-isslmad f-siditnnġ yasuɛ lmasiḥ, ur-t-iḥṣar yan.</verse>
       </chapter>
@@ -5036,7 +5036,7 @@
         <verse number="1">zġ-bulus ah̬ddam l-lmasiḥ yasuɛ. iġra-yyi-d iẓli-yyi ad-gġ arqqas-ns ar-tbrraḥġ s-lh̬bar ifulkin n-rbbi.</verse>
         <verse number="2">lh̬bar-ad iga ġwalli-f-uran lanbiya ġayd izrin ġ-warratn n-rbbi, imla-yasn mamnk a-ra-yili.</verse>
         <verse number="3">iga lh̬bar f-yus siditnnġ yasuɛ lmasiḥ. nttan zġ-tsga n-ddat iga zġ-tasut n-dawd. imma zġ-tsga n-rruḥ iban gis is-iga yus n-rbbi amẓlay s-tḥkimt itjhhdn lliġ-d-inkr zġ-lmut.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">f-uwdm-ns a-f-aġ-ibark rbbi ifk-aġ tarqqast-ad s-ism-ns, baš ad-amnn mddn ġ-kraygatt tamazirt skrn s-wawal-ns.</verse>
         <verse number="6">ula kunni tgam zġ-willi mi iġra rbbi ad-gn win yasuɛ lmasiḥ.</verse>
         <verse number="7">i-kullu willi-ġ-iḥnna rbbi ġ-tmdint n-ruma lli-mi-iġra ad-gn imẓlayn-ns. ad-awn-tili lbaraka d-sslamt zġ-rbbi babatnnġ d-siditnnġ yasuɛ lmasiḥ.</verse>
@@ -5285,7 +5285,7 @@
         <verse number="9">ašku rbbi ifka awal-ad izgan i-ibrahim inna-yas: «rad-d-wrriġ imal ġ-uzmz-ad, yili i-sara yan-warraw.»</verse>
         <verse number="10">walaynni illa kra yaḍni. tffuġ innatnnġ rifqa ar-trbbu s-ikniwn zġ-urgaz-ns isḥaq babatnnġ.</verse>
         <verse number="11">lliġ ur-ta-d-luln-warraḍn-an isawl rbbi s-rifqa, ur-ta-skirn kra yʷh̬šnn ula kra išwan. yini-as fllasn: «amzwaru ra-ig ah̬ddam i-wis sin.» ġmkad a-tn-ibḍa rbbi ašku iqṣad mayan, urd f-ssibt n-kra skrn ntni.</verse>
-        <verse number="12"></verse>
+        <verse number="12">***</verse>
         <verse number="13">ġmklli ityaran inna rbbi: «riġ yaɛqub, imma ɛisu ur-t-riġ.»</verse>
         <verse number="14">ma-ra-nini f-mayad? is-a-iskar rbbi s-uwdmawn? urd ġmkan a-ra-nini.</verse>
         <verse number="15">ašku inna rbbi i-musa: «rad-rḥmġ wanna riġ a-t-rḥmġ, ḥnnuġ f-wanna riġ a-fllas-ḥnnuġ.»</verse>
@@ -5452,7 +5452,7 @@
         <verse number="16">ig-iyi d-uh̬ddam l-lmasiḥ yasuɛ ġ-gr ayt-tmizar aggugnin. ar-th̬damġ zund yan-unmġur n-tgmmi n-rbbi, ar-ssakmurġ mddn n-ayt-tmizar i-rbbi s-tbrraḥt l-lh̬bar ifulkin, baš a-fllasn-irḍu rbbi iẓli-tn i-ih̬f-ns s-usġus n-rruḥ lqudus.</verse>
         <verse number="17">illa dari ma-s-a-tfraḥġ s-ism l-lmasiḥ yasuɛ ġ-twuri-ad lli-s-a-th̬damġ i-rbbi,</verse>
         <verse number="18">ašku ur-rad-zɛmġ ad-sawlġ f-yat abla ma-iskr lmasiḥ f-ufus-inu. ašku s-iwaliwn d-iskkirn d-lquwwat d-tmitar tjhhdnin ula s-tḥkimt n-rruḥ lqudus a-s-irur ayt-tmizar ad-amẓn aġaras n-rbbi. ġmkad a-s-sslkmġ lh̬bar-ns i-kullu timizar zġ-tsga n-urušalim ar tasga n-illirikun.</verse>
-        <verse number="19"></verse>
+        <verse number="19">***</verse>
         <verse number="20">hati yat-tġawsa kad-riġ: ad-tbrraḥġ s-lh̬bar ifulkin ġ-innaġ ur-jju-sfldn f-lmasiḥ, ašku ur-riġ ad-bnnuġ f-llsas n-kra n-yan yaḍni.</verse>
         <verse number="21">ġmklli ityaran: «ġwilli ur-iruḥ lh̬bar-ns a-ra-t-iẓr. ġwilli ur-fllas-sfldnin a-ra-t-yissan.»</verse>
         <verse number="22">mayan a-yyi-itkkisn aylliġ ur-a-n-ttaškiġ s-darun.</verse>
@@ -5492,7 +5492,7 @@
         <verse number="21">ar-n-fllawn-itsllam timutaws lli-didi-ith̬damn, ntta d-lukyus d-yasun d-susibatrus lli-ganin zġ-ayt-dari.</verse>
         <verse number="22">ula nkki tartyus lli-yuran tabrat-ad s-ufus-inu, ar-n-fllawn-tsllamġ s-ism n-siditnnġ.</verse>
         <verse number="23">ar-n-fllawn-itsllam gayus lli-dar gguzġ ussan-ad. tigmmi-ns a-ġ-a-tmunun kullu aytmatn n-umnaggar. ar-n-fllawn-itsllam arastus lli-igan bu-ṣnduq n-tmdint-ad, ntta ula gʷmatnnġ kwartus.</verse>
-        <verse number="24"></verse>
+        <verse number="24">***</verse>
         <verse number="25">imma ġilad, a-nalġ rbbi lli-iẓḍarn a-kʷn-izzga ġ-liman-nnun ġmklli-awn-nniġ s-lh̬bar ifulkin lli-s-a-tbrraḥġ f-lmasiḥ yasuɛ.</verse>
         <verse number="26">ašku maylli intln kullu ġayd izrin, issbayyn-t-id rbbi ġilad, iml-aġ-t ġ-warratn l-lanbiya, baš ad-wrrin amnn mddn ġ-kullu timizar n-ddunit ar-skarn s-wawal-ns, ġmklli yuṣṣa rbbi lli-bdda-illan.</verse>
         <verse number="27">rbbi lli-dar kullu taḥkimt, nttan a-bahra-ntalġ f-yasuɛ lmasiḥ ġilad ula kullu mayd-d-iftan. amin.</verse>
@@ -5934,10 +5934,10 @@
         <verse number="49">ġilad nga zund win-wakal, tigira ra-ng zund win-ignna.</verse>
         <verse number="50">riġ ad-awn-iniġ ay-aytma, ur-tẓḍar ddat n-tfiyi d-idammn a-twrt tagldit n-rbbi, ula iẓḍar ma-igan win lmut a-iwrt ma-rad-bdda-iddr.</verse>
         <verse number="51">rad-awn-iniġ kra intln. ur-rad-kullu-nmmt, walaynni rad-aġ-kullu-ibddl rbbi, ḥayna ġ-nnffar iggʷran, ur-ta-tmmussi tiṭ. ašku ra-ittut nnffar nkrn-d ġwilli mmutnin f-ad-ddrn s-tudrt idumn. ġakudan rad-aġ-ibddl.</verse>
-        <verse number="52"></verse>
+        <verse number="52">***</verse>
         <verse number="53">ašku iqqan-d ddat-ad itrkamn a-ttyawbddal s-ma-rad-bdda-idum, iqqan-d ddat-ad itmtatn a-ttyawbddal s-ma-rad-bdda-iddr.</verse>
         <verse number="54">ġakudan ġ-iwrri idum ma-itrkamn iddr ma-itmtatn, ra-yili ma-ityaran ġ-warra n-rbbi: «nnra lmut, ur-sul-fllannġ-tlli.» «wa-lmut, ma-tnrit? wa-lmut, ma-sul-issiwid-usaqs-nnm?»</verse>
-        <verse number="55"></verse>
+        <verse number="55">***</verse>
         <verse number="56">asaqs l-lmut a-t-igan d-ddnub. imma tawda n-ddnub a-stt-iskrn d-ššrɛ.</verse>
         <verse number="57">walaynni ar-bahra-ntalġ rbbi ašku ifka-yaġ a-nnru kullu mayan f-uwdm n-siditnnġ yasuɛ lmasiḥ.</verse>
         <verse number="58">way-aytma ɛzzanin, mayad a-f-rad-awn-iniġ: dusat tzgam ar-bdda-ttlhum s-twuri n-siditnnġ, tissanm is-urd bla lfaytt a-s-a-ttnhatafm s-ism n-siditnnġ.</verse>
@@ -6434,7 +6434,7 @@
         <verse number="13">ula kunni, twrrim tgam wins lliġ-kʷn-in-ilkm-wawal l-lḥqq, a-t-igan d-lh̬bar ifulkin lli-s-tnjmm. lliġ tumnm s-lmasiḥ ityawfka-yawn rruḥ lqudus lli-f-inna rbbi ra-t-ifk i-mddn-ns, baš a-tissanm izd wins a-tgam.</verse>
         <verse number="14">iga tamatart n-is-ra-issafu rbbi kullu timih̬ar lli-f-inna ra-tnt-ifk i-mddn-ns. matta ġunškad s-iggut lmjd n-rbbi, ar-t-ntalġ bahra.</verse>
         <verse number="15">f-mayad a-f-a-bdda-fllawn-tškarġ rbbi, ašku sfldġ f-mamnk a-tumnm s-siditnnġ yasuɛ, ɛzzan darun imẓlayn n-rbbi kullutn. ġakud nna-tẓallaġ ar-kʷn-d-swingimġ,</verse>
-        <verse number="16"></verse>
+        <verse number="16">***</verse>
         <verse number="17">ar-tḍalabġ babatnnġ imqqurn lli-igan rbbi n-siditnnġ yasuɛ lmasiḥ ad-awn-yakka rruḥ n-tḥkimt d-twassna baš a-ti-tissanm ġmklli iga.</verse>
         <verse number="18">ar-ti-tḍalabġ a-irẓm alln l-lɛaql-nnun, baš a-tissanm ma-iga rrja-yad iṣḥan lli-mi-kʷn-iẓli, ula lbarakat ggutnin lli-ra-ifk i-imẓlayn-ns,</verse>
         <verse number="19">ula taḥkimt-ns lli-bahra-ginnġ-itjhhdn nkkʷni lli-srs-yumnn. ašku taḥkimt lli-ginnġ-illan, tga-t-tḥkimt itjhhdn</verse>
@@ -7288,7 +7288,7 @@
         <verse number="4">izzga-t rbbi s-lmɛjizat d-lɛjayb d-lquwwat ggutnin ula s-twafkiw n-rruḥ lqudus lli-ifka i-mddn ġmklli ira.</verse>
         <verse number="5">urd lmalayka a-mi-ifka rbbi ad-tḥkamn ġ-ddunit lli-ra-yili, a-stt-igan d-ddunit l-ljdid lli-f-a-nsawal ġilad.</verse>
         <verse number="6">walaynni ġmklli inna yan ġ-warra n-rbbi: «ma-iga bnadm aylliġ a-gis-tswingimt, ula yus n-bnadm aylliġ-tt-gis-tiwit? imma kiyi tgit-t-id ġ-ddu l-lmalayka yan imikk, tfkt-as ttaj l-lmjd d-lhibt,</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">trart kullu ma-illan ġ-ddu iḍarn-ns.» ġmkad a-s-imla rbbi is-irur kullu ma-illan ġ-ddu iḍarn n-bnadm baš a-t-iḥkam. imma ġilad iban is-ur-ta-illi kullu ġ-ddu iḍarn n-bnadm.</verse>
         <verse number="9">walaynni nẓra yasuɛ lli-iwrrin illa-d ġ-ddu l-lmalayka yan imikk, nẓr-t yattuy s-lmjd d-lhibt f-ssibt l-lmut lli-s-immut a-srs-issruḥ rrḥmt n-rbbi i-kullu mddn.</verse>
         <verse number="10">rbbi a-ih̬lqn kullu ma-illan, ig kullu wins. iskr ma-ifulkin lliġ iqṣad a-imjjd anjjam-nnġ s-urfufn, irar mddn ggutnin ad-gn tarwa-ns kšmn dids s-lmjd-ns.</verse>
@@ -7851,7 +7851,7 @@
         <verse number="15">walaynni ra-n-tggaġ tiqqi-nu baš a-tiẓḍarm a-bdda-tswingimm ġ-tġawsiwin-ad ġakud lliġ ur-ra-sul-didun-iliġ.</verse>
         <verse number="16">ur-a-nbnnu f-kra n-tḥajiyin tyawskarnin s-lɛaql n-bnadm ġakud lliġ-awn-nsawl f-mamnk a-d-yuška siditnnġ yasuɛ lmasiḥ s-tḥkimt itjhhdn. ašku nkkʷni nẓra timuġra-ns,</verse>
         <verse number="17">nili dids f-uwrir amẓlay, nsfld i-wawal zġ-ignwan lliġ-d-issbayyn rbbi babatnnġ lmjd l-lmasiḥ d-lhibt-ns. isawl-d-wawal zġ-lmjd n-tattuyt inna: «ġwad iga iwi iɛzzan. frḥġ srs bahra.»</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">mayan a-darnnġ-izzgan iwaliwn l-lanbiya s-uggʷar. afulki a-ra-tskarm iġ-a-stti-ttawim ġ-mad-nnan ntni, ašku iga-wawal-nsn zund tifawt l-lqndil, ar-ittisfiw ġ-tillas ard ifaw-wass iġli-d itri n-ṣṣbaḥ ġ-uwlawn-nnun.</verse>
         <verse number="20">walaynni taġawsa ihiyyan a-stt-igan, a-tissanm is-ur-iẓḍar yan s-ih̬f-ns a-ifhm lmɛna n-mad-nnan lanbiya ġ-warratn n-rbbi.</verse>
         <verse number="21">ašku ur-d-yuški kra n-wawal n-rbbi zġ-lɛaql n-bnadm, walaynni ar-sawaln mddn-an s-iwaliwn lli-asn-d-imala rbbi ġmklli-tn-itguwwad rruḥ lqudus.</verse>
@@ -8132,7 +8132,7 @@
         <verse number="24">«imma wiyyaḍ ġ-tyatira lli-ur-umẓnin almmud-an ula lmdn ma-mi-ttinin ‹tiġawsiwin ntlnin n-šiṭan›, ur-ra-n-fllawn-zaydġ kra n-taẓayt yaḍni.</verse>
         <verse number="25">ġir amẓat ġ-ma-darun-illan ard-n-aškġ.</verse>
         <verse number="26">kullu wanna inran ar-iskar mad-riġ ar isiggʷra, rad-as-fkġ taẓḍḍart f-tmizar n-ddunit ġmklli-yyi-ifka baba rbbi. ra-tnt-iḥkam s-uɛmud n-uwzzal, irẓ-tnt zund irukutn n-idqqi.</verse>
-        <verse number="27"></verse>
+        <verse number="27">***</verse>
         <verse number="28">rad-as-fkġ itri lli-ifawn zikk ṣbaḥ.</verse>
         <verse number="29">wanna dar imzgan, iqqan-t-id a-isfld i-mayd ittini rruḥ lqudus i-imnaggarn.</verse>
       </chapter>
