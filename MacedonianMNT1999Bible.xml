@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<bible translation="Macedonian Bible 1999 (MNT)" status="Copyright © Dynamic Equivalence Translation of the New Testament in Macedonian 1999 by HBC Radosna Vest, Skopje, Macedonia. All rights reserved.">
+<?xml version="1.0" encoding="UTF-8"?>
+<bible translation="Macedonian 1999 (MNT) (Динамичен превод на Новиот завет на македонски јазик)" status="Copyright © Dynamic Equivalence Translation of the New Testament in Macedonian 1999 by HBC Radosna Vest, Skopje, Macedonia. All rights reserved." link="https://www.bible.com/bible/322/MAT.7.MNT">
 	<testament name="New">
 		<book number="40">
 			<chapter number="1">
@@ -6251,7 +6251,7 @@
 				<verse number="11">На крајот, драги пријатели христијани, сакам да бидете радосни. Стремете се кон духовна зрелост, охрабрувајте се еден со друг, трудете се да живеете во слога и мир. Тогаш Бог, Кој е извор на љубов и мир ќе биде со вас.</verse>
 				<verse number="12">Поздравете се меѓусебно со изрази на искрена љубов. Ве поздравуваат сите овдешни христијани.</verse>
 				<verse number="13">А сега, над секој од вас нека бдеат милостивата благонаклоност на нашиот Господ Исус Христос, Божјата љубов и пријателската придружба на Светиот Дух!</verse>
-				<verse number="14"></verse>
+				<verse number="14">***</verse>
 			</chapter>
 		</book>
 		<book number="48">
