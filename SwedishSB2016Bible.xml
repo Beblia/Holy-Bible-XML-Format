@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<bible translation="Swedish Bible (SB) 2016" status="Copyright © Svenskbibel, 2012, 2013, 2016 Ragnar Blomfelt">
+<?xml version="1.0" encoding="UTF-8"?>
+<bible translation="Swedish (SB) 2016 (Svenskbibel)" status="Copyright © svenskbibel, 2012, 2013, 2016 Ragnar Blomfelt" link="https://www.bible.com/bible/542/ROM.12.SB">
 	<testament name="New">
 		<book number="40">
 			<chapter number="1">
@@ -611,7 +611,7 @@
 				<verse number="18">Och Jesus tillrättavisade honom skarpt och demonen for ut ur honom, och från det ögonblicket var pojken botad.</verse>
 				<verse number="19">Då lärjungarna blev ensamma med Jesus gick de fram och frågade: ˮVarför kunde inte vi kasta ut demonen?ˮ</verse>
 				<verse number="20">Han svarade: ˮDärför att er tro är liten. Det jag säger till er är sant: Om ni har tro som ett senapskorn kan ni säga till detta berg: ʼFlytta dig härifrån och dit,ʼ och det ska flyttas. Ingenting ska vara omöjligt för er.ˮ</verse>
-				<verse number="21"></verse>
+				<verse number="21">***</verse>
 				<verse number="22">När de var samlade i Galileen sa Jesus till dem: ˮMänniskosonen ska överlämnas i människors händer</verse>
 				<verse number="23">och de ska döda honom och på tredje dagen ska han uppstå.ˮ Då blev de mycket bedrövade.</verse>
 				<verse number="24">När de kom till Kafarnaum kom de som tog upp tempelskatten fram till Petrus och frågade: ˮBetalar inte er lärare tempelskatt?ˮ</verse>
@@ -630,7 +630,7 @@
 				<verse number="8">Om din hand eller din fot får dig på fall, hugg av den och kasta den ifrån dig. Det är bättre för dig att gå in i livet stympad eller halt än att med två händer och två fötter kastas i den eviga elden.</verse>
 				<verse number="9">Och om ditt öga får dig på fall, riv ut det och kasta det ifrån dig. Det är bättre för dig att gå in i livet med ett öga än att med två ögon kastas i helveteselden.</verse>
 				<verse number="10">Se till att ni inte föraktar någon enda av dessa små. Jag säger er att deras änglar i himlen ser alltid min himmelske Faders ansikte.</verse>
-				<verse number="11"></verse>
+				<verse number="11">***</verse>
 				<verse number="12">Vad tror ni, om en man har hundra får och ett av dem går vilse, lämnar han då inte de nittionio i bergen och går och letar efter det som är borta?</verse>
 				<verse number="13">Och om han finner det — det jag säger till er är sant — han gläds mer över det fåret än över de nittionio som inte gått vilse.</verse>
 				<verse number="14">Så är det inte heller er himmelske Faders vilja att någon av dessa små ska gå förlorad.</verse>
@@ -834,7 +834,7 @@
 				<verse number="11">Den som är störst bland er ska vara de andras tjänare.</verse>
 				<verse number="12">Men den som upphöjer sig ska bli förödmjukad, och den som ödmjukar sig ska bli upphöjd.</verse>
 				<verse number="13">Fördömelse över er, skriftlärda och fariseer, ni hycklare! Ni stänger himmelriket för människor. Ni går inte in själva, och dem som är på väg dit hindrar ni att komma in.</verse>
-				<verse number="14"></verse>
+				<verse number="14">***</verse>
 				<verse number="15">Fördömelse över er, skriftlärda och fariseer, ni hycklare! Ni far över land och hav för att omvända någon, och när så har skett gör ni honom till ett helvetets barn, dubbelt värre än ni själva.</verse>
 				<verse number="16">Fördömelse över er, blinda ledare! Ni säger: ʼOm någon svär en ed vid templet betyder det ingenting, men den som svär vid guldet i templet är bunden vid sin ed.ʼ</verse>
 				<verse number="17">Ni blinda och oförståndiga, vilket är förmer: guldet, eller templet som helgar guldet?</verse>
@@ -1407,7 +1407,7 @@
 				<verse number="13">Ni upphäver Guds ord genom den tradition som ni för vidare. Och mycket annat sådant gör ni.ˮ</verse>
 				<verse number="14">Jesus kallade åter till sig folket och sa: ˮLyssna på mig allesammans och förstå:</verse>
 				<verse number="15">Inget som kommer in i människan utifrån kan göra henne oren. Det är istället det som går ut ur människan som orenar henne.ˮ</verse>
-				<verse number="16"></verse>
+				<verse number="16">***</verse>
 				<verse number="17">När han hade lämnat folket och gått in i huset frågade hans lärjungar honom om liknelsen.</verse>
 				<verse number="18">Han svarade: ˮFörstår inte ni heller? Begriper ni inte att inget som kommer in i människan utifrån kan göra henne oren?</verse>
 				<verse number="19">Det går ju inte in i hjärtat utan ner i magen och sedan sin naturliga väg.ˮ Därmed förklarade han all mat för ren.</verse>
@@ -1514,9 +1514,9 @@
 				<verse number="41">Den som räcker er en bägare vatten att dricka därför att ni tillhör Kristus — det jag säger till er är sant: Han går inte miste om sin lön.</verse>
 				<verse number="42">Den som bringar på fall en av dessa små som tror på mig, för honom vore det bättre att en kvarnsten hängdes om hans hals och han kastades i havet.</verse>
 				<verse number="43">Om din hand får dig på fall, hugg av den. Det är bättre för dig att gå in i livet stympad än att ha bägge händerna i behåll och gå till helvetet, till elden som aldrig släcks.</verse>
-				<verse number="44"></verse>
+				<verse number="44">***</verse>
 				<verse number="45">Och om din fot får dig på fall, hugg av den. Det är bättre för dig att gå in i livet halt än att ha bägge fötterna i behåll och kastas i helvetet.</verse>
-				<verse number="46"></verse>
+				<verse number="46">***</verse>
 				<verse number="47">Och om ditt öga får dig på fall, riv ut det. Det är bättre för dig att gå in i Guds rike med ett öga än att med bägge ögonen i behåll kastas i helvetet,</verse>
 				<verse number="48">där deras mask inte dör och elden inte släcks.</verse>
 				<verse number="49">För var och en ska saltas med eld.</verse>
@@ -1602,7 +1602,7 @@
 				<verse number="23">Det jag säger till er är sant: Om någon säger till detta berg: ʼUpp och kasta dig i havet,ʼ och inte tvivlar i sitt hjärta utan tror att det blir som han säger, då blir det så.</verse>
 				<verse number="24">Därför säger jag er: Allt vad ni ber om och begär, tro att ni har fått det, då blir det ert.</verse>
 				<verse number="25">Och när ni står och ber ska ni förlåta om ni har något emot någon. Då ska också er himmelske Fader förlåta er era överträdelser.ˮ</verse>
-				<verse number="26"></verse>
+				<verse number="26">***</verse>
 				<verse number="27">De kom åter till Jerusalem. Och när Jesus gick omkring på tempelplatsen kom översteprästerna och de skriftlärda och de äldste fram till honom</verse>
 				<verse number="28">och frågade: ˮMed vilken fullmakt gör du detta? Eller vem gav dig denna fullmakt att göra detta?ˮ</verse>
 				<verse number="29">Jesus sa: ˮJag har en fråga till er. Svara mig på den så ska jag säga er med vilken fullmakt jag gör detta.</verse>
@@ -1798,7 +1798,7 @@
 				<verse number="25">Det var på förmiddagen som de korsfäste honom.</verse>
 				<verse number="26">På anslaget stod vad han var anklagad för: ʼJudarnas kung.ʼ</verse>
 				<verse number="27">Tillsammans med honom korsfäste de två förbrytare, den ene till höger om honom, den andre till vänster.</verse>
-				<verse number="28"></verse>
+				<verse number="28">***</verse>
 				<verse number="29">De som gick förbi hånade honom och skakade på huvudet och sa: ˮJaså, du bryter ner templet och bygger upp det igen på tre dagar,</verse>
 				<verse number="30">fräls dig själv och stig ner från korset!ˮ</verse>
 				<verse number="31">Likaså hånade översteprästerna och de skriftlärda honom och sa: ˮAndra har han frälst, sig själv kan han inte frälsa.</verse>
@@ -1981,7 +1981,7 @@
 			</chapter>
 			<chapter number="3">
 				<verse number="1">Guds ord kom till Sakarias son Johannes i öknen. Det skedde under kejsar Tiberius femtonde regeringsår, när Pontius Pilatus var ståthållare över Judeen, Herodes tetrark över Galileen, hans bror Filippos tetrark över Itureen och Trachonitislandet, Lysanias tetrark över Abilene, och när Hannas och Kajafas var överstepräster.</verse>
-				<verse number="2"></verse>
+				<verse number="2">***</verse>
 				<verse number="3">Och Johannes gick ut i hela trakten vid Jordanfloden och förkunnade omvändelsens dop till syndernas förlåtelse.</verse>
 				<verse number="4">Som det står skrivet i boken med profeten Jesajas ord: En röst ropar i öknen: Förbered väg för Herren, gör hans stigar raka!</verse>
 				<verse number="5">Alla dalar ska fyllas och alla berg och höjder sänkas. Krokiga stigar ska rätas och ojämna vägar jämnas.</verse>
@@ -2669,7 +2669,7 @@
 				<verse number="33">Den som försöker behålla sitt liv ska mista det, men den som mister sitt liv ska bevara det.</verse>
 				<verse number="34">Jag säger er: Den natten ska två män ligga i samma säng. Den ene ska tas med och den andre ska lämnas kvar.</verse>
 				<verse number="35">Två kvinnor ska mala tillsammans. Den ena ska tas med och den andra lämnas kvar.ˮ</verse>
-				<verse number="36"></verse>
+				<verse number="36">***</verse>
 				<verse number="37">De frågade honom: ˮVar då, Herre?ˮ Han svarade dem: ˮGamarna samlas vid kroppen.ˮ</verse>
 			</chapter>
 			<chapter number="18">
@@ -2946,7 +2946,7 @@
 				<verse number="14">och sa: ˮNi har fört den här mannen till mig och sagt att han uppviglar folket. Lyssna! Jag har förhört honom i er närvaro men funnit honom vara icke skyldig till det som ni anklagar honom för.</verse>
 				<verse number="15">Likaså Herodes, och därför har han sänt honom tillbaka till oss. Alltså, han har inte gjort något som förtjänar dödsstraff.</verse>
 				<verse number="16">Därför tänker jag låta piska honom och sedan frige honom.ˮ</verse>
-				<verse number="17"></verse>
+				<verse number="17">***</verse>
 				<verse number="18">Då skrek hela hopen: ˮHa ihjäl honom! Låt oss få Barabbas fri!ˮ —</verse>
 				<verse number="19">Barabbas var en man som hade kastats i fängelse för ett upplopp i staden och för mord. —</verse>
 				<verse number="20">Pilatus ville frige Jesus och tog åter till orda.</verse>
@@ -3222,7 +3222,7 @@
 				<verse number="1">Sedan inföll en av judarnas högtider, och Jesus gick upp till Jerusalem.</verse>
 				<verse number="2">Vid Fårporten i Jerusalem finns en pool som på hebreiska heter Betsata. Den har fem pelargångar,</verse>
 				<verse number="3">och i dem låg många sjuka, blinda, halta och lama.</verse>
-				<verse number="4"></verse>
+				<verse number="4">***</verse>
 				<verse number="5">Där fanns en man som hade varit sjuk i trettioåtta år.</verse>
 				<verse number="6">Då Jesus såg honom ligga där och visste att mannen hade varit sjuk mycket länge, så frågade han: ˮVill du bli frisk?ˮ</verse>
 				<verse number="7">Den sjuke svarade: ˮHerre, jag har ingen som hjälper mig ner i poolen när vattnet kommer i rörelse. Och försöker jag själv så hinner någon annan ner före mig.ˮ</verse>
@@ -4270,7 +4270,7 @@
 				<verse number="34">Hovmannen sa till Filippos: ˮJag ber dig, berätta vem profeten talar om, sig själv eller någon annan?ˮ</verse>
 				<verse number="35">Då tog Filippos till orda och började utifrån detta skriftställe förkunna evangeliet om Jesus för honom.</verse>
 				<verse number="36">På sin färd längs vägen kom de till ett ställe med vatten. Hovmannen sa: ˮTitta, här är vatten. Vad hindrar att jag blir döpt?ˮ</verse>
-				<verse number="37"></verse>
+				<verse number="37">***</verse>
 				<verse number="38">Han såg till att stanna vagnen, och både Filippos och hovmannen steg ner i vattnet och han döpte honom.</verse>
 				<verse number="39">När de hade stigit upp ur vattnet ryckte Herrens Ande bort Filippos. Och hovmannen såg honom inte mer eftersom han fortsatte sin resa, fylld av glädje.</verse>
 				<verse number="40">Filippos fann sig ha kommit till Ashdod. Och han vandrade omkring och förkunnade evangeliet i alla städer tills han kom till Caesarea.</verse>
@@ -4547,7 +4547,7 @@
 				<verse number="31">Bröderna läste det och gladdes över det uppmuntrande beskedet.</verse>
 				<verse number="32">Judas och Silas, som även själva var profeter, uppmuntrade och styrkte bröderna med ett långt tal.</verse>
 				<verse number="33">Och sedan de hade varit där en tid sändes de tillbaka med en fridshälsning från bröderna till dem som hade sänt ut dem.</verse>
-				<verse number="34"></verse>
+				<verse number="34">***</verse>
 				<verse number="35">Men Paulus och Barnabas stannade i Antiochia. Där undervisade de och förkunnade Herrens ord med många andra.</verse>
 				<verse number="36">Efter några dagar sa Paulus till Barnabas: ˮLåt oss återvända och besöka bröderna i alla de städer där vi förkunnat Herrens ord, för att se hur de har det.ˮ</verse>
 				<verse number="37">Barnabas ville även ta med Johannes som kallades Markus.</verse>
@@ -4860,11 +4860,11 @@
 			<chapter number="24">
 				<verse number="1">Fem dagar senare kom översteprästen Ananias dit ner med några äldste och advokaten Tertullus. Dessa framförde inför ståthållaren sin sak mot Paulus.</verse>
 				<verse number="2">Då Paulus tillkallats inledde Tertullus sitt anklagelsetal: ˮHögt ärade Felix. Tack vare dig har vi fått åtnjuta fred. Och detta folk har genom dina reformer överallt och på alla sätt fått det avsevärt bättre. Detta välkomnar vi med största tacksamhet.</verse>
-				<verse number="3"></verse>
+				<verse number="3">***</verse>
 				<verse number="4">Jag ska inte uppehålla dig för länge, men jag ber dig vara god och lyssna på oss några ögonblick.</verse>
 				<verse number="5">Det har nämligen visat sig att den här mannen är en pestböld som vållar osämja bland alla judar i hela världen. Och så är han ledare för nasareernas sekt.</verse>
 				<verse number="6">Han har till och med försökt vanhelga templet, men vi grep honom.</verse>
-				<verse number="7"></verse>
+				<verse number="7">***</verse>
 				<verse number="8">När du själv förhör honom ska du få klarhet i allt som vi anklagar honom för.ˮ</verse>
 				<verse number="9">Även judarna angrep honom och menade att det förhöll sig så.</verse>
 				<verse number="10">Paulus började tala efter att ståthållaren gett honom tecken: ˮJag vet att du i många år har varit domare över detta folk, därför är det med tillförsikt jag försvarar min sak.</verse>
@@ -5024,7 +5024,7 @@
 				<verse number="26">när han sa: Gå till detta folk och säg: Ni ska lyssna och lyssna men ingenting förstå, ni ska se och se men ingenting uppfatta.</verse>
 				<verse number="27">För detta folks hjärta har blivit defekt. De lyssnar illa med sina öron och de sluter sina ögon. Så sker för att de inte ska se med ögonen, lyssna med öronen och förstå med hjärtat och vända om och bli botade av mig.</verse>
 				<verse number="28">Därför ska ni veta att denna Guds frälsning har blivit sänd till hednafolken. Och de kommer att lyssna.ˮ</verse>
-				<verse number="29"></verse>
+				<verse number="29">***</verse>
 				<verse number="30">Paulus bodde i två hela år i egen hyrd bostad och välkomnade alla som besökte honom.</verse>
 				<verse number="31">Utan restriktioner förkunnade han Guds rike och undervisade med stor frimodighet om Herren Jesus Kristus.</verse>
 			</chapter>
@@ -5490,7 +5490,7 @@
 				<verse number="21">Min medarbetare Timotheos hälsar er, liksom mina landsmän Lucius, Jason och Sosipatros.</verse>
 				<verse number="22">Jag, Tertius, som skrivit detta brev, hälsar er i Herren.</verse>
 				<verse number="23">Gaius, min och hela församlingens värd, hälsar er, liksom Erastos, stadens kassör, och brodern Quartus.</verse>
-				<verse number="24"></verse>
+				<verse number="24">***</verse>
 				<verse number="25">Till honom som förmår styrka er genom mitt evangelium och Jesu Kristi budskap — enligt den uppenbarade hemlighet som under tidsåldrar varit dold</verse>
 				<verse number="26">men nu har synliggjorts och genom profetiska Skrifter på den evige Gudens befallning gjorts känd för alla folkslag för att föra dem till trons lydnad —</verse>
 				<verse number="27">till Gud som ensam är vis. Äran tillhör honom genom Jesus Kristus i all evighet. Amen.</verse>
@@ -5756,7 +5756,7 @@
 			</chapter>
 			<chapter number="11">
 				<verse number="1">Jag berömmer er för att ni minns mig i allt och håller fast vid de lärotraditioner som jag överlämnade åt er.</verse>
-				<verse number="2"></verse>
+				<verse number="2">***</verse>
 				<verse number="3">Men jag vill att ni ska förstå att Kristus är varje mans huvud, och att mannen är kvinnans huvud, och att Gud är Kristi huvud.</verse>
 				<verse number="4">Varje man som ber eller profeterar med något på huvudet vanärar sitt huvud.</verse>
 				<verse number="5">Men varje kvinna som ber eller profeterar utan något på huvudet vanärar sitt huvud. För det är som att ha håret avrakat.</verse>
@@ -6672,7 +6672,7 @@
 				<verse number="21">Han ska förvandla vår ömkliga kropp så att den blir lik den kropp han har i sin härlighet, med den kraft han har att lägga allt under sig. 4:1 Stå därför stadigt i Herren, mina kära och efterlängtade bröder, min glädje och min segerkrans, mina älskade.</verse>
 			</chapter>
 			<chapter number="4">
-				<verse number="1"></verse>
+				<verse number="1">***</verse>
 				<verse number="2">Jag uppmanar Euodia och Syntyche att leva i samförstånd i Herren.</verse>
 				<verse number="3">Ja, även dig, vänfaste Syzygos, ber jag: hjälp dem, de har kämpat för evangeliet med mig och med Clemens och mina andra medarbetare, som har sina namn i livets bok.</verse>
 				<verse number="4">Gläd er alltid i Herren. Åter vill jag säga: gläd er.</verse>
@@ -6782,7 +6782,7 @@
 				<verse number="25">För den som gör orätt ska få igen för vad han gjort, utan anseende till person. 4:1 Ni herrar, behandla era slavar rättvist och korrekt, då ni vet att även ni har en Herre i himlen.</verse>
 			</chapter>
 			<chapter number="4">
-				<verse number="1"></verse>
+				<verse number="1">***</verse>
 				<verse number="2">Var uthålliga i bönen, vaka i den under tacksägelse.</verse>
 				<verse number="3">Be även för oss att Gud öppnar en dörr för ordet, så att vi kan tala Kristus-hemligheten för vars skull jag är fånge.</verse>
 				<verse number="4">Be att jag gör den känd och talar så som det åligger mig.</verse>

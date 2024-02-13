@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<bible translation="Swahili Bible (TKU) 2017" status="Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi Toleo la Awali © 2017 Bible League International">
+<?xml version="1.0" encoding="UTF-8"?>
+<bible translation="Swahili (TKU) 2017 (Jipya: Tafsiri ya Kusoma-Kwa-Urahisi)" status="Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi Toleo la Awali © 2017 Bible League International" link="https://www.bible.com/bible/2484/MAT.3.TKU">
 	<testament name="New">
 		<book number="40">
 			<chapter number="1">
@@ -611,7 +611,7 @@
 				<verse number="18">Yesu akamwamuru pepo aliye ndani ya kijana, na pepo akamtoka na yule kijana akapona.</verse>
 				<verse number="19">Kisha wafuasi wakamjia Yesu wakiwa peke yao. Wakasema, “Tulijaribu kumtoa pepo kwa kijana, lakini tulishindwa. Kwa nini tulishindwa kumtoa pepo?”</verse>
 				<verse number="20">Yesu akajibu, “Mlishindwa kumtoa pepo kwa sababu imani yenu ni ndogo sana. Niaminini ninapowaambia, imani yenu ikiwa na ukubwa wa mbegu ya haradali mtaweza kuuambia mlima huu, ‘Ondoka hapa na uende kule,’ nao utaondoka. Nanyi mtaweza kufanya jambo lolote.”</verse>
-				<verse number="21"></verse>
+				<verse number="21">***</verse>
 				<verse number="22">Baadaye, wafuasi walipokusanyika pamoja Galilaya, Yesu aliwaambia, “Mwana wa Adamu atakabidhiwa kwenye mamlaka ya watu wengine,</verse>
 				<verse number="23">watakaomwua. Lakini atafufuliwa kutoka kwa wafu siku ya tatu.” Wafuasi waliposikia kuwa Yesu angeuawa walihuzunika sana.</verse>
 				<verse number="24">Yesu na wafuasi wake walikwenda Kapernaumu. Walipofika huko watu waliokuwa wakikusanya ushuru wa Hekalu wakamwendea Petro na kumwuliza, “Je, mwalimu wenu hulipa kodi ya Hekalu?”</verse>
@@ -630,7 +630,7 @@
 				<verse number="8">Mkono au mguu wako ukikufanya utende dhambi, ukate na uutupe. Ni bora ukapoteza kiungo kimoja cha mwili wako na ukaupata uzima wa milele kuliko kuwa na mikono au miguu miwili na ukatupwa katika moto wa milele.</verse>
 				<verse number="9">Jicho lako likikufanya utende dhambi, ling'oe na ulitupe. Ni bora kwako kuwa na jicho moja tu na ukaupata uzima wa milele kuliko kuwa na macho mawili na ukatupwa katika moto wa Jehanamu.</verse>
 				<verse number="10">Iweni waangalifu, msidhani kuwa watoto hawa wadogo si wa muhimu. Ninawaambia kuwa watoto hawa wana malaika mbinguni. Na hao malaika daima wako pamoja na Baba yangu mbinguni.</verse>
-				<verse number="11"></verse>
+				<verse number="11">***</verse>
 				<verse number="12">Mtu akiwa na kondoo 100, lakini mmoja wa kondoo akapotea, atafanya nini? Atawaacha kondoo wengine 99 kwenye kilima na kwenda kumtafuta mmoja aliyepotea. Sawa?</verse>
 				<verse number="13">Na akimpata kondoo aliyepotea, atafurahi kwa sababu ya kondoo huyo mmoja kuliko kondoo wengine 99 ambao hawakupotea. Ninaweza kuwathibitishia,</verse>
 				<verse number="14">Kwa namna hiyo hiyo, Baba yenu wa mbinguni hapendi mmoja wa watoto hawa wadogo apotee.</verse>
@@ -834,7 +834,7 @@
 				<verse number="11">Kila atakayetumika kama mtumishi ndiyo mkuu zaidi kati yenu.</verse>
 				<verse number="12">Wanaojifanya kuwa bora kuliko wengine watanyenyekezwa kwa lazima. Lakini watu wanaojinyenyekeza wenyewe watafanywa kuwa wakuu.</verse>
 				<verse number="13">Ole wenu walimu wa sheria nanyi Mafarisayo! Ninyi ni wanafiki! Mnawafungia watu njia ya kuingia katika ufalme wa Mungu, kwa kuwa ninyi wenyewe hamwingii na mnawazuia wale wanaojaribu kuingia.</verse>
-				<verse number="14"></verse>
+				<verse number="14">***</verse>
 				<verse number="15">Ole wenu walimu wa sheria nanyi Mafarisayo! Ninyi ni wanafiki. Mnasafiri kuvuka bahari na nchi nyingine ili kumtafuta mtu mmoja atakayefuata njia zenu. Mnapompata mtu huyo, mnamfanya astahili maradufu kwenda Jehanamu kama ninyi mlivyo!</verse>
 				<verse number="16">Ole wenu walimu wa sheria nanyi Mafarisayo! Mnawaongoza watu lakini ninyi wenyewe ni wasiyeona. Mnasema, ‘Mtu yeyote akiweka kiapo au nadhiri kwa jina la Hekalu, haimaanishi kitu. Lakini yeyote atakayeweka kiapo kwa kutumia dhahabu iliyo Hekaluni lazima atimize nadhiri au kiapo hicho.’</verse>
 				<verse number="17">Ninyi ni wasiyeona mlio wajinga! Hamwoni kuwa Hekalu ni kuu kuliko dhahabu iliyo ndani yake? Hekalu ndilo huifanya dhahabu kuwa takatifu!</verse>
@@ -1407,7 +1407,7 @@
 				<verse number="13">Kwa hiyo unalifanya neno la Mungu kuwa batili kwa desturi mlizozirithishana. Na mnafanya mambo mengi mengine yanayofanana na hayo.”</verse>
 				<verse number="14">Yesu akaliita lile kundi kwake na kuwaambia, “Kila mmoja anisikilize na kunielewa.</verse>
 				<verse number="15">Hakuna kitu kilicho nje ya mtu kinachoweza kumchafua kwa kumwingia. Lakini vitu vinavyotoka ndani ya mtu ndivyo vinavyomchafua.”</verse>
-				<verse number="16"></verse>
+				<verse number="16">***</verse>
 				<verse number="17">Na alipoliacha lile kundi na kuingia ndani ya nyumba, wanafunzi wake wakamwuliza juu ya fumbo lile.</verse>
 				<verse number="18">Na akawaambia, “Hata nanyi hamuelewi pia? Je, hamuelewi ya kuwa hakuna kinachomwingia mtu kutoka nje kinachoweza kumchafua mtu?</verse>
 				<verse number="19">Kwa sababu hakiingii ndani ya moyo wake bali kinaenda tumboni mwake na kasha kinatoka na kwenda chooni.” Kwa kuyasema hayo alivifanya vyakula vyote kuwa safi.</verse>
@@ -1514,9 +1514,9 @@
 				<verse number="41">Yeyote anayewapa ninyi kikombe cha maji kwa sababu ninyi ni wake Kristo. Hakika ninawaambia ukweli kwamba, hatapoteza thawabu yake.</verse>
 				<verse number="42">Yeyote anayemsababisha mmoja wa hawa walio wadogo ambao wananiamini mimi kujikwaa na kuanguka, itakuwa bora kwake ikiwa atatupwa baharini huku amefungwa jiwe la kusagia shingoni mwake.</verse>
 				<verse number="43">Ikiwa mkono wako unakusababisha ufanye dhambi, ukate. Ni bora kwako kuingia katika uzima wa milele ukiwa na mkono mmoja kuliko kuwa na mikono miwili na kuenda Jehanamu, ambako kuna moto usiozimika.</verse>
-				<verse number="44"></verse>
+				<verse number="44">***</verse>
 				<verse number="45">Na ikiwa mguu wako utakusababisha ufanye dhambi, ukate. Ni bora kwako kuingia katika uzima wa milele ukiwa mlemavu kuliko kuwa na miguu miwili na kutupwa Jehanamu.</verse>
-				<verse number="46"></verse>
+				<verse number="46">***</verse>
 				<verse number="47">Na kama jicho lako litakusababisha ufanye dhambi, liondoe. Ni bora uingie katika Ufalme wa Mungu ukiwa na jicho moja kuliko kuwa nayo macho mawili na kutupwa Jehanamu,</verse>
 				<verse number="48">ambapo waliomo watatafunwa na funza wasiokufa na kuchomwa na moto usiozimika kamwe.</verse>
 				<verse number="49">Kwa kuwa kila mmoja atatiwa chumvi kwa moto.</verse>
@@ -1602,7 +1602,7 @@
 				<verse number="23">Nawaambia kweli: Yeyote atakayeuambia mlima huu, ‘Ng'oka na ukajitupe katika bahari’; kama asipokuwa na mashaka moyoni mwake, Lakini akaamini kuwa kile anachokisema kitatokea, huyo atatendewa hayo.</verse>
 				<verse number="24">Kwa sababu hiyo nawaambia chochote mtakachoomba katika sala, muamini kwamba mmekipokea na haja mliyoiomba nayo itakuwa yenu,</verse>
 				<verse number="25">Na wakati wowote mnaposimama kuomba, mkiwa na neno lolote kinyume na mtu mwingine, mmsamehe mtu huyo. Na Baba yenu aliye mbinguni naye atawasamehe ninyi dhambi zenu.”</verse>
-				<verse number="26"></verse>
+				<verse number="26">***</verse>
 				<verse number="27">Yesu na wanafunzi wake walirudi Yerusalemu. Na walipokuwa wakitembea ndani ya viwanja vya Hekalu, viongozi wa makuhani, walimu wa Sheria na wazee walimjia Yesu</verse>
 				<verse number="28">na kumwuliza, “Kwa mamlaka gani unafanya vitu hivi? Nani alikupa mamlaka ya kuvifanya?”</verse>
 				<verse number="29">Yesu akawaambia, “Nitawauliza swali, na mkinijibu, ndipo nitawaeleza kwa mamlaka gani ninafanya vitu hivi.</verse>
@@ -1798,7 +1798,7 @@
 				<verse number="25">Ilikuwa saa tatu asubuhi walipompigilia kwa misumari msalabani.</verse>
 				<verse number="26">Ilani ya mashtaka dhidi yake ilikuwa na maandishi haya juu yake: “MFALME WA WAYAHUDI.”</verse>
 				<verse number="27">Hapo waliwapigilia msalabani wahalifu wawili pembeni mwa Yesu, mmoja kushoto kwake na mwingine kuume kwake.</verse>
-				<verse number="28"></verse>
+				<verse number="28">***</verse>
 				<verse number="29">Watu waliopita mahali pale walimtukana. Walitikisa vichwa vyao na kusema, “Haya! Wewe ndiye yule awezaye kuliharibu hekalu na kulijenga tena kwa siku tatu.</verse>
 				<verse number="30">Hebu shuka msalabani na uyaokoe maisha yako.”</verse>
 				<verse number="31">Kwa njia hiyo hiyo, viongozi wa makuhani na walimu wa Sheria walimfanyia dhihaka na wakasema wao kwa wao, “Aliwaokoa wengine lakini hawezi kujiokoa mwenyewe!</verse>
@@ -1870,7 +1870,7 @@
 				<verse number="24">Wakati fulani baadaye, Elizabeti, mke wa Zakaria akawa mjamzito. Alikaa katika nyumba yake na hakutoka nje kwa miezi mitano. Alisema,</verse>
 				<verse number="25">“Na sasa, hatimaye Bwana amenisaidia kwa kuniondolea aibu yangu.”</verse>
 				<verse number="26">Mwezi wa sita wa ujauzito wa Elizabeti, Mungu alimtuma malaika Gabrieli kwa msichana mmoja bikira aliyeishi Nazareti, mji wa Galilaya. Msichana huyo alikuwa amechumbiwa na Yusufu mzaliwa katika ukoo wa Daudi. Jina la bikira huyo lilikuwa Mariamu.</verse>
-				<verse number="27"></verse>
+				<verse number="27">***</verse>
 				<verse number="28">Malaika alimwendea na kusema “Salamu! Bwana yu pamoja nawe; Kwa kuwa neema yake iko juu yako.”</verse>
 				<verse number="29">Lakini, Mariamu alichanganyikiwa kutokana na yale aliyosema malaika. Akajiuliza, “Salamu hii ina maana gani?”</verse>
 				<verse number="30">Malaika akamwambia, “Usiogope Mariamu, kwa kuwa neema ya Mungu iko juu yako.</verse>
@@ -2045,7 +2045,7 @@
 				<verse number="23">Yesu akawaambia, “Ninafahamu mtaniambia mithali hii ya zamani: ‘Daktari, jitibu mwenyewe.’ Mnataka kusema ‘Tulisikia mambo yote uliyotenda Kapernaumu. Yatende pia hapa katika mji wako mwenyewe!’”</verse>
 				<verse number="24">Lakini Yesu akasema, “Ukweli ni huu, nabii hakubaliki katika mji wa kwao.</verse>
 				<verse number="25">Wakati wa Eliya mvua haikunyesha katika Israeli kwa miaka mitatu na nusu. Chakula hakikuwepo mahali popote katika nchi yote. Palikuwa wajane wengi katika Israeli wakati huo. Lakini Eliya hakutumwa kwenda kwa mmoja wa wajane waliokuwa katika Israeli bali kwa mjane aliyekuwa katika mji wa Sarepta, jirani na Sidoni.</verse>
-				<verse number="26"></verse>
+				<verse number="26">***</verse>
 				<verse number="27">Na, palikuwa wenye ugonjwa mbaya wa ngozi wengi walioishi katika Israeli wakati wa nabii Elisha, lakini hakuna aliyeponywa isipokuwa Naamani, aliyetoka katika nchi ya Shamu, siyo Israeli.”</verse>
 				<verse number="28">Watu wote waliposikia hili, walikasirika sana.</verse>
 				<verse number="29">Wakasimama na kumlazimisha Yesu atoke nje ya mji. Mji wao ulijengwa juu ya kilima. Wakamchukua Yesu mpaka ukingo wa kilima ili wamtupe.</verse>
@@ -2074,7 +2074,7 @@
 				<verse number="6">Walipofanya hivi, nyavu zao zilijaa samaki wengi mpaka zikaanza kuchanika.</verse>
 				<verse number="7">Waliwaita rafiki zao waliokuwa katika mashua nyingine ili waje wawasaidie. Rafiki zao walikuja kuwasaidia, na mashua zote mbili zilijaa samaki kiasi cha kutaka kuzama.</verse>
 				<verse number="8">Wavuvi wote walistaajabu kwa sababu ya wingi wa samaki waliovua. Simoni Petro alipoona hili, akapiga magoti mbele ya Yesu na akasema, “Nenda mbali nami Bwana, mimi ni mwenye dhambi!”</verse>
-				<verse number="9"></verse>
+				<verse number="9">***</verse>
 				<verse number="10">Yakobo na Yohana wana wa Zebedayo, walishangaa pia. (Yakobo na Yohana walikuwa wanavua pamoja na Simoni.) Yesu akamwambia Simoni, “Usiogope. Kuanzia sasa kazi yako haitakuwa kuvua samaki bali kukusanya watu!”</verse>
 				<verse number="11">Wakaziendesha mashua zao mpaka pwani, kisha wakaacha kila kitu na kumfuata Yesu.</verse>
 				<verse number="12">Wakati mmoja Yesu alikuwa katika mji ambao mwanaume mmoja mgonjwa alikuwa anaishi. Mwanaume huyo alikuwa na ugonjwa mbaya sana wa ngozi mwili wake wote. Alipomwona Yesu, alimsujudia na kumsihi akisema, “Bwana, ikiwa unataka una uwezo wa kuniponya.”</verse>
@@ -2089,7 +2089,7 @@
 				<verse number="21">Walimu wa sheria na Mafarisayo wakaanza kuhojiana wao kwa wao wakisema: “Huyu mtu ni nani kiasi cha kuthubutu kusema hivi? Si anamtukana Mungu! Mungu peke yake ndiye anayesamehe dhambi.”</verse>
 				<verse number="22">Lakini Yesu alijua walichokuwa wanawaza, akawaambia: “Kwa nini mna maswali haya mioyoni mwenu?</verse>
 				<verse number="23">Wakati akiwa duniani Mwana wa Adamu anayo mamlaka ya kusamehe dhambi. Lakini nitawezaje kulithibitisha hili kwenu? Pengine mnafikiri ilikuwa rahisi kwangu kumwambia mtu huyu aliyepooza, ‘Dhambi zako zimesamehewa.’ Kwa sababu hilo haliwezi kuthibitishwa kwamba hakika limetokea. Lakini vipi nikimwambia, mtu huyu, beba machela yako na utembee? Hapo ndipo mtakapoweza kuona kama kweli ninayo mamlaka hayo ama sina.” Kwa hiyo Yesu akamwambia mtu yule aliyepooza, “Nitalithibitishaje hili kwako? Ninakwambia hivi, Inuka! Beba machela yako uende nyumbani!”</verse>
-				<verse number="24"></verse>
+				<verse number="24">***</verse>
 				<verse number="25">Yule mtu akasimama saa ile ile mbele ya kila mtu. Akaubeba machela yake na kwenda nyumbani kwake, akimsifu Mungu.</verse>
 				<verse number="26">Kila mtu alishangaa na kuanza kumsifu Mungu. Wakajawa na hofu kuu baada ya kuiona nguvu ya Mungu. Wakasema, “Leo tumeona mambo ya kushangaza!”</verse>
 				<verse number="27">Baada ya hayo Yesu alitoka nje akamwona mtoza ushuru amekaa sehemu yake ya kukusanyia ushuru. Jina lake aliitwa Lawi. Yesu akamwambia, “Nifuate!”</verse>
@@ -2238,7 +2238,7 @@
 				<verse number="26">Yesu na wafuasi wake wakasafiri mpaka katika nchi walimoishi Wagerasi iliyokuwa ng'ambo ya ziwa Galilaya.</verse>
 				<verse number="27">Yesu alipotoka katika mashua, mwanaume mmoja kutoka katika mji ule alimwendea. Mtu huyu alikuwa na mapepo ndani yake. Kwa muda mrefu hakuwahi kuvaa nguo na aliishi makaburini.</verse>
 				<verse number="28">Pepo aliyekuwa ndani yake alikuwa akimpagaa mara nyingi na alikuwa akifungwa gerezani, mikono na miguu yake ikiwa imefungwa kwa minyororo. Lakini kila mara aliivunja. Pepo ndani yake alikuwa anamlazimisha kwenda nje ya mji mahali pasipoishi watu. Yesu alimwamuru kumtoka mtu yule. Alipomwona Yesu, alianguka mbele yake huku akipiga kelele kwa sauti, “Unataka nini kwangu, Yesu, Mwana wa Mungu Mkuu Aliye Juu? Tafadhali usiniadhibu!”</verse>
-				<verse number="29"></verse>
+				<verse number="29">***</verse>
 				<verse number="30">Yesu akamwuliza, “Jina lako nani?” Mtu yule akajibu, “Jeshi.” (Alisema jina lake ni “Jeshi” kwa sababu pepo wengi walikuwa wamemwingia.)</verse>
 				<verse number="31">Pepo wale wakamsihi Yesu asiwaamuru kwenda shimoni.</verse>
 				<verse number="32">Katika kilima kile, kulikuwa kundi kubwa la nguruwe wakichungwa. Pepo wakamsihi Yesu awaruhusu wawaingie wale nguruwe. Hivyo Yesu akawaruhusu.</verse>
@@ -2251,7 +2251,7 @@
 				<verse number="39">“Rudi nyumbani, ukawaeleze watu mambo ambayo Mungu amekutendea.” Hivyo mtu yule alikwenda sehemu zote za mji akieleza mambo ambayo Yesu amemtendea.</verse>
 				<verse number="40">Yesu aliporudi Galilaya, watu walimkaribisha. Kila mtu alikuwa anamsubiri.</verse>
 				<verse number="41">Mtu mmoja jina lake Yairo, aliyekuwa mkuu wa sinagogi alimwendea. Alikuwa na binti mmoja tu mwenye umri wa miaka kumi na mbili na alikuwa mgonjwa sana katika hali ya kufa. Hivyo Yairo alisujudu miguuni pa Yesu na akamsihi aende nyumbani kwake. Yesu alipokuwa akienda nyumbani kwa Yairo, watu walimzonga kila upande.</verse>
-				<verse number="42"></verse>
+				<verse number="42">***</verse>
 				<verse number="43">Mwanamke aliyekuwa akitokwa damu kwa miaka kumi na mbili alikuwepo katika umati huo. Alikuwa ametumia mali zake zote kwa madaktari, lakini hakuna daktari aliyeweza kumponya.</verse>
 				<verse number="44">Alikwenda nyuma ya Yesu na kugusa pembe ya vazi lake. Wakati huo huo damu ikaacha kumtoka.</verse>
 				<verse number="45">Ndipo Yesu akasema, “Nani amenigusa?” Kila mtu alikataa kuwa hajamgusa, Petro akasema, “Mkuu, watu wamekuzunguka na wanakuzongazonga kila upande.”</verse>
@@ -2381,7 +2381,7 @@
 				<verse number="3">Utupe chakula tunachohitaji kila siku.</verse>
 				<verse number="4">Utusamehe dhambi zetu, kama tunavyomsamehe kila mtu anayetukosea. Na usiruhusu tukajaribiwa.’”</verse>
 				<verse number="5">Kisha Yesu akawaambia, “Chukulia mmoja wenu angekwenda kwa rafiki yake usiku na kumwambia, ‘Rafiki yangu aliyekuja mjini amekuja kunitembelea. Lakini sina chakula cha kumpa ili ale. Tafadhali nipe mikate mitatu.’</verse>
-				<verse number="6"></verse>
+				<verse number="6">***</verse>
 				<verse number="7">Rafiki yako ndani ya nyumba akajibu, ‘Nenda zako! Usinisumbue! Mlango umefungwa. Mimi na watoto wangu tumeshapanda kitandani kulala. Siwezi kuamka ili nikupe kitu chochote kwa sasa.’</verse>
 				<verse number="8">Ninawaambia, urafiki unaweza usimfanye aamke akupe kitu chochote. Lakini hakika ataamka ili akupe unachohitaji ikiwa utaendelea kumwomba.</verse>
 				<verse number="9">Hivyo ninawaambia, Endeleeni kuomba na Mungu atawapa. Endeleeni kutafuta na mtapata. Endeleeni kubisha milangoni, na milango itafunguliwa kwa ajili yenu.</verse>
@@ -2669,7 +2669,7 @@
 				<verse number="33">Kila atakayejaribu kutunza maisha aliyonayo atayaangamiza. Lakini yeyote atakayeyasalimisha maisha yake atayaokoa.</verse>
 				<verse number="34">Usiku ule watu wawili wataweza kuwa wamelala katika chumba kimoja, mmoja atachukuliwa na mwingine ataachwa.</verse>
 				<verse number="35">Wanawake wawili watakuwa wanasaga nafaka pamoja, mmoja atachukuliwa na mwingine ataachwa.”</verse>
-				<verse number="36"></verse>
+				<verse number="36">***</verse>
 				<verse number="37">Wafuasi wake wakamuuliza, “Hii itakuwa wapi Bwana?” Yesu akajibu, “Ni kama kuutafuta mzoga, utaupata pale ambapo tai wamekusanyika.”</verse>
 			</chapter>
 			<chapter number="18">
@@ -2896,7 +2896,7 @@
 				<verse number="37">Maandiko yanasema, ‘Alidhaniwa kuwa mhalifu.’ Maandiko haya lazima yatimizwe. Yaliyoandikwa kuhusu mimi yanatimilika sasa.”</verse>
 				<verse number="38">Wafuasi wakasema, “Tazama Bwana, hapa kuna panga mbili.” Yesu akawaambia, “Nyamazeni, acheni mazungumzo ya namna hiyo!”</verse>
 				<verse number="39">Yesu akaondoka mjini akaenda Mlima wa Mizeituni. Wafuasi wake wakaenda pamoja naye. (Alikuwa akienda huko mara kwa mara.) Akawaambia wafuasi wake, “Ombeni ili mtiwe nguvu msije mkajaribiwa.”</verse>
-				<verse number="40"></verse>
+				<verse number="40">***</verse>
 				<verse number="41">Kisha Yesu akaenda kama hatua hamsini mbali nao. Akapiga magoti na akaomba akisema,</verse>
 				<verse number="42">“Baba, ukiwa radhi, tafadhali usinifanye ninywe katika kikombe hiki. Lakini fanya unalotaka wewe, siyo ninalotaka mimi.”</verse>
 				<verse number="43">Kisha malaika kutoka mbinguni akaja akamtia nguvu.</verse>
@@ -2946,7 +2946,7 @@
 				<verse number="14">Akawaambia, “Mlimleta mtu huyu kwangu. Mlisema alikuwa anawapotosha watu. Lakini nimemchunguza mbele yenu nyote na sijaona hatia juu ya kitu chochote mnachomshitakia.</verse>
 				<verse number="15">Hata Herode hakumwona kuwa ana hatia yo yote. Akamrudisha kwetu. Tazameni, hajafanya jambo lolote baya linalostahili adhabu ya kifo.</verse>
 				<verse number="16">Kwa hiyo, baada ya kumwadhibu kidogo nitamwacha aende zake.”</verse>
-				<verse number="17"></verse>
+				<verse number="17">***</verse>
 				<verse number="18">Lakini wote walipaza sauti zao pamoja, “Mwue! Mwachie huru Baraba!”</verse>
 				<verse number="19">(Baraba alifungwa gerezani kwa sababu ya kuanzisha fujo mjini na kwa mauaji.)</verse>
 				<verse number="20">Pilato alitaka amwachie huru Yesu. Hivyo Pilato akawaambia atamwachilia.</verse>
@@ -2980,7 +2980,7 @@
 				<verse number="48">Watu wengi walikuwa wametoka mjini kuja kuona tukio hili. Walipoona, wakahuzunika, wakaondoka wakiwa wanapiga vifua vyao.</verse>
 				<verse number="49">Watu waliokuwa marafiki wa karibu wa Yesu walikuwepo pale. Pia, walikuwepo baadhi ya wanawake waliomfuata Yesu kutoka Galilaya. Walisimama mbali kutoka msalabani, waliyaona mambo haya.</verse>
 				<verse number="50">Mtu mmoja aliyeitwa Yusufu kutoka mji wa Uyahudi ulioitwa Arimathaya alikuwapo pale. Alikuwa mtu mwema, aliyeishi namna Mungu alivyotaka. Alikuwa anausubiri ufalme wa Mungu uje. Yusufu alikuwa mjumbe wa baraza la Kiyahudi. Lakini hakukubali pale viongozi wengine wa Kiyahudi walipoamua kumwua Yesu.</verse>
-				<verse number="51"></verse>
+				<verse number="51">***</verse>
 				<verse number="52">Alikwenda kwa Pilato na kumwomba mwili wa Yesu.</verse>
 				<verse number="53">Aliushusha mwili kutoka msalabani na kuufunga kwenye nguo. Kisha akauweka ndani ya kaburi lililochimbwa katika ukuta wa mwamba. Kaburi hili lilikuwa halijatumika bado.</verse>
 				<verse number="54">Ilikuwa jioni Siku ya Maandalizi ya Sabato. Sabato ilikuwa ianze baada ya jua kuzama.</verse>
@@ -3035,7 +3035,7 @@
 				<verse number="45">Kisha Yesu akawafafanulia Maandiko ili waelewe maana yake halisi.</verse>
 				<verse number="46">Yesu akawaambia, “Imeandikwa kuwa Masihi atauawa na atafufuka kutoka kwa wafu siku ya tatu.</verse>
 				<verse number="47">Mliona mambo haya yakitokea, ninyi ni mashahidi. Na maandiko yanasema inawapasa mwende na kuwahubiri watu kuwa ni lazima wabadilike na kumgeukia Mungu, ili awasamehe. Ni lazima mwanzie Yerusalemu na mhubiri ujumbe huu kwa jina langu kwa watu wa mataifa yote.</verse>
-				<verse number="48"></verse>
+				<verse number="48">***</verse>
 				<verse number="49">Kumbukeni kwamba nitamtuma kwenu yule ambaye Baba yangu aliahidi. Kaeni jijini mpaka mtakapopewa nguvu hiyo kutoka mbinguni.”</verse>
 				<verse number="50">Yesu akawaongoza wafuasi wake kutoka nje ya Yerusalemu hadi karibu na Bethania. Akanyenyua mikono yake na kuwabariki wafuasi wake.</verse>
 				<verse number="51">Alipokuwa anawabariki, alitenganishwa nao na kuchukuliwa mbinguni.</verse>
@@ -3077,8 +3077,8 @@
 				<verse number="30">Huyu ndiye niliyezungumza habari zake niliposema, “Kuna mtu anayekuja baada yangu aliye mkuu zaidi yangu, kwa sababu yeye aliishi muda mrefu kabla ya kuzaliwa kwangu.”</verse>
 				<verse number="31">Nami sikumjua yeye ni nani. Lakini nilikuja kuwabatiza watu kwa maji ili watu wa Israeli waelewe kuwa huyo ndiye Masihi.</verse>
 				<verse number="32">Kisha Yohana akasema maneno yafuatayo ili kila mtu asikie, “Mimi pia sikujua nani hasa alikuwa Masihi. Lakini yule aliyenituma kubatiza aliniambia, ‘Utamwona Roho akishuka na kutua kwa mtu. Huyo ndiye atakayewabatiza watu kwa Roho Mtakatifu.’ Nami nimeyaona haya yakitokea. Nilimwona Roho akishuka kutoka mbinguni kama njiwa na kutulia juu ya mtu huyu. Hivyo haya ndiyo ninayowaambia watu: ‘Yeye huyo ndiye Mwana wa Mungu.’”</verse>
-				<verse number="33"></verse>
-				<verse number="34"></verse>
+				<verse number="33">***</verse>
+				<verse number="34">***</verse>
 				<verse number="35">Siku iliyofuata Yohana alirejea tena mahali hapo pamoja na wafuasi wake wawili.</verse>
 				<verse number="36">Naye akamwona Yesu akitembea, hivyo akasema, “Angalieni, Mwanakondoo wa Mungu!”</verse>
 				<verse number="37">Wale wafuasi wake wawili walimsikia Yohana akisema haya, basi wakaondoka na kumfuata Yesu.</verse>
@@ -3514,7 +3514,7 @@
 				<verse number="12">Mtumishi anayelipwa ili kuwachunga kondoo yuko tofauti na mchungaji. Mtumishi wa mshahara, kondoo siyo mali yake. Hivyo anapomwona mbwa mwitu anakuja, hukimbia na kuwaacha kondoo peke yao. Mbwa mwitu huwashambulia na kuwatawanya kondoo.</verse>
 				<verse number="13">Mtu huyu huwakimbia kondoo kwa sababu yeye ni mfanyakazi wa mshahara tu. Hawajali kabisa kondoo.</verse>
 				<verse number="14">Mimi ni mchungaji ninayewajali kondoo. Nawafahamu kondoo wangu kama ambavyo Baba ananijua mimi. Na kondoo wananijua kama nami ninavyomjua Baba. Nautoa uhai wangu kwa ajili ya kondoo hawa.</verse>
-				<verse number="15"></verse>
+				<verse number="15">***</verse>
 				<verse number="16">Nina kondoo wengine ambao hawamo kwenye kundi hili hapa. Hao nao napaswa kuwaongoza. Kwani wataisikia sauti yangu. Baadaye kutakuwa na kundi moja na mchungaji mmoja.</verse>
 				<verse number="17">Baba ananipenda kwa sababu nautoa uhai wangu. Nautoa uhai wangu ili niweze kuuchukua tena.</verse>
 				<verse number="18">Hakuna anayeweza kuuchukua uhai wangu kutoka kwangu. Nautoa uhai wangu kwa hiari yangu. Ninayo haki ya kuutoa, na ninayo haki ya kuuchukua tena. Haya ndiyo aliyoniambia Baba yangu.”</verse>
@@ -3984,15 +3984,15 @@
 				<verse number="14">Mitume hawa wote walikuwa pamoja na waliomba kwa nia moja. Baadhi ya wanawake, Mariamu mama wa Yesu na wadogo zake Bwana Yesu walikuwepo pale pamoja na mitume.</verse>
 				<verse number="15">Baada ya siku chache waamini waliokuwa kama mia moja na ishirini walikutana pamoja. Petro alisimama na kusema,</verse>
 				<verse number="16">“Kaka na dada zangu, katika Maandiko Roho Mtakatifu alisema kupitia Daudi kwamba jambo fulani lazima litatokea. Alizungumza kuhusu Yuda, yule aliyekuwa katika kundi letu wenyewe. Yuda alihudumu pamoja nasi. Roho alisema Yuda atawaongoza watu kumkamata Yesu.”</verse>
-				<verse number="17"></verse>
+				<verse number="17">***</verse>
 				<verse number="18">(Kwa kufanya hili Yuda alilipwa pesa. Alinunulia shamba pesa hizo. Lakini aliangukia kichwa chake, mwili wake ukapasuka, na matumbo yake yote yakamwagika nje.</verse>
 				<verse number="19">Na watu wote wa Yerusalemu wanalijua hili. Ndiyo maana waliliita shamba hilo Akeldama, ambalo maana yake kwa Kiaramu ni “Shamba la Damu”.)</verse>
 				<verse number="20">Petro akasema, “Katika kitabu cha Zaburi, jambo hili limeandikwa kuhusu Yuda: ‘Watu wasipakaribie mahali pake; Yeyote asiishi hapo.’ Pia imeandikwa kuwa: ‘Mtu mwingine achukue kazi yake.’</verse>
 				<verse number="21">Hivyo ni lazima mtu mwingine ajiunge nasi ili awe shahidi wa ufufuo wa Bwana Yesu. Ni lazima awe mmoja wa wale waliokuwa katika kundi letu wakati wote Bwana Yesu alipokuwa pamoja nasi. Ni lazima awe yule ambaye amekuwa pamoja nasi tangu Yohana alipokuwa anabatiza watu mpaka siku ambayo Bwana Yesu alichukuliwa kutoka kwetu na kwenda mbinguni.”</verse>
-				<verse number="22"></verse>
+				<verse number="22">***</verse>
 				<verse number="23">Kisha waliwasimamisha watu wawili mbele ya kundi. Mmoja aliitwa Yusufu Barsaba, ambaye pia aliitwa Yusto. Mwingine aliitwa Mathiasi.</verse>
 				<verse number="24">Wakaomba wakisema, “Bwana unajua mioyo ya watu wote. Tuonyeshe kati ya watu hawa wawili uliyemchagua kufanya kazi hii. Yuda aliiacha na kuifuata njia yake. Bwana tuonyeshe ni nani achukue sehemu yake kama mtume!”</verse>
-				<verse number="25"></verse>
+				<verse number="25">***</verse>
 				<verse number="26">Kisha wakapiga kura kumchagua mmoja kati ya watu hao wawili. Kura ikaonesha Mathiasi ndiye Bwana anamtaka. Hivyo akawa mtume pamoja na wale wengine kumi na moja.</verse>
 			</chapter>
 			<chapter number="2">
@@ -4054,7 +4054,7 @@
 				<verse number="7">Kisha Petro akamshika mkono wake wa kulia, akamnyenyua na kumsimamisha. Ndipo nyayo na vifundo vyake vikatiwa nguvu papo hapo.</verse>
 				<verse number="8">Akaruka juu, akasimama kwa miguu yake na akaanza kutembea. Akaingia ndani ya eneo la Hekalu pamoja nao huku akitembea na kurukaruka akimsifu Mungu.</verse>
 				<verse number="9">Watu wote walimtambua. Walimjua kuwa ni mlemavu wa miguu ambaye mara nyingi huketi kwenye Lango Zuri la Hekalu akiomba pesa. Lakini sasa walimwona anatembea na kumsifu Mungu. Walishangaa na hawakuelewa hili limewezekanaje.</verse>
-				<verse number="10"></verse>
+				<verse number="10">***</verse>
 				<verse number="11">Huku wakishangaa, watu wale waliwakimbilia Petro na Yohana pale walikokuwa katika Ukumbi wa Sulemani. Mtu yule aliyeponywa alikuwa akingali amewang'anga'nia Petro na Yohana.</verse>
 				<verse number="12">Petro alipoona hili, aliwaambia watu: “Ndugu zangu Wayahudi, kwa nini mnashangaa hili? Mnatutazama kama vile ni kwa nguvu zetu tumemfanya mtu huyu atembee. Mnadhani hili limetendeka kwa sababu sisi ni wema?</verse>
 				<verse number="13">Hapana, Mungu ndiye aliyetenda hili! Ni Mungu wa Ibrahimu, Mungu wa Isaka na Mungu wa Yakobo. Ni Mungu aliyeabudiwa na baba zetu wote. Kwa kufanya hili, alimtukuza Yesu mtumishi wake, yule ambaye ninyi mlimtoa ili auawe. Pilato alipotaka kumwachia huru, mlimwambia Pilato kuwa hamumtaki Yesu.</verse>
@@ -4094,7 +4094,7 @@
 				<verse number="19">Lakini Petro na Yohana wakawajibu, “Mnadhani kipi ni sahihi? Mungu angetaka nini? Je, tunapaswa kuwatii ninyi au tumtii Mungu?</verse>
 				<verse number="20">Hatuwezi kukaa kimya. Ni lazima tuwaambie watu kuhusu yale tuliyoona na kusikia.”</verse>
 				<verse number="21">Viongozi wa Kiyahudi hawakupata sababu za kuwaadhibu mitume, kwa sababu watu wote walikuwa wanamsifu Mungu kwa kile kilichotendeka. Muujiza huu ulikuwa ishara kutoka kwa Mungu. Mtu aliyeponywa alikuwa na miaka zaidi ya arobaini. Hivyo viongozi wa Kiyahudi wakawaonya mitume tena na kuwaacha waende wakiwa huru.</verse>
-				<verse number="22"></verse>
+				<verse number="22">***</verse>
 				<verse number="23">Petro na Yohana waliondoka kwenye mkutano wa viongozi wa Kiyahudi na kurudi kwa waamini wenzao. Wakalieleza kundi la waamini kila kitu walichoambiwa na viongozi wa makuhani na wazee wa watu.</verse>
 				<verse number="24">Waamini waliposikia hili, wote kwa pamoja wakamwomba Mungu wakiwa na nia moja. Wakasema, “Bwana wa wote, wewe ndiye uliyeumba mbingu, dunia, bahari na kila kitu ulimwenguni.</verse>
 				<verse number="25">Baba yetu Daudi alikuwa mtumishi wako. Kwa msaada wa Roho Mtakatifu aliandika maneno haya: ‘Kwa nini mataifa yanatenda kwa kiburi? Kwa nini watu wanapanga mipango isiyofaa kama hii?</verse>
@@ -4117,7 +4117,7 @@
 				<verse number="3">Petro akasema, “Anania, kwa nini umemruhusu Shetani aitawale akili yako kwa wazo la namna hii? Umebakiza sehemu ya pesa kwa ajili yako mwenyewe na kumdanganya Roho Mtakatifu!</verse>
 				<verse number="4">Je, kabla ya kuuza shamba, halikuwa lako? Na hata baada ya kuliuza, ungeweza kutumia pesa kwa namna yoyote unayotaka. Imekuwaje hata ufikirie kufanya jambo hili? Hukutudanganya sisi bali Mungu!”</verse>
 				<verse number="5">Anania aliposikia hili, alianguka chini na kufa. Baadhi ya vijana wakaja na kuufunga mwili wake. Wakautoa nje na kuuzika. Kila mtu aliyelisikia hili aliingiwa hofu.</verse>
-				<verse number="6"></verse>
+				<verse number="6">***</verse>
 				<verse number="7">Baada ya kama saa tatu baadaye, mkewe naye alifika. Safira hakujua kilichompata mumewe.</verse>
 				<verse number="8">Petro akamwambia, “Niambie mlipata pesa kiasi gani baada ya kuuza shamba lenu. Kilikuwa kiasi hiki?” Safira akajibu, “Ndiyo, hicho ndicho tulichopata baada ya kuuza shamba.”</verse>
 				<verse number="9">Petro akamwambia, “Kwa nini wewe na mume wako mlikubaliana kumjaribu Roho wa Bwana? Sikiliza! Unasikia vishindo hivyo vya miguu? Watu waliomzika mume wako, wako mlangoni. Watakuchukua nje kwa njia hiyo hiyo.”</verse>
@@ -4236,8 +4236,8 @@
 			</chapter>
 			<chapter number="8">
 				<verse number="1">Sauli aliridhia kuwa kuuawa kwa Stefano lilikuwa jambo jema. Baadhi ya wacha Mungu walimzika Stefano, wakaomboleza na kumlilia kwa sauti kuu. Kuanzia siku hiyo Wayahudi walianza kulitesa sana kanisa na waamini katika mji wa Yerusalemu. Sauli pia alijaribu kuliharibu kanisa. Aliingia katika nyumba za waamini, akawaburuta wanaume na wanawake, na kuwafunga gerezani. Waamini wote walikimbia kutoka Yerusalemu, mitume peke yao ndiyo walibaki. Waamini walikwenda mahali tofauti tofauti katika Uyahudi na Samaria.</verse>
-				<verse number="2"></verse>
-				<verse number="3"></verse>
+				<verse number="2">***</verse>
+				<verse number="3">***</verse>
 				<verse number="4">Walitawanyika kila mahali, na kila walikokwenda waliwahubiri watu Habari Njema.</verse>
 				<verse number="5">Filipo alikwenda katika mji mkuu wa jimbo la Samaria na kuwahubiri watu kuhusu Masihi.</verse>
 				<verse number="6">Watu wa Samaria walimsikiliza Filipo na kuona miujiza aliyotenda. Wote walisikiliza kwa makini yale aliyosema.</verse>
@@ -4271,7 +4271,7 @@
 				<verse number="34">Afisa akamwambia Filipo, “Tafadhali niambie, nabii anazungumza kuhusu nani? Anazungumza kuhusu yeye mwenyewe au mtu mwingine?”</verse>
 				<verse number="35">Filipo akaanza kuzungumza. Alianzia na Andiko hili na kumwambia mtu yule Habari Njema kuhusu Yesu.</verse>
 				<verse number="36">Walipokuwa wanasafiri waliyakuta maji mahali fulani. Afisa akasema, “Tazama! Hapa kuna maji! Nini kinanizuia nisibatizwe?”</verse>
-				<verse number="37"></verse>
+				<verse number="37">***</verse>
 				<verse number="38">Ndipo Afisa akaamuru gari lake lisimame. Wote wawili, Filipo na Afisa, wakatelemka wakaingia kwenye maji na Filipo akambatiza towashi.</verse>
 				<verse number="39">Walipotoka kwenye maji, Roho wa Bwana akamchukua Filipo; afisa hakumwona Filipo tena. Afisa aliendelea na safari yake kurudi nyumbani, akiwa mwenye furaha sana.</verse>
 				<verse number="40">Lakini Filipo alionekana katika mji ulioitwa Azoto. Alikuwa akienda kwenye mji wa Kaisaria. Aliwahubiri watu Habari Njema katika miji yote wakati anasafiri kutoka Azoto kwenda Kaisaria.</verse>
@@ -4395,7 +4395,7 @@
 				<verse number="21">Nguvu ya Bwana iliambatana na watu hawa, na idadi kubwa ya watu waliamini na kuamua kumfuata Bwana.</verse>
 				<verse number="22">Kanisa katika mji wa Yerusalemu liliposikia kuhusu hili, lilimtuma Barnaba kwenda Antiokia.</verse>
 				<verse number="23">Barnaba alikuwa mtu mwema, aliyejaa Roho Mtakatifu na imani. Alipokwenda Antiokia na kuona jinsi Mungu alivyowabariki waamini pale, alifurahi sana. Akawatia moyo wote, akasema, “Iweni waaminifu kwa Bwana daima. Mtumikieni Yeye kwa mioyo yenu yote.” Watu wengi zaidi wakawa wafuasi wa Bwana.</verse>
-				<verse number="24"></verse>
+				<verse number="24">***</verse>
 				<verse number="25">Kisha Barnaba alikwenda katika mji wa Tarso kumtafuta Sauli.</verse>
 				<verse number="26">Alipompata, alimpeleka Antiokia. Walikaa pale mwaka mzima. Kila wakati kanisa lilipokusanyika, Barnaba na Sauli walikutana nao na kuwafundisha watu wengi. Ni katika mji wa Antiokia ambako wafuasi wa Bwana Yesu walianza kuitwa “Wafuasi wa Kristo”.</verse>
 				<verse number="27">Katika wakati huo huo baadhi ya manabii walitoka Yerusalemu na kwenda Antiokia.</verse>
@@ -4469,7 +4469,7 @@
 				<verse number="36">Daudi aliyatenda mapenzi ya Mungu alipokuwa hai. Kisha alikufa na kuzikwa kama baba zake wote. Na mwili wake ulioza kaburini!</verse>
 				<verse number="37">Lakini yule ambaye Mungu alimfufua kutoka kwa wafu hakuoza kaburini.</verse>
 				<verse number="38">Ndugu zangu, eleweni yale tunayowaambia. Mnaweza kupata msamaha wa dhambi kupitia huyu Yesu. Sheria ya Musa haikuwatoa kutoka katika dhambi zenu. Lakini mnaweza kuwa huru mbali na hukumu.</verse>
-				<verse number="39"></verse>
+				<verse number="39">***</verse>
 				<verse number="40">Hivyo iweni waangalifu! Msiruhusu walichosema manabii kikawatokea ninyi:</verse>
 				<verse number="41">‘Sikilizeni enyi watu wenye mashaka! Mnaweza kushangaa, lakini sasa nendeni na mfe. Kwa sababu kipindi cha wakati wenu, nitafanya kitu ambacho hamtaamini. Hata kama kitafafanuliwa kwenu!’”</verse>
 				<verse number="42">Paulo na Barnaba walipokuwa wanaondoka kwenye sinagogi, watu waliwaomba warudi tena Sabato inayofuata ili wawaeleze zaidi kuhusu mambo haya.</verse>
@@ -4548,7 +4548,7 @@
 				<verse number="31">Waamini walipoisoma, wakafurahi na kufarijika.</verse>
 				<verse number="32">Yuda na Sila ambao pia walikuwa manabii, waliwatia moyo waamini kwa maneno mengi na kuwafanya waimarike katika imani yao.</verse>
 				<verse number="33">Baada ya Yuda na Sila kukaa pale kwa muda, waliondoka. Waamini waliwaruhusu waende kwa amani kisha wakarudi Yerusalemu kwa wale waliowatuma.</verse>
-				<verse number="34"></verse>
+				<verse number="34">***</verse>
 				<verse number="35">Lakini Paulo na Barnaba walikaa Antiokia. Wao na wengine wengi waliwafundisha waamini na kuwahubiri watu wengine Habari Njema kuhusu Bwana.</verse>
 				<verse number="36">Wakati fulani baadaye, Paulo akamwambia Barnaba, “Turudi katika miji yote tulikowahubiri watu ujumbe wa Bwana. Tuwatembelee waamini tuone wanaendeleaje.”</verse>
 				<verse number="37">Barnaba alitaka Yohana Marko afuatane nao pia.</verse>
@@ -4679,7 +4679,7 @@
 				<verse number="11">Mungu alimtumia Paulo kufanya miujiza ya kipekee.</verse>
 				<verse number="12">Baadhi ya watu walichukua vitambaa vya mkononi na nguo zilizovaliwa na Paulo na kuziweka juu ya wagonjwa. Wagonjwa waliponywa na pepo wabaya waliwatoka watu.</verse>
 				<verse number="13">Pia baadhi ya Wayahudi walikuwa wanasafiri huku na huko wakiwatoa pepo wabaya kwa watu. Wana saba wa Skewa, mmoja wa viongozi wa makuhani, walikuwa wakifanya hili. Wayahudi hawa walijaribu kutumia jina la Bwana kuyatoa mapepo kwa watu. Wote walikuwa wanasema, “Katika jina la Bwana Yesu anayezungumzwa na Paulo ninakuamuru utoke!”</verse>
-				<verse number="14"></verse>
+				<verse number="14">***</verse>
 				<verse number="15">Lakini wakati fulani pepo akawaambia Wayahudi hawa, “Ninamfahamu Yesu, na ninafahamu kuhusu Paulo, na ninyi ni nani?”</verse>
 				<verse number="16">Kisha mtu aliyekuwa na pepo ndani yake akawarukia. Alikuwa na nguvu kuliko wote. Akawapiga, akawachania nguo za na kuwavua, nao wakakimbia kutoka katika nyumba ile wakiwa uchi.</verse>
 				<verse number="17">Watu wote katika Efeso, Wayahudi na Wayunani wakafahamu kuhusu hili. Wakaogopa na kumtukuza Bwana Yesu.</verse>
@@ -4783,7 +4783,7 @@
 				<verse number="33">Kamanda alikwenda mahali alipokuwa Paulo na akamkamata. Akawaambia askari wake wamfunge kwa minyororo miwili. Kisha akauliza, “Mtu huyu ni nani? Amefanya nini kibaya?”</verse>
 				<verse number="34">Baadhi ya watu pale walipiga kelele wakisema kitu hiki na wengine walisema kingine. Kwa sababu ya kuchanganyikiwa huku na kelele kamanda hakujua ukweli kuhusu kilichotokea. Hivyo akawaambia askari wamchukue Paulo mpaka kwenye jengo la jeshi.</verse>
 				<verse number="35">Umati wote ulikuwa unawafuata. Askari walipofika kwenye ngazi ilibidi wambebe Paulo. Walifanya hivi ili kumlinda, kwa sababu watu walikuwa tayari kumwumiza. Watu walikuwa wanapiga kelele wakisema, “Auawe!”</verse>
-				<verse number="36"></verse>
+				<verse number="36">***</verse>
 				<verse number="37">Askari walipokuwa tayari kumwingiza Paulo kwenye jengo la jeshi, Paulo alimwuliza kamanda akasema, “Je, ninaweza kukwambia kitu?” Kamanda akasema, “Kumbe, unaongea Kiyunani?</verse>
 				<verse number="38">Kwa hiyo wewe si mtu niliyemdhania. Nilidhani wewe ni Mmisri aliyeanzisha vurugu dhidi ya serikali siku si nyingi na akawaongoza magaidi elfu nne kwenda jangwani.”</verse>
 				<verse number="39">Paulo akasema, “Hapana, Mimi ni Myahudi kutoka Tarso katika jimbo la Kilikia. Ni raia wa mji ule muhimu. Tafadhali niruhusu niseme na watu.”</verse>
@@ -4861,12 +4861,12 @@
 			<chapter number="24">
 				<verse number="1">Siku tano baadaye Anania, kuhani mkuu, alikwenda mjini Kaisaria. Aliwachukua pamoja naye baadhi ya viongozi wa wazee wa Kiyahudi na mwanasheria aitwaye Tertulo. Walikwenda Kaisaria kutoa ushahidi dhidi ya Paulo mbele ya gavana.</verse>
 				<verse number="2">Paulo aliitwa kwenye mkutano, na Tertulo akaanza kueleza mashitaka. Tertulo alisema, “Mheshimiwa Feliki, kwa muda mrefu watu wetu wamefurahia amani kwa sababu yako, na mambo mengi mabaya katika nchi yetu yanarekebishwa kutokana na msaada wako wa hekima. Kwa hili sisi sote tunaendelea kushukuru.</verse>
-				<verse number="3"></verse>
+				<verse number="3">***</verse>
 				<verse number="4">Lakini sitaki kuchukua muda wako mwingi. Hivyo nitasema maneno machache. Tafadhali uwe mvumilivu.</verse>
 				<verse number="5">Mtu huyu ni mkorofi. Anasababisha vurugu kwa Wayahudi kila mahali ulimwenguni. Ni kiongozi wa kundi la Wanazorayo.</verse>
 				<verse number="6">Pia, alikuwa anajaribu kulinajisi Hekalu, lakini tulimsimamisha. Unaweza kuamua ikiwa haya yote ni kweli. Mwulize maswali wewe mwenyewe.”</verse>
-				<verse number="7"></verse>
-				<verse number="8"></verse>
+				<verse number="7">***</verse>
+				<verse number="8">***</verse>
 				<verse number="9">Wayahudi wengine wakakubali na kusema ndivyo ilivyo.</verse>
 				<verse number="10">Gavana alifanya ishara ili Paulo aanze kuzungumza. Hivyo Paulo alijibu, “Gavana Feliki, ninafahamu kuwa umekuwa jaji wa nchi hii kwa muda mrefu. Hivyo ninafurahi kujitetea mimi mwenyewe mbele yako.</verse>
 				<verse number="11">Nilikwenda kuabudu Yerusalemu siku kumi na mbili tu zilizopita. Unaweza kutambua wewe mwenyewe kuwa hii ni kweli.</verse>
@@ -4876,7 +4876,7 @@
 				<verse number="15">Nina tumaini katika Mungu kama walilonalo Wayahudi hawa, kwamba watu wote, wema na wabaya, watafufuliwa kutoka kwa wafu.</verse>
 				<verse number="16">Hii ndiyo sababu daima nimejaribu kufanya kile ninachoamini kuwa sahihi mbele za Mungu na kila mtu.</verse>
 				<verse number="17">Nimekuwa mbali na Yerusalemu kwa miaka mingi. Nilikwenda kule nikiwa na fedha za kuwasaidia watu wangu. Pia nilikuwa na sadaka za kutoa Hekaluni. Nilipokuwa nafanya hivyo, baadhi ya Wayahudi waliponiona pale. Nilikuwa nimemaliza ibada ya utakaso. Sikufanya vurugu yoyote, na hakuna watu waliokuwa wamekusanyika kunizunguka.</verse>
-				<verse number="18"></verse>
+				<verse number="18">***</verse>
 				<verse number="19">Lakini baadhi ya Wayahudi kutoka Asia walikuwa pale. Walipaswa kuwa hapa mbele yako wakinishtaki ikiwa wana ushahidi kuwa nilifanya kitu chochote kibaya.</verse>
 				<verse number="20">Waulize watu hawa ikiwa waliona kosa lolote kwangu niliposimama mbele ya mkutano wa baraza kuu mjini Yerusalemu.</verse>
 				<verse number="21">Jibu pekee watakaloweza kukujibu ni hili: Kwamba nilipokuwa mbele zao nilipaza sauti na kusema, ‘Mnanishitaki leo kwa sababu ninaamini watu watafufuka kutoka kwa wafu!’”</verse>
@@ -5007,7 +5007,7 @@
 				<verse number="8">Baba yake Pablio alikuwa mgonjwa sana. Alikuwa na homa na alikuwa anaharisha damu, lakini Paulo alikwenda kwake na kumuombea. Aliweka mikono juu yake naye akapona.</verse>
 				<verse number="9">Baada ya hili kutokea, wagonjwa wengine wote kisiwani walikuja kwa Paulo, naye aliwaombea na wakaponywa pia.</verse>
 				<verse number="10">Watu katika kisiwa hiki walituheshimu sana. Na baada ya kuwa pale kwa miezi mitatu, tukawa tayari kuondoka, walitupa kila kitu tulichohitaji kwa ajili ya safari yetu. Tulipanda meli iliyotoka Iskanderia iliyokaa katika kisiwa cha Malta wakati majira ya baridi. Mbele ya meli kulikuwa alama ya miungu pacha.</verse>
-				<verse number="11"></verse>
+				<verse number="11">***</verse>
 				<verse number="12">Tulisimama katika mji wa Sirakuse. Tulikaa pale kwa siku tatu kisha tukaondoka.</verse>
 				<verse number="13">Tulifika katika mji wa Regio. Siku iliyofuata upepo ulianza kuvuma kutokea Kusini-Magharibi, hivyo tuliweza kuondoka. Baada ya siku moja tukafika katika mji wa Puteoli.</verse>
 				<verse number="14">Tuliwapata baadhi ya waamini pale, walituomba tukae nao kwa wiki moja. Mwishowe tulifika Rumi.</verse>
@@ -5025,7 +5025,7 @@
 				<verse number="26">‘Nenda kwa watu hawa na uwaambie: Mtasikiliza na kusikiliza, lakini hamtaelewa. Mtatazama na kutazama, lakini hakika hamtaona.</verse>
 				<verse number="27">Watu hawa hawawezi kuelewa. Masikio yao yamezibwa. Na macho yao yamefumbwa. Hivyo hawawezi kuona kwa macho yao, au kusikia kwa masikio yao; au kuelewa kwa akili zao; au kuelewa kwa akili zao. Ikiwa wangeelewa, wangeweza kunirudia, na ningewaponya.’</verse>
 				<verse number="28">Ninataka ninyi Wayahudi mjue kuwa Mungu ameupeleka wokovu wake kwa watu wasio Wayahudi. Watasikia!”</verse>
-				<verse number="29"></verse>
+				<verse number="29">***</verse>
 				<verse number="30">Paulo alikaa katika nyumba yake mwenyewe aliyopanga kwa miaka miwili kamili. Aliwakaribisha watu wote waliokuja kumtembelea.</verse>
 				<verse number="31">Aliwaambia kuhusu ufalme wa Mungu na kuwafundisha kuhusu Bwana Yesu Kristo. Alikuwa na ujasiri sana, na hakuna aliyejaribu kumzuia asizungumze.</verse>
 			</chapter>
@@ -5041,7 +5041,7 @@
 				<verse number="7">Waraka huu ni kwa ajili yenu ninyi nyote mlio huko Rumi. Kwani Mungu anawapenda na amewachagua kuwa watu wake watakatifu. Ninamwomba Mungu Baba yetu na Bwana wetu Yesu Kristo, wawape ninyi neema na amani.</verse>
 				<verse number="8">Kwanza, ninamshukuru Mungu wangu kupitia Yesu Kristo kwa ajili yenu ninyi nyote. Ninamshukuru yeye kwa sababu kila mahali ulimwenguni watu wanazungumza kuhusu imani yenu kuu.</verse>
 				<verse number="9">Kila wakati ninapoomba, ninawakumbuka ninyi daima. Mungu anajua kuwa hii ni kweli. Yeye ndiye ninayemtumikia kwa moyo wangu wote nikiwaambia watu Habari Njema kuhusu Mwanaye. Hivyo ninaendelea kuomba kwamba mwishowe Mungu atanifungulia njia ili niweze kuja kwenu.</verse>
-				<verse number="10"></verse>
+				<verse number="10">***</verse>
 				<verse number="11">Ninataka sana niwaone na niwape zawadi ya kiroho ili kuimarisha imani yenu.</verse>
 				<verse number="12">Ninamaanisha kuwa ninataka tusaidiane sisi kwa sisi katika imani tuliyo nayo. Imani yenu itanisaidia mimi, na imani yangu itawasaidia ninyi.</verse>
 				<verse number="13">Kaka zangu na dada zangu, ninataka mjue kwamba nimepanga mara nyingi kuja kwenu, lakini jambo fulani hutokea na kubadili mipango yangu kila ninapopanga kuja. Juu ya kazi yangu miongoni mwenu, ningependa kuona matokeo yale yale mazuri yakitokea ya kazi yangu miongoni mwa watu wengine wasio Wayahudi.</verse>
@@ -5122,7 +5122,7 @@
 				<verse number="23">Ndiyo, watu wote wametenda dhambi na wameshindwa kufikia kiwango cha utukufu wa Mungu kilichokusudiwa kwao.</verse>
 				<verse number="24">Mungu ameamuru sisi sote tufunguliwe kutoka dhambini. Zawadi hii ya neema yake imekuja kwetu kupitia kile ambacho Kristo Yesu alikifanya ili tuwe huru.</verse>
 				<verse number="25">Mungu alimtoa Yesu kama njia ya kusamehe dhambi za watu kupitia imani katika yeye. Mungu anasamehe watu kwa sababu sadaka ya damu ya Yesu iliwaweka huru na dhambi zao. Mungu alimtoa Yesu kuonesha kuwa hutenda haki na bila upendeleo. Alikuwa sahihi huko nyuma alipovumilia na hakuwaadhibu watu kwa sababu ya dhambi zao. Na katika wakati wetu bado anatenda haki. Mungu alifanya hili ili awahukumu watu pasipo kuwa na upendeleo na kumwesabia haki mtu yeyote aliye na imani katika Yesu.</verse>
-				<verse number="26"></verse>
+				<verse number="26">***</verse>
 				<verse number="27">Hivyo, sisi Wayahudi tuna nini cha kujivunia? Hatuna kitu. Mungu amefunga mlango kuzuia nje kiburi cha Kiyahudi. Sheria gani husema hivyo? Sheria inayohimiza matendo? Hapana, ni sheria inayosisitiza imani.</verse>
 				<verse number="28">Ninamaanisha kuwa watu hufanyika wenye haki na kukubaliwa na Mungu kwa njia ya imani, siyo kwa sababu ya yale wanayotenda ili kuifuata sheria. Hili ndilo tunaloamini.</verse>
 				<verse number="29">Je, mnadhani kuwa Mungu ni Mungu wa Wayahudi tu? Je, yeye si Mungu wa watu wengine pia? Ndiyo, yeye ni Mungu wa wasio Wayahudi pia.</verse>
@@ -5283,7 +5283,7 @@
 				<verse number="9">Hivi ndivyo Mungu alivyosema katika agano hilo: “Wakati kama huu mwaka ujao nitakujia tena, na Sara mke wako atazaa mwana.”</verse>
 				<verse number="10">Na si hivyo tu. Kitu kama hicho kilimtokea Rebeka ambaye baada ya kupata mimba ya wana wawili mapacha waliotokana na baba mmoja, baba yetu Isaka.</verse>
 				<verse number="11">Ndiyo, kabla ya kuzaliwa wana hao mapacha, Mungu alimwambia Rebeka, “Mwana mkubwa atamtumikia mdogo.” Hii ilikuwa kabla wavulana hawa hawajatenda jambo lolote jema au baya. Mungu alisema hivi kabla hawajazaliwa ili kwamba mvulana ambaye Mungu alimtaka atachaguliwa kutokana na mpango wa Mungu mwenyewe. Mvulana huyu alichaguliwa kwa sababu ndiye ambaye Mungu alitaka kumwita, si kwa sababu ya jambo lolote walilofanya wavulana hao.</verse>
-				<verse number="12"></verse>
+				<verse number="12">***</verse>
 				<verse number="13">Kama Maandiko yanavyosema, “Nilimpenda Yakobo lakini nilimchukia Esau.”</verse>
 				<verse number="14">Namsikia mtu akiuliza, “Hivyo hii ina maana gani? Je, Mungu si mwenye haki?” Hapana!</verse>
 				<verse number="15">Mungu alimwambia Musa, “Nitampa rehema yeyote ninayetaka kumpa rehema. Nitamhurumia yeyote ninayemchagua.”</verse>
@@ -5490,7 +5490,7 @@
 				<verse number="21">Timotheo, mtumishi pamoja nami, anawatumieni salamu. Pia Lukio, Yasoni na Sosipatro (hawa ni jamaa zangu) wanawatumieni salamu.</verse>
 				<verse number="22">Mimi Tertio, ninayeandika barua hii kwa ajili ya Paulo. Ninawasalimu kama mmoja aliye wa Bwana.</verse>
 				<verse number="23">Gayo ameniruhusu na kanisa lote hapa kuitumia nyumba yake. Anawatumia salamu zake. Erasto na kaka yetu Kwarto pia wanatuma salamu. Erasto ndiye mtunza hazina wa mji hapa.</verse>
-				<verse number="24"></verse>
+				<verse number="24">***</verse>
 				<verse number="25">Atukuzwe Mungu! Yeye ndiye anayeweza kuzitumia Habari Njema ninazozifundisha kuwaimarisha katika imani. Ni ujumbe ninaowaambia watu kuhusu Yesu Kristo. Ujumbe huo ni siri ya ukweli iliyofichwa kwa karne nyingi sana lakini sasa imefunuliwa.</verse>
 				<verse number="26">Na kweli hiyo sasa imeonyeshwa kwetu. Ilijulishwa kwa yale ambayo manabii waliandika katika Maandiko, kama Mungu wa milele alivyoagiza. Na sasa imejulikana kwa mataifa yote ili waweze kuamini na kumtii yeye.</verse>
 				<verse number="27">Utukufu wa milele ni kwa Mungu mwenye hekima pekee kwa njia ya Yesu Kristo. Amina.</verse>
@@ -5808,7 +5808,7 @@
 				<verse number="16">Sikio linaweza kusema, “Mimi si jicho, hivyo mimi si wa mwili.” Lakini kwa kusema hivi hakutafanya sikio lisiwe kiungo cha mwili.</verse>
 				<verse number="17">Ikiwa mwili wote ungekuwa jicho, usingeweza kusikia. Ikiwa mwili wote ungekuwa sikio, usingeweza kunusa kitu chochote.</verse>
 				<verse number="18">Ikiwa viungo vyote vya mwili vingekuwa kiungo kimoja, mwili usingekuwepo. Kama jinsi ilivyo, Mungu aliweka viungo katika mwili kama alivyotaka. Alikipa kila kiungo sehemu yake.</verse>
-				<verse number="19"></verse>
+				<verse number="19">***</verse>
 				<verse number="20">Hivyo kuna viungo vingi, lakini kuna mwili mmoja tu.</verse>
 				<verse number="21">Jicho haliwezi kuuambia mkono, “Sikuhitaji!” Na kichwa hakiwezi kuuambia mguu, “sikuhitaji!”</verse>
 				<verse number="22">Hapana, viungo vya mwili vinavyoonekana kuwa dhaifu zaidi, ndivyo vilivyo na umuhimu zaidi.</verse>
@@ -6215,7 +6215,7 @@
 				<verse number="1">Inanipasa kuendelea kujivuna juu yangu mwenyewe. Hiyo haitasaidia, lakini nitazungumza juu ya maono na mafunuo kutoka kwa Bwana.</verse>
 				<verse number="2">Ninamjua mtu mmoja katika Kristo aliyechukuliwa juu katika mbingu ya tatu. Hili lilitokea miaka 14 iliyopita. Sifahamu ikiwa mtu huyu alikuwa ndani ya mwili wake au nje ya mwili wake, lakini Mungu anajua.</verse>
 				<verse number="3">Na ninajua kuwa mtu huyu alichukuliwa juu paradiso. Sijui kama alikuwa katika mwili wake au nje ya mwili wake. Mungu pekee ndiye anajua. Lakini mtu huyu aliyasikia mambo ambayo hana uwezo wa kuyasimulia. Alisikia mambo ambayo mtu yeyote anaruhusiwa kuyasema.</verse>
-				<verse number="4"></verse>
+				<verse number="4">***</verse>
 				<verse number="5">Nitajivunia mtu wa namna hiyo, lakini sitajivuna juu yangu mwenyewe. Nitajivuna tu katika madhaifu yangu.</verse>
 				<verse number="6">Lakini ikiwa nilitaka kujivuna, sitakuwa nikizungumza kama mjinga, kwa sababu ningekuwa nasema iliyo kweli. Lakini sitajivuna tena zaidi, kwa sababu sitaki watu wanifikirie kwa ubora zaidi kuliko wanavyoniona nikitenda ama kusikia ninayosema.</verse>
 				<verse number="7">Lakini imenipasa kutojivuna zaidi juu ya mambo ya ajabu yaliyoonyeshwa kwangu. Kwa sababu hiyo nilipewa tatizo lenye maumivu; malaika toka kwa Shetani; aliyetumwa kwangu kunitesa, ili nisiweze kufikiri kwamba mimi ni bora zaidi kuliko watu wengine.</verse>
@@ -6342,7 +6342,7 @@
 				<verse number="8">Zamani hamkumjua Mungu. Mlikuwa watumwa wa miungu isiyokuwa halisi.</verse>
 				<verse number="9">Lakini sasa mnamjua Mungu wa kweli. Hakika, Mungu ndiye anayewajua ninyi. Hivyo kwa nini sasa mnavigeukia vikosi dhaifu na visivyo na manufuaa yoyote mlivyovifuata hapo mwanzo? Mnataka kuwa watumwa wa mambo haya tena?</verse>
 				<verse number="10">Inanipa wasiwasi kwa kuwa mnaadhimisha siku, miezi, misimu na miaka. Nina hofu ya kuwa nimefanya kwa bidii kazi bure kwa ajili yenu.</verse>
-				<verse number="11"></verse>
+				<verse number="11">***</verse>
 				<verse number="12">Ndugu zangu, naomba mniige mimi kama ambavyo mimi nimekuwa kama ninyi. Hamkunikosea kwa jambo lololote.</verse>
 				<verse number="13">Mnajua kuwa nilikuja kwenu mara ya kwanza kwa sababu nilikuwa mgonjwa. Ndipo nilipowaeleza ninyi Habari Njema.</verse>
 				<verse number="14">Ugonjwa wangu uliwaelemea. Hata hivyo hamkunikataa kutokana na fadhaa ama hofu. Bali, mlinikaribisha kama vile nilikuwa malaika kutoka kwa Bwana. Mlinipokea kama vile nilikuwa Kristo Yesu mwenyewe!</verse>
@@ -6430,7 +6430,7 @@
 				<verse number="13">Ndivyo ilivyo hata kwenu ninyi. Mliusikia ujumbe wa kweli, yaani Habari Njema kuhusu namna ambavyo Mungu anavyowaokoa. Mlipoisikia Habari Njema hiyo, mkamwamini Kristo. Na katika Kristo, Mungu aliwatia alama maalum kwa kuwapa Roho Mtakatifu aliyeahidi.</verse>
 				<verse number="14">Roho ni malipo ya kwanza yanayothibitisha kuwa Mungu atawapa watu wake kila kitu alichonacho kwa ajili yao. Sisi sote tutaufurahia uhuru kamili uliowekwa tayari kwa ajili ya walio wake. Na hili litamletea Mungu sifa katika utukufu wake wote.</verse>
 				<verse number="15">Ndiyo sababu daima ninawakumbuka katika maombi yangu na ninamshukuru Mungu kwa ajili yenu. Nimekuwa nikifanya hivi tangu niliposikia kuhusu imani yenu katika Bwana Yesu na upendo wenu kwa watu wote wa Mungu.</verse>
-				<verse number="16"></verse>
+				<verse number="16">***</verse>
 				<verse number="17">Daima ninamwomba Baba aliye mkuu na mwenye utukufu, Mungu wa Bwana wetu Yesu Kristo. Ninaomba awape Roho anakayewawezesha kuijua kweli kuhusu Mungu na awasaidie kuzielewa kweli hizo ili mweze kumjua vyema.</verse>
 				<verse number="18">Ninaomba Mungu afungue mioyo yenu ili mwone kweli yake. Kisha mtalijua tumaini alilochagua kwa ajili yetu. Mtajua kuwa baraka ambazo Mungu amewaahidi watu wake ni nyingi na zimejaa utukufu.</verse>
 				<verse number="19">Na mtajua kuwa uweza wa Mungu ni mkuu sana kwetu sisi tunaoamini. Ni sawa na nguvu zake kuu</verse>
@@ -6838,7 +6838,7 @@
 			</chapter>
 			<chapter number="3">
 				<verse number="1">Nisingeweza kuja kwenu, ila ilikuwa vigumu kuendelea kusubiri zaidi. Hivyo tuliamua kumtuma Timotheo kwenu na tukabaki Athene peke yetu. Timotheo ni ndugu yetu. Ni mtenda kazi pamoja nasi kwa ajili ya Mungu katika kuwahubiri watu Habari Njema kuhusu Kristo. Nilimtuma Timotheo kuwaimarisha na kuwafariji katika imani yenu.</verse>
-				<verse number="2"></verse>
+				<verse number="2">***</verse>
 				<verse number="3">Tulimtuma ili asiwepo kati yenu atakayebugudhiwa na mateso tuliyo nayo sasa. Ninyi wenyewe mnatambua kuwa ni lazima tupatwe na mateso haya.</verse>
 				<verse number="4">Hata pale tulipokuwa pamoja nanyi, tuliendelea kuwaeleza mapema ya kuwa sote tutapata matatizo. Na mnafahamu kuwa ilitokea kama tulivyowaambia.</verse>
 				<verse number="5">Hii ndiyo sababu nilimtuma Timotheo kwenu, ili nipate kujua juu ya uaminifu wenu. Nilimtuma kwenu nilipokuwa siwezi kuendelea kusubiri zaidi. Nilihofu kuwa Shetani angeweza kuwashinda kwa majaribu yake. Kisha kazi yetu iliyokuwa ngumu ingepotea bure.</verse>
@@ -7353,11 +7353,11 @@
 			</chapter>
 			<chapter number="6">
 				<verse number="1">Hivyo tusiendelee tena na masomo ya msingi juu ya Kristo. Tusiendelee kurudia kule tulikoanzia. Tuliyaanza maisha yetu mapya kwa kugeuka kutoka katika uovu tuliotenda zamani na kwa kumwamini Mungu. Hapo ndipo tulipofundishwa kuhusu mabatizo, kuwawekea watu mikono, ufufuo wa wale waliokwisha kufa, na hukumu ya mwisho. Sasa tunahitajika kuendelea mbele hadi kwenye mafundisho ya ukomavu zaidi.</verse>
-				<verse number="2"></verse>
+				<verse number="2">***</verse>
 				<verse number="3">Na hayo ndiyo tutayafanya Mungu akitupa kibali.</verse>
 				<verse number="4">Baada ya watu kuiacha njia ya Kristo, je unaweza kuwafanya wabadilike tena katika maisha yao? Ninazungumzia wale watu ambao mwanzo walijifunza kweli, wakapokea karama za Mungu, na kushiriki katika Roho Mtakatifu. Walibarikiwa kusikia ujumbe mzuri wa Mungu na kuziona nguvu kuu za ulimwengu wake mpya. Lakini baadaye waliziacha zote, na siyo rahisi kuwafanya wabadilike tena. Ndiyo sababu wale watu wanaomwacha Kristo wanamsulibisha msalabani kwa mara nyingine, wakimwaibisha yeye mbele ya kila mtu.</verse>
-				<verse number="5"></verse>
-				<verse number="6"></verse>
+				<verse number="5">***</verse>
+				<verse number="6">***</verse>
 				<verse number="7">Watu wengine wako kama ardhi inayopata mvua nyingi na kuzaa mazao mazuri kwa wale wanaoilima. Aina hiyo ya ardhi inazo baraka za Mungu.</verse>
 				<verse number="8">Lakini watu wengine wako kama ardhi ambayo huzalisha miiba na magugu tu. Haifai na iko katika hatari ya kulaaniwa na Mungu. Itateketezwa kwa moto.</verse>
 				<verse number="9">Rafiki zangu, sisemi haya kwa sababu nafikiri kuwa yanawatokea ninyi. Kwa hakika tunatarajia kuwa mtafanya vizuri zaidi; kwamba mtayafanya mambo mema yatakayotokea katika wokovu wenu.</verse>
@@ -7387,7 +7387,7 @@
 				<verse number="11">Watu walipewa sheria chini ya mfumo wa makuhani waliotoka katika ukoo wa Lawi. Lakini hayupo awezaye kufanywa mkamilifu kiroho kwa njia ya mfumo wa makuhani. Hivyo lilikuwepo hitaji la kuhani mwingine kuja. Namaanisha kama Melkizedeki, siyo Haruni.</verse>
 				<verse number="12">Na anapokuja kuhani wa aina nyingine, basi sheria pia inabidi ibadilishwe.</verse>
 				<verse number="13">Tunazungumza juu ya Bwana Yesu, aliyetoka katika kabila lingine. Hakuwepo yeyote kutoka katika kabila hilo kamwe aliyeweza kutumika kama kuhani madhabahuni. Ni dhahiri kwamba Bwana Yesu alitoka katika kabila la Yuda. Na Musa hakusema chochote kuhusu makuhani waliyetokana na kabila hilo.</verse>
-				<verse number="14"></verse>
+				<verse number="14">***</verse>
 				<verse number="15">Na mambo haya yalizidi kuwa wazi zaidi tunapomwona kuhani mwingine aliye kama Melkizedeki.</verse>
 				<verse number="16">Alifanywa kuhani, lakini siyo kwa sababu alikamilisha mahitaji ya kuzaliwa katika familia sahihi. Alifanyika kuhani kwa nguvu ya uhai ambayo haitakwisha.</verse>
 				<verse number="17">Hivi ndivyo Maandiko yanavyosema kumhusu yeye: “Wewe ni kuhani milele, kama alivyokuwa Melkizedeki.”</verse>
@@ -7507,14 +7507,14 @@
 				<verse number="15">Kama wangekuwa wanaifikiria nchi walikotoka, wangekuwa wamerejea.</verse>
 				<verse number="16">Lakini walikuwa wanaingoja nchi iliyo bora zaidi, nchi ya mbinguni. Hivyo Mungu haoni aibu kuitwa Mungu wao. Naye amewaandalia mji.</verse>
 				<verse number="17">Mungu aliijaribu imani ya Ibrahimu. Mungu alimtaka amtoe Isaka kama sadaka. Ibrahimu akatii kwa sababu alikuwa na imani. Tayari alikuwa na ahadi kutoka kwa Mungu. Na Mungu tayari alikuwa amekwishamwambia, “Ni kupitia kwa Isaka kwamba vizazi vyako watakuja.” Lakini Ibrahimu alikuwa tayari kumtoa mwana wake wa pekee. Alifanya hivi kwa sababu alikuwa na imani.</verse>
-				<verse number="18"></verse>
+				<verse number="18">***</verse>
 				<verse number="19">Aliamini kwamba Mungu angeweza kuwafufua watu kutoka kifoni. Na hakika, Mungu alipomzuia Ibrahimu katika kumuua Isaka, ilikuwa ni kama vile alimpata tena kutoka kifoni.</verse>
 				<verse number="20">Isaka akayabariki maisha ya mbeleni ya Yakobo na Esau. Alifanya hivyo kwa sababu alikuwa na imani.</verse>
 				<verse number="21">Na Yakobo, pia kwa vile alikuwa na imani, alimbariki kila mmoja wa wana wa Yusufu. Alifanya haya wakati alipokuwa akifa, akaiegemea fimbo yake akimwabudu Mungu.</verse>
 				<verse number="22">Na Yusufu alipokuwa karibu amefariki, alizungumza kuhusu watu wa Israeli kuondoka Misri. Na aliwaambia yale waliyotakiwa kuufanyia mwili wake. Alifanya haya kwa sababu alikuwa na imani.</verse>
 				<verse number="23">Na mama na baba wa Musa wakaona kwamba alikuwa ni mtoto mzuri hivyo wakamficha kwa miezi mitatu baada ya kuzaliwa kwake. Hili lilikuwa kinyume na agizo la mfalme. Lakini hawakuogopa kwa sababu walikuwa na imani.</verse>
 				<verse number="24">Musa akakua na akawa mwanaume. Akakataa kuitwa mwana wa binti Farao. Akachagua kutokujifurahisha katika raha na dhambi zinazodumu kwa muda mfupi tu. Badala yake, akachagua kuteseka pamoja na watu wa Mungu. Alifanya hivi kwa sababu alikuwa na imani.</verse>
-				<verse number="25"></verse>
+				<verse number="25">***</verse>
 				<verse number="26">Alifikiri kuwa ni bora kuteseka kwa ajili ya Masihi kuliko kuwa na hazina zote za Misri. Alikuwa anaisubiri malipo ambayo Mungu angempa.</verse>
 				<verse number="27">Musa akaondoka Misri kwa sababu alikuwa na imani. Hakuiogopa hasira ya mfalme. Aliendelea kuwa jasiri kama vile angemwona Mungu ambaye hakuna mtu mwingine angeweza kumwona.</verse>
 				<verse number="28">Na kwa sababu alikuwa na imani, Musa akaandaa mlo wa Pasaka. Na akanyunyiza damu ya mwanakondoo katika miimo ya milango ya watu wake, ili kwamba malaika wa kifo asiwaue wazaliwa wao wa kwanza wa kiume.</verse>
@@ -7583,7 +7583,7 @@
 				<verse number="18">Endeleeni kutuombea. Tunajisikia tuko sahihi katika tunayoyafanya, kwa sababu nyakati zote tunajitahidi kadri tuwezavyo.</verse>
 				<verse number="19">Na nawasihi muombe ili Mungu anirudishe tena kwenu mapema. Nalitamani sana hili kuliko kitu chochote.</verse>
 				<verse number="20">Ninawaombea Mungu wa amani awape ninyi mambo mazuri mnayohitaji ili muweze kufanya anayoyapenda. Mungu ndiye aliyemfufua Bwana Yesu kutoka katika kifo, Mchungaji Mkuu wa kondoo wake. Alimfufua kwa sababu Yesu aliitoa sadaka ya damu yake ili kulianza agano jipya lisilo na mwisho. Namwomba Mungu atuwezeshe kwa njia ya Yesu Kristo kufanya mambo yanayompendeza yeye. Utukufu ni wake milele. Amina.</verse>
-				<verse number="21"></verse>
+				<verse number="21">***</verse>
 				<verse number="22">Ndugu na dada zangu, nawasihi msikilize kwa uvumilivu katika yale niliyoyasema. Niliandika barua hii ili kuwatia moyo. Na siyo ndefu sana.</verse>
 				<verse number="23">Nawataka mjue kwamba ndugu yetu Timotheo ametoka gerezani. Akija kwangu mapema, sote tutakuja kuwaona ninyi.</verse>
 				<verse number="24">Fikisheni salama zangu kwa viongozi wote na kwa watu wote wa Mungu. Wote walioko Italia wanawasalimuni.</verse>
@@ -7960,7 +7960,7 @@
 				<verse number="17">Itakuwaje pale muumini tajiri mwenye fedha za kutosha kupata mahitaji yake yote akamwona dada ama kaka yake aliye maskini na asiye na fedha za kutosha kupata mahitaji yake yote. Endapo muumini huyu tajiri hatamsaidia muumini yule maskini, basi ni wazi kwamba upendo wa Mungu haumo ndani ya muumini yule tajiri.</verse>
 				<verse number="18">Watoto wangu, upendo wetu usiwe wa maneno na kuongea tu. Hapana, upendo wetu unapaswa kuwa halisi. Hatuna budi kuuonyesha upendo wetu kwa mambo yale tunayofanya.</verse>
 				<verse number="19">Hivyo ndivyo tunavyojua kuwa sisi tu wa ile njia ya kweli. Pale mioyo yetu inapotufanya tujisikie kuwa na hatia, bado tunaweza kuwa na amani mbele za Mungu, kwa sababu Mungu ni mkuu kuliko mioyo yetu. Yeye anajua kila kitu.</verse>
-				<verse number="20"></verse>
+				<verse number="20">***</verse>
 				<verse number="21">Rafiki zangu wapendwa, ikiwa hatujisikii kuwa tunatenda yasiyo haki, basi hatupaswi kuwa na hofu tunapoenda kwa Mungu.</verse>
 				<verse number="22">Na Mungu anatupa kile tunachomwomba. Nasi tunapokea kwa sababu tunazitii amri za Mungu na kufanya yanayompendeza.</verse>
 				<verse number="23">Hili ndilo Mungu analoliamuru: Kwamba tumwamini Mwanaye Yesu Kristo, na kwamba tupendane sisi kwa sisi kama alivyoamuru.</verse>
