@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<bible translation="Wolaytta 2004 (SIM)" status="Copyrighted - 2004 == Can use but must site">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible translation="Wolaytta 2002 (WOB)" status="Wolaytta Bible © Bible Society of Ethiopia, 2002" link="https://www.bible.com/bible/3205/MAT.7.WOB">
   <testament name="New">
     <book number="40">
       <chapter number="1">
@@ -25,7 +25,7 @@
         <verse number="20">SHin i hegaa qoppishin, Godaa kiitanchchai aimuwan aara gaittidi, “Daawita na7au Yooseefaa, Mairaama Geeshsha Ayyaanau shahaarido gishshau, o ekkanaagaa yayyoppa.</verse>
         <verse number="21">Attuma na7a a yelana; qassi neeni Yesuusa gaada a sunttana; aissi giikko, i ba asaa eta nagaraappe ashshana” yaagiis.</verse>
         <verse number="22">Qassi Godai hananabaa yootiyaagaa baggaara, “Geela7iyaa shahaarada na7aa yelana; a sunttai Amaanu7eela geetettana” giidoogee polettana mala, hagee ubbai haniis; “Amaanu7eela” giyoogee “Xoossai nunaara de7ees” giyoogaa.</verse>
-        <verse number="23"></verse>
+        <verse number="23">***</verse>
         <verse number="24">Yooseefi xiskkuwaappe beegottidi, Godaa kiitanchchai bana azazidoogaadan, Mairaamo efiis.</verse>
         <verse number="25">SHin ba baira na7aa a yelana gakkanaassi o bochchibeenna; qassi na7aa Yesuusa giidi sunttiis.</verse>
       </chapter>
@@ -35,7 +35,7 @@
         <verse number="3">Kawoi Heeroodisi, hegaa siyidi dagammiis; Yerusalaamen de7iya asai ubbaikka dagammiis.</verse>
         <verse number="4">Heeroodisi qeese halaqata ubbatanne higgiyaa tamaarissiyaageeta xeesidi, “Kiristtoosi awan yelettanddeeshsha?” yaagidi oichchiis.</verse>
         <verse number="5">Oichchin eti zaaridi, “Yihudaa biittan Beetaliheeme kataman yelettana. Hananabaa yootiyaagee, 'Yihudaa biittan de7iya Beetaliheemee, neeni Yihudaa biittaa haariyaageetuppe ainne laafakka. Aissi giikko, ta asaa, Israa7eela haariyaagee neeppe kiyana' giidi xaafiis” yaagidosona.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Hegaappe guyyiyan, Heeroodisi arshsho baggappe yiida asata geeman xeesidi, xoolinttee etau beettido wodiyaa etappe geeshshidi eriis.</verse>
         <verse number="8">Yaatidi Beetaliheeme eta yeddiiddi, “Biidi na7aa mintti koyite; a demmido wode taanikka baada ayyo goinnanaadan, tana erissite” yaagiis.</verse>
         <verse number="9">Eti kawoi giidoogaa siyidi biidosona; biiddi ogiyan arshsho baggaara eti kase be7ido xoolinttiyaa be7idosona; he xoolinttee na7ai de7iyoosaa gakkidi eqqana gakkanaassi, eta kaalettiis.</verse>
@@ -44,10 +44,10 @@
         <verse number="12">Eti Heeroodisakko simmenna mala, Xoossai aimuwan eta, “Inttena erite” gin hara ogiyaara bantta dere simmidosona.</verse>
         <verse number="13">Eti biidoogaappe guyyiyan, Godaa kiitanchchai aimuwan Yooseefayyo beettidi, “Heeroodisi na7aa woranau koyiyo gishshau, denddada na7aanne na7aa aayyiyo ekkada Gibxxe biitti baqata; taani neeyyo odana gakkanaassi, yan uttaashsha” yaagiis.</verse>
         <verse number="14">Yaagin Yooseefi qammi denddidi, na7aanne na7aa aayyiyo ekkidi, Gibxxe biitti biis; Godai hananabaa yootiyaagaa baggaara, “Taani ta na7aa Gibxxe biittaappe xeesaas” giidoogee polettana mala, Heeroodisi haiqqana gakkanaassikka i yan de7iis.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">Hegaappe guyyiyan, Heeroodisi arshsho baggappe yiidaageeti bana cimmidoogaa erido wode, daro hanqqettiis; hanqqettidi xoolinttee kase beettido wodiyaabaa etappe siyidoogaadankka, wotaaddarata yeddidi, Beetaliheemeeninne Beetaliheeme heeran de7iya naa77u laitta attuma naatanne qassi naa77u laittappe guuxxiya attuma naata ubbaa worissiis.</verse>
         <verse number="17">Hananabaa yootiya Ermmaasi, “Yeehoinne zilaassai Raama giyo kataman siyettiis; Raaheela ba naatuyyo yeekkausu. Eti haiqqiichchido gishshau, agga gin, aggennan ixxaasu” giidi haasayidoogee polettiis.</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">SHin Heeroodisi haiqqidoogaappe guyyiyan, Godaa kiitanchchai Gibxxe biittan de7iya Yooseefayyo aimuwan beettidi</verse>
         <verse number="20">a, “Dendda; na7aanne na7aa aayyiyo ekkada, Israa7eela biitti simma; aissi giikko, na7aa woranau koyiyaageeti haiqqiichchidosona” yaagiis.</verse>
         <verse number="21">Yaagin Yooseefi denddidi, na7aanne na7aa aayyiyo ekkidi, Israa7eela simmiis.</verse>
@@ -56,7 +56,7 @@
       </chapter>
       <chapter number="3">
         <verse number="1">He wode Xammaqiya Yohaannisi asaa, “Saluwaa kawotettai matattido gishshau, intte nagaraappe simmite” yaagiiddi, Yihudaa Bazzuwan yootiiddi yiis.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Aissi giikko, hananabaa yootiya Isiyaasi, Yohaannisabaa yootiiddi, “Issoi bazzon ba qaalaa xoqqu oottidi, 'Godaa ogiyaa giigissite. I hemettana loossuwaakka ayyo sitti oottite' giis” yaagiis.</verse>
         <verse number="4">Yohaannisau gaameelaa ikisiyan dadettida afalai de7ees; qassi ba xeessan dafuwaa gixxees; i miyo qumaikka boolenne degeera eessa.</verse>
         <verse number="5">Asai he wode Yerusalaameppe, Yihudaa biitta ubbasaappenne Yorddaanoosa giyo shaafaa heeran de7iya biitta ubbaappe akko yees.</verse>
@@ -145,7 +145,7 @@
         <verse number="42">Nena woossiya urau imma; qassi neeppe tal77ana koyiya uraukka diggoppa.</verse>
         <verse number="43">“'Ne shooruwaa siiqa; ne morkkiyaa morkka' giidoogaa siyideta.</verse>
         <verse number="44">SHin taani intteyyo odais; saluwan de7iya intte Aawau naata gidana mala, intte morkketa siiqite; inttena qanggiyaageetakka anjjite; inttena ixxiyaageetuyyo lo77obaa oottite; inttena waissiyaageetuyyookka Xoossaa woossite; aissi giikko, iita asaukka lo77o asaukka Xoossai ba awaa awaxxissees; qassi xillotuyyookka nagaranchchatuyyookka ba iraa bukissees.</verse>
-        <verse number="45"></verse>
+        <verse number="45">***</verse>
         <verse number="46">Aissi giikko, intte inttena siiqiyaageetu xalaalaa siiqikko, intteyyo ai woitoi de7ii? Harai atto, giiraa ekkiyaageetikka hegaadan oottoosona.</verse>
         <verse number="47">Intte intte ishanttu xalaalaa sarotikko, harati oottiyoogaappe aadhdhiyaabaa ai oottidetii? Harai atto, Xoossaa ammanenna asaikka hegaadan oottees.</verse>
         <verse number="48">Hegaa gishshau, saluwan de7iya intte Aawai bali bainnaagaa gidiyoogaadan, inttekka bali bainnaageeta gidite.</verse>
@@ -154,7 +154,7 @@
         <verse number="1">“Intte ammano oosuwaa asa bessanau asa sinttan oottenna mala naagettite; hegee xayikko, saluwan de7iya intte Aawai intteyyo woituwaa immenna.</verse>
         <verse number="2">“Hegaa gishshau, intte aibakko hiyyeesau immiyo wode, lo77o milatiya iitati banttana bonchchissanau, Aihuda woosa keettatuuninne ogetun awaajissiyoogaadan awaajissoppite; taani intteyyo tumaa odais; eti bantta woituwaa ekkiichchidosona.</verse>
         <verse number="3">SHin intte hiyyeesau immiyo wode, geeman immanaadan, intte ushachcha kushee oottiyoogaa intte haddirssa kushee eroppo; geeman be7iya intte Aawai intteyyo qoncciyan immana.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">“Xoossaa woossiiddi, lo77o milatiya iitatudan hanoppite; aissi giikko, banttana asi be7ana mala; Aihuda woosa keettatuuninne ogetu doonan eqqidi, Xoossaa woossiyoogaa dosoosona; taani intteyyo tumaa odais; eti bantta woituwaa muleera ekkiichchidosona.</verse>
         <verse number="6">SHin intte Xoossaa woossiyo wode, intte soo gelite; kariyaa gorddidi, geeman de7iya intte Aawaa woossite; geeman be7iya intte Aawai intteyyo qoncciyan immana.</verse>
         <verse number="7">“Xoossaa intte woossiyo wode, Xoossaa ammanenna asaagaadan, mela biddoppite; aissi giikko, Xoossaa ammanenna asai adussidi Xoossaa woossin siyees giidi qoppees.</verse>
@@ -168,7 +168,7 @@
         <verse number="15">SHin intte inttena naaqqida hara asaa naaquwaa atto gaana xayikko, intte Aawaikka intte naaquwaa atto geenna.</verse>
         <verse number="16">“Qassi intte xoomiyo wode, lo77o milatiya iitatudan, kayyottiyaabaa milatoppite; aissi giikko, eti xoomiyoogaa asai be7ana mala, bantta som77uwaa bullaalissoosona; taani intteyyo tumaa odais; eti bantta woituwaa muleera ekkiichchidosona.</verse>
         <verse number="17">“SHin intte xoomiyo wode, intte Aawai intte xoomiyoogaa eranaappe attin, asi erenna mala, intte som77uwaa meeccite; intte huuphiyaakka tiyettite; yaatikko, geeman de7iya intte Aawai intte oottiyoogaa geeman be7idi, intteyyo qoncciyan immana.</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">“Bil77i bashshiyoosaaninne birati shiyiyoosan, kaisoikka bookkidi wuuqqiyoosan, sa7an intte huuphessi miishsha dagayoppite.</verse>
         <verse number="20">SHin bil77inne qunoi bashshennasan, kaisoikka bookkidi wuuqqennasan intte huuphessi saluwan miishsha dagayite.</verse>
         <verse number="21">Aissi giikko, ne wozanai ne miishshai de7iyoosan de7ana.</verse>
@@ -223,7 +223,7 @@
         <verse number="3">Yesuusi ba kushiyaa yeddidi, a bochchidi, “Taani koyais; paxa” yaagiis. Yaagin sohuwaarakka inchchirichchai bitaniyaa yeddi aggiis.</verse>
         <verse number="4">Yesuusi a, “Simmi hagaa ooyyoonne yootoppa; shin qeesiyaakko baada ne bollaa a bessa; neeni paxidoogaa asaa erissanau Muusee azazido yarshshuwaa yarshsha” yaagiis.</verse>
         <verse number="5">Yesuusi Qifirinaahooma katamaa gelido wode, issi mato halaqai akko yiidi, “Ta Godau, ta ashkkaraa asatettai silin, daro sahettiiddi, son zin77iis; hai pattarkkiishsha” yaagidi woossiis.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Woossin Yesuusi, “Taani baada a pattana” yaagiis.</verse>
         <verse number="8">SHin mato halaqai zaaridi yaagiis; “Ta Godau, nena ta soo gelissanau tau bessenna; shin neeni doona xalaalaa haasaya; ta ashkkarai paxana.</verse>
         <verse number="9">Aissi giikko, taani taappe bollaara de7iyaageetuyyo haarettiya asa; qassi taappe garssaara wotaaddarati de7oosona. Taani issuwaa, 'Ba' giikko bees; qassi hinkkuwaa, 'Haaya' giikko yees; ta ashkkaraa, 'Hagaa ootta' giikko oottees” yaagiis.</verse>
@@ -234,7 +234,7 @@
         <verse number="14">Yesuusi PHeexiroosa soo biidi, a bollotiyaa qoxonne misho harggada zin77idaaro be7iis.</verse>
         <verse number="15">I kushiyaa i bochchin, qoxoinne mishoi o aggi bayiis; aggi bayin, a denddada ayyo oottaasu.</verse>
         <verse number="16">Sa7ai omariyo wode, asai xalaheti oiqqido daro asaa Yesuusakko ehiis; hananabaa yootiya Isiyaasi, “I nu sahuwaa bau ekkiis; qassi nu harggiyaakka tookkiis” giidoogee polettana mala, Yesuusi tuna ayyaanata ba qaalan kessidi, harggida asa ubbaakka pattiis.</verse>
-        <verse number="17"></verse>
+        <verse number="17">***</verse>
         <verse number="18">Yesuusi daro asai ba matan yuuyi aadhdhidi eqqidoogaa be7idi, abbaappe hefintti pinnana mala, ba erissiyo ashkkarata azaziis.</verse>
         <verse number="19">Higgiyaa tamaarissiya issoi akko yiidi, “Tamaarissiyaagoo, neeni biyoosaa ubbaa taani nena kaallana” yaagiis.</verse>
         <verse number="20">Yesuusi a, “Worakanatussi ollai de7ees; kafotussikka keettai de7ees; shin taani, Asa Na7ai, zin77ada shemppa ekkiyoosikka tau baawa” yaagiis.</verse>
@@ -386,7 +386,7 @@
         <verse number="14">SHin Parisaaweti kare kiyidi, Yesuusa waati woranaakko maqettidosona.</verse>
         <verse number="15">SHin Yesuusi eta zoretaa eridi, he sohuwaappe aggidi biishin, daro asai a kaalliis; harggida ubbaa pattiis.</verse>
         <verse number="16">Xoossai hananabaa yootiya Isiyaasa baggaara giidoogee polettana mala, Yesuusi asatuyyo, “Tabaa hara asassi yootoppite” yaagiis.</verse>
-        <verse number="17"></verse>
+        <verse number="17">***</verse>
         <verse number="18">Xoossai Isiyaasa baggaara hagaadan yaagiis; “Taani doorido ta ashkkarai, taani siiqiyo, tana ufaissiyaagee hageeho. Taani ta Ayyaanaa a bolli wottana. I suure pirddaa Aihuda gidenna asa ubbau yootana.</verse>
         <verse number="19">I palamettenna; woi wocamenna. Ba qaalaakka ogiyan sissenna.</verse>
         <verse number="20">Suure pirddaa i xoonissana gakkanaassi, dinccettida shombboquwaa menttenna; qassi cuwattiya muqaaddaakka i toissenna.</verse>
@@ -456,7 +456,7 @@
         <verse number="32">He zerettiyaa zeretta ubbaappe guuxxausu; shin diccido wode, hara ataakiltte ubbaappe gitatausu; kafoi yiidi, i tashiyan keexxiyoogaa keena gita mitta gidausu” yaagiis.</verse>
         <verse number="33">Qassikka Yesuusi hara leemisuwaa etau yaagidi odiis; “Saluwaa kawotettai issi mishiriyaa heezzu kere xiilliyaa ekkada, munaqqido munaqai ubbai denddana gakkanaassi, aani tigido irshshuwaa milatees” yaagiis.</verse>
         <verse number="34">Yesuusi asau he ubbaa leemisuwan odiis; leemisoi bainnan i issibaakka odenna; hananabaa yootiyaagee, “Taani etayyo haasayiyo wode leemisuwan haasayais. Sa7ai merettoosappe doommidi geemmida yohota odais” giidoogee polettana mala, hegaa i odiis.</verse>
-        <verse number="35"></verse>
+        <verse number="35">***</verse>
         <verse number="36">Hegaappe guyyiyan, Yesuusi asaa yeggi bayidi, soo geliis; erissiyo ashkkarati akko biidi, “Goshshan de7iya zardduwaa leemisuwaa birshshettaa nuuyyo oda” yaagidosona.</verse>
         <verse number="37">Yaagin Yesuusi zaaridi, hagaadan yaagiis; “Lo77o zerettaa zeriyaagee tana Asa Na7aa.</verse>
         <verse number="38">Goshshai sa7aa; lo77o zerettai kawotettaa asaa; zarddoi xalahe halaqaa asaa.</verse>
@@ -525,7 +525,7 @@
         <verse number="3">Yesuusi zaaridi, eta hagaadan yaagiis; “Intte intte wogaa gishshau, Xoossaa azazuwaa poliyoogaa aissi ixxeetii?</verse>
         <verse number="4">Aissi giikko Xoossai, 'Ne aawaanne ne aayyiyo bonchcha' qassi, 'Ba aawaa woi ba aayyiyo cayiyaagee haiqqo' yaagiis.</verse>
         <verse number="5">SHin intte, 'Issi asi ba aawaa woi ba aayyiyo maaddiyoobi bau de7in, “Hegee Xoossaabaa” giikko, ba aawaa woi ba aayyiyo bonchchanau bessenna' yaageeta; yaatidi intte intte wogaa polanau Xoossaa qaalaa xaissideta.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Ha lo77o milatiya iita asatoo, Isiyaasi balennan inttebau hananabaa yootiiddi,</verse>
         <verse number="8">'Xoossai hagaadan yaagiis; “Hagee asai tana ba bolla doonan bonchchees; shin eta wozanai taappe haahuwan de7ees.</verse>
         <verse number="9">Asai tau mela goinnees; aissi giikko, asi oottido azazuwaa Xoossaa higgiyaa milatissidi tamaarissees” giis' yaagiis” yaagiis.</verse>
@@ -700,7 +700,7 @@
         <verse number="9">“Tammanne isiinintta saatiyan oosuwaa doommidaageeti yiidi, huuphiyan huuphiyan issi issi shilinggiyaa ekkidosona.</verse>
         <verse number="10">Koiro oosuwaa doommida asati yiido wode, daruwaa ekkanau qoppidosona; shin etikka huuphiyan huuphiyan issi issi shilinggiyaa ekkidosona.</verse>
         <verse number="11">Ekkidi, 'Ha guyyeppe yiidaageeti issi saate xalaalaa oottidosona; kumetta gallassaa daafuraanne hombbiyaa ekkida nuugaara eta damoozaa lagge oottadasa' yaagidi banttana oosuwan gelissidaagaa bolli zuuzummidosona.</verse>
-        <verse number="12"></verse>
+        <verse number="12">***</verse>
         <verse number="13">“SHin i etappe issuwaa hagaadan yaagiis; 'Ta jaalau, taani nena naaqqabeikke; issi shilinggiyan tanaara giigabeikkiiyye?</verse>
         <verse number="14">Neegaa ekkada ba; taani ha wurssettan oosuwan gelidaagaassikka neegaa keenaa immanau koyais.</verse>
         <verse number="15">Taani ta miishshan ta koyidobaa oottanau tau maati baawee? Woi taani keha gidido gishshau, neeni qanaatai?' yaagiis.</verse>
@@ -729,7 +729,7 @@
         <verse number="2">eta hagaadan yaagiis; “Intteppe sinttan de7iya qeeri katamaa biite; biidi issi hariyaa qashuwan de7iyaaro i maraara intte sohuwaara demmana; eta birshshidi, tau ekki yiite.</verse>
         <verse number="3">Ooninne inttena oichchikko, 'Godai hageeta koyees' yaagite; sohuwaarakka i eta yeddi bayana.</verse>
         <verse number="4">Hananabaa yootiyaagee, “Xiyoone katamau, 'Be7a, ne kawoi ashkke gididi, hariyaa bolli, hare maraa bolli uttidi, neekko yees' yaagite” yaagidi haasayidoogee polettana mala, hagee haniis.</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">Erissiyo ashkkarati biidi, Yesuusi banttana azazidoogaadan oottidosona.</verse>
         <verse number="7">Hariyoonne hare maraa ehiidi, bantta maayuwaa eta zokkuwan hiixxidosona; hiixxin Yesuusi toggiis.</verse>
         <verse number="8">He daro asaappe dariya baggai ba maayuwaa ogiyan hiixxiis; qassi harati mittaa tashiyaa kari karidi, ogiyan hiixxidosona.</verse>
@@ -804,7 +804,7 @@
         <verse number="29">Yesuusi zaaridi, hagaadan yaagiis; “Xoossaa maxaafata woi a wolqqaa intte erenna gishshau baleeta.</verse>
         <verse number="30">Aissi giikko, haiqqida asai haiquwaappe denddiyo gallassi, saluwan de7iya kiitanchchatu mala gidanaappe attin, attumaasinne ekkenna; maccaasinne gelenna.</verse>
         <verse number="31">SHin haiqqidaageetu dendduwaabaa gidikko, Xoossai, 'Taani Abrahaama Xoossaa, Yisaaqa Xoossaa, Yaaqooba Xoossaa' yaagidi intteyyo odidoogaa mulekka nabbabibeekketii? Xoossai paxa de7iyaageetu Xoossaa gidiyoogaappe attin, haiqqidaageetu Xoossaa gidenna” yaagiis.</verse>
-        <verse number="32"></verse>
+        <verse number="32">***</verse>
         <verse number="33">Daro asai hegaa siyidi, a timirttiyan garamettiis.</verse>
         <verse number="34">SHin Yesuusi Saaduqaaweta co77u oottidoogaa Parisaaweti siyido wode, issisaa shiiqidosona.</verse>
         <verse number="35">Eta giddoppe higgiyaa tamaarissiya issoi, Yesuusa paaccanau issibaa oichchiis.</verse>
@@ -814,7 +814,7 @@
         <verse number="39">Qassi naa77antto azazoikka a mala; hegee, 'Neeni ne shooruwaa ne huuphedan siiqa' giyaagaa.</verse>
         <verse number="40">Muuse higge ubbainne hananabaa yootiyaageetu timirttee ha naa77u azazotun qashettees” yaagiis.</verse>
         <verse number="41">Parisaaweti issisaa shiiqidaashin Yesuusi eta, “Kiristtoosabaa woigi qoppeetii? I o na7ee?” yaagidi oichchiis. Oichchin eti, “Kiristtoosi Daawita na7aa” yaagidosona.</verse>
-        <verse number="42"></verse>
+        <verse number="42">***</verse>
         <verse number="43">Yesuusi eta, “Yaatin, Daawiti bana Geeshsha Ayyaanai haasayissin Kiristtoosa woigidi, 'Goda' giidi xeesii?</verse>
         <verse number="44">Qassikka Daawiti, 'Godai ta Godaa, “Taani ne morkketa neeni yedhdha eqqiyoobaa oottana gakkanaassi, hagan taappe ushachcha baggaara utta” giis' yaagiis.</verse>
         <verse number="45">Daawiti Kiristtoosa, 'Godaa' giidi xeesikko, yaatin, Kiristtoosi waanidi Daawita na7a gidii?” yaagiis.</verse>
@@ -1223,7 +1223,7 @@
         <verse number="12">Yesuusi he iita ayyaanati babaa asau yootidi, bana qoncciyaa kessenna mala, eta minttidi azaziis.</verse>
         <verse number="13">Yesuusi deriyaa bolli kiyidi, ba koyido asata baakko xeesiis; xeesidoogeeti akko biidosona.</verse>
         <verse number="14">Eti banaara de7ana malanne qaalaa yootanau eta kiittana mala, xalaheta kessanaukka etayyo maatai de7ana mala, tammanne naa77u asata dooriis.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">I doorido tammanne naa77ati hageeta: PHeexiroosa yaagidi sunttido Simoona,</verse>
         <verse number="17">Bo7anerggeesa yaagidi sunttidoogeeta, Zabddiyoosa naata Yaaqoobanne Yaaqooba ishaa Yohaannisa. “Bo7anerggeesa” giyoogee “Dadaa milatiya asata” giyoogaa.</verse>
         <verse number="18">Inddiraasanne Piliphphoosa, Barttalamoosanne Maatiyoosa, Toomaasanne Ilppiyoosa na7aa Yaaqooba, Taaddiyoosanne ba biittau mishettiya Simoona,</verse>
@@ -1257,7 +1257,7 @@
         <verse number="9">Yaagidi, “Siyanau haitti de7iyo urai siyo” yaagiis.</verse>
         <verse number="10">Yesuusi yootidoogaa siyida hara asatinne tammanne naa77u erissiyo ashkkarati Yesuusi barkka de7ishin, akko shiiqidi, he leemisuwaa birshshettaa a oichchidosona.</verse>
         <verse number="11">Oichchin Yesuusi etassi hagaadan yaagiis; “Inttessi Xoossaa kawotettaa xuura yohuwaa erai imettiis; shin harati kawotettaappe kareera de7iyaageeti, xeeluwaa xeellidi be7enna mala, qassi sissaa siyidikka akeekenna mala, eti naa77anttuwaa Xoossaakko simmin, i eta nagaraa atto geenna mala, etayyo ubbabai leemisuwan odettiis” yaagiis.</verse>
-        <verse number="12"></verse>
+        <verse number="12">***</verse>
         <verse number="13">Yesuusi eta, “Ha leemisuwaa erekketii? Yaatin, leemiso ubbaa waati eruuteetii?</verse>
         <verse number="14">Zeriyaagee Xoossaa qaalaa zerees.</verse>
         <verse number="15">Qaalai zerettiyo ogiyaa doonan de7iyaageeti hageeta; eti qaalaa siyiyo wode, Seexaanai sohuwaarakka yiidi, eta wozanan zerettida qaalaa efirggees.</verse>
@@ -1270,7 +1270,7 @@
         <verse number="22">Aissi giikko, qosidobai ubbai qoncciyaa kiyana; qassi genttidobai ubbaikka beettennan attenna.</verse>
         <verse number="23">Siyanau haitti de7iyo urai de7ikko siyo” yaagiis.</verse>
         <verse number="24">Qassikka eta, “Intte siyiyoogaa ezggidi siyite; Xoossai intte makkido qun77an intteyyo makkana. I intteyyo darissidi immana; aissi giikko, issibai de7iyo urau gujji immana; bainnaagaappe harai atto, au de7iya he guuttiyookka ekkirggana” yaagiis.</verse>
-        <verse number="25"></verse>
+        <verse number="25">***</verse>
         <verse number="26">Yesuusi qassikka yaagiis; “Xoossaa kawotettai ba gaden katta zeriya asa mala.</verse>
         <verse number="27">He bitanee qammi xiskkees; maallado denddees; i ba huuphen waaniyaakkonne erennan, he zerettai mokkeesinne diccees.</verse>
         <verse number="28">Biittai kattaa barkka mokkeesinne aifees; koiro carshshai caarees; guyyeppe aifanau kukkumees; qassi wurssettan kumetta aifiyaa aifees.</verse>
@@ -1398,7 +1398,7 @@
         <verse number="4">Qassi giyaappe yiidikka meecettennan de7iiddi mookkona. Qassi eti bantta aawatuppe ekkido hara daro wogai de7ees; hegee siiniyaanne keriyaa nahaasiyaappe medhdhido miishshaanne arssaa meecciyo wogaa.</verse>
         <verse number="5">Parisaawetinne higgiyaa tamaarissiyaageeti Yesuusa, “Ne erissiyo ashkkarati aissi aawatu wogaa kaallennan ixxidi, bantta kushiyaa meecettennan oittaa miyoonaa?” yaagidi oichchidosona.</verse>
         <verse number="6">Yesuusi eta hagaadan yaagiis; “Isiyaasi hananabaa yootido wode, inttebaa, lo77o milatiya iitatubaa xaafidoogaadankka, 'Xoossai, “Hagee asai tana ba bolla doonan bonchchees. SHin eta wozanai taappe haahuwan de7ees; asai tau mela goinnees. Aissi giikko, asi oottido azazuwaa Xoossaa higgiyaa milatissidi tamaarissees” giis' giidi hananabaa tumaa yootiis.</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">“Xoossaa azazuwaa intte aggi bayidi, asa wogaa minttidi naageeta” yaagiis.</verse>
         <verse number="9">Qassikka Yesuusi, “Intte intte wogaa naaganau Xoossaa azazuwaa yeggi bayeeta.</verse>
         <verse number="10">Aissi giikko Muusee, 'Ne aawaanne ne aayyiyo bonchcha.' Qassi, 'Ba aawaanne ba aayyiyo cayiyaagee haiqqo' yaagiis.</verse>
@@ -1476,7 +1476,7 @@
         <verse number="3">a maayoikka phooliis; sa7an maayo meecciya ooninne geeshshanau danddayennaagaa keenaa daro booxxiis.</verse>
         <verse number="4">He heezzu erissiyo ashkkarati, Eelaasinne Muusee Yesuusaara haasayiyaageeta be7idosona.</verse>
         <verse number="5">PHeexiroosi Yesuusa, “Tamaarissiyaagoo, nuuni hagan de7iyoogee nuussi lo77o; nuuni heezzu zamppata issuwaa neessi, issuwaa Muusessi, qassi issuwaa Eelaasassi zamppayana” yaagiis. I woigiyaakkonne eribeenna; aissi giikko, ikko hinkkootikka daro yayyidosona.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Hegaappe guyyiyan, shaarai yiidi eta kammin shaaraappe, “Hagee taani siiqiyo ta Na7aa; i giyoogaa siyite” giya qaalai yiis.</verse>
         <verse number="8">Sohuwaara eti yuushshi aatti xeelliyo wode, Yesuusappe attin, haraa oonanne bantta matan be7ibookkona.</verse>
         <verse number="9">Eti deriyaappe wodhdhishin, Yesuusi eta, “Taani, Asa Na7ai, haiquwaappe denddana gakkanaassi, intte be7idobaa ooyyoonne odoppite” yaagidi azaziis.</verse>
@@ -1514,11 +1514,11 @@
         <verse number="41">Taani intteyyo tumaa odais; intte taageeta Kiristtoosaageeta gidiyo gishshau, ooninne intteyyo ta sunttan bule haatta uyanau immikkokka, ba woituwaa ekkana.</verse>
         <verse number="42">“Tana ammaniya ha guuttatuppe issuwaa balettiya oonanne, gaacciyo wogga woxaa a qooriyan qachchidi, abban a oliyoogee au keha.</verse>
         <verse number="43">Ne kushee nena balettikko, qanxxa ola; neeni naa77u kushiyaara guxunee mule haiqqennasaanne qassi mulekka to77enna Gaannabiyaa taman geliyoogaappe, duuxa kushiyaara de7uwaa geliyoogee neeyyo keha.</verse>
-        <verse number="44"></verse>
+        <verse number="44">***</verse>
         <verse number="45">Ne tohoi nena balettikko, qanxxa ola; neeni naa77u tohuwaara guxunee mule haiqqennasan, qassi mulekka to77enna Gaannabiyaa taman yegettiyoogaappe, wobbe gidada de7uwaa geliyoogee neeyyo keha.</verse>
-        <verse number="46"></verse>
+        <verse number="46">***</verse>
         <verse number="47">Ne aifee nena balettikko, wooca ola; neeni naa77u aifiyaara guxunee mule haiqqennasan qassi mulekka to77enna Gaannabiyaa taman yegettiyoogaappe, issi aifiyaara Xoossaa kawotettaa geliyoogee neeyyo keha.</verse>
-        <verse number="48"></verse>
+        <verse number="48">***</verse>
         <verse number="49">“Aissi giikko, quman maxiniyaa yeggiyoogaadan, tamai asa ubbaa bolli yegettana.</verse>
         <verse number="50">Maxinee lo77o; shin i mal77ana xayikko, zaaridi a waati mal77ettuuteetii? Inttenan maxinee de7o; yaatidi issoi issuwaara sarotettan de7ite” yaagiis.</verse>
       </chapter>
@@ -1622,7 +1622,7 @@
         <verse number="8">Na7aa oiqqidi woridi, a ahaa woiniyaa turaa giddoppe gaxaa kessi olidosona.</verse>
         <verse number="9">“Simmi woiniyaa turaa godai waatanee? Yiidi he kottaawata wori wurssidi, woiniyaa turaa kottaa oottiya hara asau immana.</verse>
         <verse number="10">“'Gimbbiyaageeti karidi ixxido shuchchai godaa xaphuwaa minttiya, ubbaappe aadhdhiya shuchcha gidiis. Hagee Godai oottidobaa; qassi nu aifiyaukka garamissiyaabaa' yaagiyaagaa Xoossaa maxaafaappe nabbabibeekketii?” yaagiis.</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">Qeese halaqati, higgiyaa tamaarissiyaageetinne cimati Yesuusi he leemisuwaa banttanan leemisidoogaa erido gishshau, a oiqqanau koyidosona; shin asau yayyidi, aggi bayidi biidosona.</verse>
         <verse number="13">Qassi a haasayaappe bala demmidi, a oiqqana mala, Parisaawetuppenne Heeroodisa baggatuppe amaridaageeta akko kiittidosona.</verse>
         <verse number="14">Kiittin yiidi, “Tamaarissiyaagoo, neeni tumaa haasayiyoogaanne asappe asa shaakkennaagaa nuuni eroos; aissi giikko, neeni asa dummayakka; qassi Xoossaa ogiyaa tumatettan tamaarissaasa. Nuuni Roome biittaa Kawuwaa Qeesaarayyo giiraa giiriyoogee wogeeyye woga gidennee? Giiraa giiraneeyye digganee?” yaagidosona.</verse>
@@ -1701,7 +1701,7 @@
         <verse number="2">“Asai ooshshaa kessenna mala, Paasikaa bonchchiyo gallassi hegaa oottokko” yaagidosona.</verse>
         <verse number="3">Yesuusi Biitaaniyaa kataman inchchirichchaa harggiya Simoona son qumaa maanau uttidaashin, issi mishiriyaa albbasxxiroosa giyo shuchchaappe oottido bilqqaadiyaa kumida narddoosiyaa giyo daro al77o shittuwaa ekkada yaasu; yaada he bilqqaadiyaa menttada shittuwaa Yesuusa huuphiyan tigaasu.</verse>
         <verse number="4">He sohuwan de7iya asaappe issoi issoi hanqqettidi, “Ha shittuwaa coo mooriyoogee aibissee? Ha shittuwaa xeetanne ishatamu biraappe dariya waagan baizzidi, miishshaa hiyyeesau immanau danddayettees” yaagidi bantta giddon haasayoosona; yaatidi he mishiriyo daro boridosona.</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">SHin Yesuusi hagaadan yaagiis; “Ha maccaasiyo ainne gooppite; o aissi waisseetii? A tau lo77obaa oottaasu.</verse>
         <verse number="7">Hiyyeesati ubba wode inttenaara de7oosona; intte koyido wode audenne eta maaddanau danddayeeta; shin taani ubba wode inttenaara de7ikke.</verse>
         <verse number="8">A ba danddayidoogaa oottaasu; qassi tana mooguwau giigissanau kasetada shittuwaa tiyaasu.</verse>
@@ -1754,7 +1754,7 @@
         <verse number="55">Qeese halaqatinne yaa7aa asai ubbai Yesuusa woranau a bolli markka koyidosona; shin ainne demmibookkona.</verse>
         <verse number="56">Aissi giikko, daro asati a bolli wordduwaa markkattidosona; shin eta markkatettai issi mala gidenna.</verse>
         <verse number="57">Issi issi asati denddi eqqidi Yesuusa bolli, “I, 'Taani asai keexxido ha Beeta Maqidasiyaa qolada, asai keexxibeenna hara Beeta Maqidasiyaa heezzu gallassa giddon keexxana' giishin, nuuni siyida” yaagidi wordduwaa markkattidosona.</verse>
-        <verse number="58"></verse>
+        <verse number="58">***</verse>
         <verse number="59">SHin harai atto eta markkatettai hegankka issi mala gidibeenna.</verse>
         <verse number="60">Qeese ubbatu halaqai asa ubbaa sinttan denddi eqqidi Yesuusa, “Hageeti nena mootiyo mootuwau neeyyo zaariyoobi baawee?” yaagidi oichchiis.</verse>
         <verse number="61">SHin Yesuusi co77u giidi, ainne zaaribeenna; qeese ubbatu halaqai a, “Anjjettida Xoossaa Na7ai Kiristtoosi nenee?” yaagidi naa77anttuwaa oichchiis.</verse>
@@ -1813,7 +1813,7 @@
         <verse number="40">Hegan haahuwan eqqidi xeelliya amarida maccaasati de7oosona; eta giddon Magddala giyo katamaappe yiida Mairaama, kaaluwaa Yaaqoobanne Yoosa aayyiyaa Mairaamanne Salooma de7oosona.</verse>
         <verse number="41">He macca asati Yesuusi Galiilan de7iyo wode, a kaallidaageetanne a maaddidaageeta; qassi Yesuusaara issippe Yerusalaame biida hara daro macca asati hegan de7oosona.</verse>
         <verse number="42">Sa7ai omarido wode, yaa7aa asan bonchchettida issi Yooseefa giyo bitanee, Xoossaa kawotettai yaanaagaa naagi uttidaagee, Armmaatiyaasa giyo katamaa asi yiis; he gallassai wonttetta Sambbataayyo giigettiyo gallassa gidido gishshau, Yooseefi xalidi PHilaaxoosakko biidi, Yesuusa ahaa ekkanau woossiis.</verse>
-        <verse number="43"></verse>
+        <verse number="43">***</verse>
         <verse number="44">PHilaaxoosi Yesuusi haiqqidoogaa siyido wode garamettiis; mato halaqaa xeesidi, “I haiqqoosappe gam77idee?” yaagidi oichchiis.</verse>
         <verse number="45">PHilaaxoosi Yesuusi haiqqidoogaa mato halaqaappe siyidi, a ahaa Yooseefayyo imissiis.</verse>
         <verse number="46">Yooseefi moogo afalaa shammiis; Yesuusa ahaa masqqaliyaappe wottidi, afalan xaaxidi, shuchchaa woocido asa moogiyo gonggoluwaa giddon a ahaa wottiis; qassi he gonggoluwaa doonan gita shuchchaa gonddorssidi wottiis.</verse>
@@ -1845,14 +1845,14 @@
     <book number="42">
       <chapter number="1">
         <verse number="1">Bonchcho Tewofiloosaa, koiro bantta aifiyan be7idaageetuppenne Xoossaa qaalaa odidaageetuppe ekkidoogaadan, nu matan polettida Yohuwaassi daroti taarikiyaa maaran maaran xaafanau doommidosona.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Hegaa gishshau, neeni tamaarido yohuwaa geeshshada erana mala, taani qassi koiruwaappe doommada, ubbaa akeekan qorada, maaran maaran neessi xaafikko, lo77o yaagada qoppaas.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">Yihudaa biittaa kawuwaa Heeroodisa wodiyan, Zakkaariyaasa yaagiyo issi qeesee de7ees. I Abiiya qeesetuppe issuwaa. A machchiyaanne qeesiyaa Aaroona zare; i sunttai Elssaabeexo.</verse>
         <verse number="6">Eti naa77aikka Xoossaassi xillo gididi, Godaa higgiyaanne azazuwaa ubbaa moorennan, naagidi polidosona.</verse>
         <verse number="7">Elssaabeexa maine gidido gishshau, etassi na7i baawa; naa77aikka daro cimidosona.</verse>
         <verse number="8">Bantta qeesetu kayan Zakkaariyaasi Xoossaa sinttan oottishin, qeesetu meeziyaadan, Godaa Beeta Maqidasiyaa gelidi, ixaanaa cuwayanau saamai a gakkiis.</verse>
-        <verse number="9"></verse>
+        <verse number="9">***</verse>
         <verse number="10">Ixaanaa i cuwayiyo wode, asai ubbai karen eqqidi, Xoossaa woossees.</verse>
         <verse number="11">Xoossaa kiitanchchai ixaanaa i cuwayiyo sohuwaappe ushachcha baggaara eqqidi, ayyo beettiis.</verse>
         <verse number="12">Zakkaariyaasi hegaa be7idi, dagammidi yayyin,</verse>
@@ -1885,20 +1885,20 @@
         <verse number="39">Guutta gallassaappe guyyiyan, Mairaama denddada, deree dariyo Yihudaa giyo biittan de7iya issi katamaa eesuwan baasu.</verse>
         <verse number="40">Qassi Zakkaariyaasa soo gelada, Elssaabeexo sarotaasu.</verse>
         <verse number="41">Elssaabeexa Mairaami sarotaa siyido wode, i uluwan de7iya na7ai qaaxxiis. Elssaabeexin Geeshsha Ayyaanai kumin, qaalaa xoqqissada, “Neeni maccaasa ubban anjjettidaaro; ne uluwan de7iya na7ainne anjjettidaagaa;</verse>
-        <verse number="42"></verse>
+        <verse number="42">***</verse>
         <verse number="43">neeni ta Godaa aayyiyaa taakko yaanau, hegaa mala bonchchoi taassi waanidi bessii?</verse>
         <verse number="44">Neeni saro giyo qaalan ta uluwan de7iya na7ai ufaissan qaaxxiis;</verse>
         <verse number="45">Godai neeyyo odido qaalai polettanaagaa ammanidaara neeni anjjettidaaro” yaagada Mairaamissi odaasu.</verse>
         <verse number="46">Mairaama hagaadan yaagaasu; “Taani a ailliyaa tooshettidoogaa i be7ido gishshau, ta shemppoi Godaa bonchchees; ta ayyaanaikka ta Xoossaa tana ashshiyaagan ufaittees. Be7a; wolqqaama Xoossai taassi daro gitabaa oottido gishshau, hachchippe sinttan tana asai ubbai anjjettidaaree yaagana. A sunttai geeshsha.</verse>
-        <verse number="47"></verse>
-        <verse number="48"></verse>
-        <verse number="49"></verse>
+        <verse number="47">***</verse>
+        <verse number="48">***</verse>
+        <verse number="49">***</verse>
         <verse number="50">I baassi yayyiya ubbaassi yeletaappe yeletaa gakkanaashin, maarotettaa immees.</verse>
         <verse number="51">Ba kushiyan wolqqaama oosuwaa oottiis. Otoranchchata eta qofaara laaliis.</verse>
         <verse number="52">Kawota kawotettaappe duge wottidi, ziqqan de7iyaageeta xoqqu oottiis.</verse>
         <verse number="53">Namisettidaageeta lo77obaa kalissidinne dureta mela kushe yedettiis.</verse>
         <verse number="54">Nu aawatussi odidoogaadan, Abrahaamassinne a zariyaassi Xoossai maarotettaa merinau immanau hassayidi, ailliyaa Israa7eela maaddiis” yaagaasu.</verse>
-        <verse number="55"></verse>
+        <verse number="55">***</verse>
         <verse number="56">Mairaama heezzu agina gidiyaagaa keenaa Elssaabeexi matan uttidoogaappe guyye baggan, ba soo simmaasu.</verse>
         <verse number="57">Elssaabeexissi yeliyo wodee gakkin, attuma na7aa yelaasu.</verse>
         <verse number="58">I shoorotinne i dabboti Godai maarotettan iyyo oottido lo77obaa siyidi, iira ufaittidosona.</verse>
@@ -1913,12 +1913,12 @@
         <verse number="67">Yohaannisa aawaa Zakkaariyaasan, Geeshsha Ayyaanai kumin, hagaadan hananabaa yootiis;</verse>
         <verse number="68">“Ba asaa maaddanau yiidi, eta wozido gishshau, Godai, Israa7eela Xoossai anjjetto.</verse>
         <verse number="69">Kaseesappe de7iya hananabaa yootiya geeshshatu doonan haasayidoogaadan, ba ashkkaraa Daawita zariyaappe denttidi, nuna ashshiya wolqqaamaa nuukko kiittiis.</verse>
-        <verse number="70"></verse>
+        <verse number="70">***</verse>
         <verse number="71">Xoossai nu morkketuppenne nuna ixxiyaageetu ubbaa kushiyaappe nuna ashshees.</verse>
         <verse number="72">Hagaadan nu aawatussi maarotettaa immiis. Nu aawaa Abrahaamassi caaqqido caaquwaa geeshsha maachchaa qoppiis.</verse>
-        <verse number="73"></verse>
+        <verse number="73">***</verse>
         <verse number="74">Aani nu morkketu kushiyaappe nuuni attidi, yayyennan nu de7uwaa wodiyaa ubban Xoossaa sinttan geeshshatettaaninne xillotettan ayyo oottanau, nuna danddayissiis.</verse>
-        <verse number="75"></verse>
+        <verse number="75">***</verse>
         <verse number="76">“Ta na7au, neeni Godaa ogiyaa giigissanau appe sinttau biyo gishshau, Ubbaappe Bolla Xoossaassi oottiya hananabaa yootiyaagaa geetettana.</verse>
         <verse number="77">Xoossai eta nagaraa atto giyoogan a asai attanau danddayiyoogaa eta erissanau baasa.</verse>
         <verse number="78">Hegeenne, nu Xoossaa maarotettainne qaretai daro gidiyo gishshau, saluwaa poo7uwaa i nu bollan poo7issana;</verse>
@@ -1930,13 +1930,13 @@
         <verse number="2">Asaa sunttai koiro xaafettiyo wode, Qereneyoosi Sooriyaa biittaa haariyaagaa.</verse>
         <verse number="3">Asa ubbai huuphiyan huuphiyan xaafettanau, ba yelettido biittaa biis.</verse>
         <verse number="4">Yooseefi qassi Daawitantta keettanne zare gidido gishshau, ayyo giigida Mairaamiira xaafettanau Galiilan de7iya Naazireete katamaappe Yihudaa biittan Beetaliheeme giyo Daawita katamaa issippe biis.</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">He wode Mairaama shahaara; eti yan Beetaliheemen de7ishin, a yeliyo wodee gakkiis;</verse>
         <verse number="7">ba baira na7aa yelaasu; imattai aqiyo keettan sohoi bainna gishshau, maayuwan na7aa xaaxada, miizzai kattaa wottin miyo qoriyan zin77issaasu.</verse>
         <verse number="8">He deren dorssaa wudiyaa qamma heemmiiddi, dembban aqiya asati de7oosona.</verse>
         <verse number="9">Godaa kiitanchchai etakko yiis; Godaa bonchchoi eta yuuyi aadhdhidi poo7iis. Eti daro yayyin,</verse>
         <verse number="10">kiitanchchai eta, “Hachchi Godai Kiristtoosi, ashshiyaagee Daawita kataman yelettidoogaassi taani asa ubbaa ufaissiya mishiraachchuwaa intteyyo odiyo gishshau, yayyoppite;</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">maayuwan xaaxettida gacino na7ai miizzai kattaa wottin miyo qoriyan zin77idaagaa demmanaagee intteyyo malaata gido” yaagiis.</verse>
         <verse number="13">Akeekennan he kiitanchchaara daro saluwaa kiitanchchati kiyidi beettidosona.</verse>
         <verse number="14">Xoossaa galatiiddi, “Salo ubbaappe bolla saluwan de7iya Xoossaassi bonchchoi gido. Sa7an a ufaissiya asaassi sarotettai gido” yaagidosona.</verse>
@@ -1948,19 +1948,19 @@
         <verse number="20">Dorssaa heemmiyaageeti kase etassi kiitanchchai yootidoogaadan hanin, siyido ubbaa gishshaunne be7ido ubbaa gishshau, Xoossaa galatiiddinne bonchchiiddi simmidosona.</verse>
         <verse number="21">Hosppun gallassaappe guyyiyan, Yesuusi qaxxarettiyo wodee gakkin, Mairaama a yelanau shahaaranaappe kase kiitanchchai a sunttidoogaadan, a sunttai Yesuusa geetettiis.</verse>
         <verse number="22">Muuse higgee azaziyoogaadan, Mairaamissinne Yooseefassi geeyiyo wodee gakkin, Godaa higgee, “Baira yelettida attuma ubbai Godaassi dummatidaagaa geetetto” g iidoogaadan, Godaassi Yesuusa immanau Yerusalaame efiidosona.</verse>
-        <verse number="23"></verse>
+        <verse number="23">***</verse>
         <verse number="24">Qassi Godaa higgee, “Naa77u buuba haraphpheta woikko naa77u mara haraphpheta” giidoogaadan, Godaassi yarshshuwaa yarshshanau efiidosona.</verse>
         <verse number="25">Yerusalaamen Simoona giyo bitanee de7ees; i Xoossau yayyiya xillo asa; qassi Israa7eelati attiyo wodiyaa naagiiddi de7ees. He wode, Geeshsha Ayyaanai a bolli de7iyaagee, “Godai tiyido Kiristtoosa be7ennan haiqqakka” yaagidi, a erissi wottiis.</verse>
-        <verse number="26"></verse>
+        <verse number="26">***</verse>
         <verse number="27">Simooni ayyaanai kaalettin, Beeta Maqidasiyaa geliis. Aayyiyaanne aawai higgee azaziyoogaadan, guutta na7aa Yesuusa Beeta Maqidasiyaa ehin,</verse>
         <verse number="28">Simooni he na7aa idimmidi, Xoossaa galatiiddi yaagiis.</verse>
         <verse number="29">“Ubbaa Haariya Godau, neeni asa ubbaa sinttan giigissido ne ashettaa taani ta aifiyan be7ido gishshau, ha77i ne qaalaadan, taani ne aillee sarotan haiqqana.</verse>
-        <verse number="30"></verse>
-        <verse number="31"></verse>
+        <verse number="30">***</verse>
+        <verse number="31">***</verse>
         <verse number="32">He ashettai Israa7eela gidenna asau nebaa bessiya poo7o mala; qassi ne asaa Israa7eelassi bonchcho” yaagiis.</verse>
         <verse number="33">Yooseefinne Mairaama Simooni Yesuusabaa odidoogan garamettidosona.</verse>
         <verse number="34">Simooni eta anjjiis; anjjidi a aayyiyo Mairaamo, “Israa7eelan de7iya darotu kunddettaassinne dendduwaassi a ixissiyaageetussi Xoossaappe malaata gidanau, qassi darota wozanan de7iya geemmida qofai qonccana mala, ha na7ai Xoossaappe doorettiis. Ne wozanaakka qara bisuwaadan, qaretai qanxxana” yaagiis.</verse>
-        <verse number="35"></verse>
+        <verse number="35">***</verse>
         <verse number="36">Aseera zerettaappe yelettida Panu7eela na7iyaa Haanna hananabaa yootiyaaro. A ba geela7otetta azinaara laappun laittaa de7aasu.</verse>
         <verse number="37">I azinai haiqqin, hosppun tammanne oiddu laittaa azina gelennan de7aasu. A daro cima; qassi xoomaiddanne woossaidda gallassinne qammi Xoossau goinnaasu; Beeta Maqidasiyaappe kiyennan de7aasu.</verse>
         <verse number="38">He saatiyankka shiiqada, Xoossaa galataasu. Qassi Xoossai Yerusalaame wozin be7ana yaagidi naagiya asaa ubbau na7aabaa odaasu.</verse>
@@ -1971,7 +1971,7 @@
         <verse number="43">Paasikaa gallassaa bonchchiyo wodee wurin, eti guyye bantta soo simuwaa doommidosona; shin Yesuusi so asai erennan Yerusalaamen attiis.</verse>
         <verse number="44">Eti ogiyaa asaara issippe de7ees giiddi, issi gallassa ogiyaa biidosona. Bantta dabbuwaa giddooninne eriyo asaa giddon a koyidosona.</verse>
         <verse number="45">Xayin a koyiiddi, Yerusalaame simmidi, Yesuusi Beeta Maqidasiyan tamaarissiyaageetuppe siyiiddinne eta oichchiiddi eta giddon uttidaagaa heezzantto gallassaappe guyyiyan demmidosona.</verse>
-        <verse number="46"></verse>
+        <verse number="46">***</verse>
         <verse number="47">A doonaappe kiyiyaabaa siyida ubbai i immiyo era zaaruwan garamettiis.</verse>
         <verse number="48">Aayyiyaanne aawai a be7idi garamettidosona. Mairaama, “Ta na7au, nuna aissi hagaadan oottadii? Ne aawainne taani nena koyiiddi, daro tuggatida” yaagaasu.</verse>
         <verse number="49">Yesuusi zaaridi, “Tana aissi koyidetii? Taani ta Aawaa keettan de7anau bessiyoogaa erekketii?” yaagiis.</verse>
@@ -2030,15 +2030,15 @@
         <verse number="8">Yesuusi zaaridi, “Xoossaa maxaafai, 'Godau, ne Xoossau goinna; a xalaalau ootta' yaagees” yaagiis.</verse>
         <verse number="9">Xalahe halaqai Yesuusa Yerusalaame efiidi, Beeta Maqidasiyaa xeeraa kessidi, “Neeni Xoossaa Na7aa gidikko, ane duge guppa.</verse>
         <verse number="10">Aissi giikko, Xoossaa maxaafai, 'Xoossai nena naagana mala, ba kiitanchchata azazana' qassi 'Eti ne tohoi shuchchan xubettenna mala, bantta kushiyan nena denttana' yaagees” yaagiis.</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">Yesuusi zaaridi a, “Qassikka Xoossaa maxaafai, 'Godaa ne Xoossaa paaccoppa' yaagees” yaagiis.</verse>
         <verse number="13">Xalahe halaqai Yesuusa paacciyoogaa ubbaa wurssidoogaappe guyye baggan, ha77issau appe shaahettiis.</verse>
         <verse number="14">Yesuusi Ayyaanaa wolqqan Galiila simmiis. Abai hegaa heeran de7iya biitta ubban odettiis.</verse>
         <verse number="15">I bantta Aihuda woosa keettatun tamaarissiiddi, ubban galatettiis. Yesuusi ba diccido Naazireete katamaa yiis.</verse>
         <verse number="16">Haroodeegaadan Sambbata gallassan Aihuda woosa keettaa gelidi, nabbabanau denddiis.</verse>
         <verse number="17">Hananabaa yootiya Isiyaasan xaafettidi xaaxettida maxaafaa ayyo immidosona. He maxaafaa dooyidi, “Taani hiyyeesaassi lo77o mishiraachchuwaa yootanau tiyettido gishshau, Godaa Ayyaanai ta bollan de7ees. Qashettidaageetussi birshshettiyoogaa, qooqetussi xeelliyoogaa yootana mala, qassi qohettidaageeta qohuwaappe kessana mala, dosettida Godaa laittaa yootana mala, tana kiittiis” geetettidi, xaafettida sohuwaa demmiis.</verse>
-        <verse number="18"></verse>
-        <verse number="19"></verse>
+        <verse number="18">***</verse>
+        <verse number="19">***</verse>
         <verse number="20">Maxaafaa xaaxidi, Aihuda woosa keettan naagiyaagaassi immidi uttiis. Aihuda woosa keettan de7iya asai a akeekidi xeellees.</verse>
         <verse number="21">Yesuusi etassi haasayanau doommidi, “Hachchi nabbabettin, intte siyiyo wode, ha Xoossaa maxaafai giidoogee polettiis” yaagiis.</verse>
         <verse number="22">Ubbai ayyo markkattidosona. A doonaappe kiyiya aaro kehatettaa qaalaa garamettidi, “Hagee Yooseefa na7aa gidennee?” yaagidosona.</verse>
@@ -2124,7 +2124,7 @@
         <verse number="15">Maatiyoosa, Toomaasa, Ilppiyoosa na7aa Yaaqooba, ba biittaassi mishettiya Simoona,</verse>
         <verse number="16">Yaaqooba na7aa Yihudaanne Yesuusa aattidi immida Yihudaa Asqqoroota.</verse>
         <verse number="17">Etaara deriyaappe duge wodhdhidi, kaalliyaageetuppe daruwaara issippe dembba biittan eqqiis. Qassi i giyoobaa siyidi, bantta harggiyaappe paxanau Yihudaa ubbaappe, Yerusalaameppe, abbaa matan de7iya Xiiroosappenne Sidoonappe yiida daro asai he sohuwan de7ees. Tuna ayyaanan waayettiyaageeti bantta harggiyaappe paxidosona.</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">Wolqqai appe kiyidi, eta ubbaa pattiyo gishshau, asai ubbai a bochchanau keehi koyees.</verse>
         <verse number="20">Yesuusi ba erissiyo ashkkaratukko xeellidi, hagaadan yaagiis; “Xoossaa kawotettai inttebaa gidiyo gishshau, hiyyeesati intte anjjettidaageeta.</verse>
         <verse number="21">Intte digin kallana gishshau, ha77i namisettiyaageeti anjjettidaageeta. Intte digin miiccana gishshau, ha77i yeekkiyaageeti anjjettidaageeta.</verse>
@@ -2144,7 +2144,7 @@
         <verse number="35">shin Xoossai bana galatennaageetussikka iitatussikka keha gidido gishshau, intte morkketa siiqite; etayyo lo77obaa oottite; qassi ainne guyye ekkanau qoppennan tal77ite; intte ekkana woitoi darana. Qassi intte Ubbaappe Bolla Xoossaa naata gidana.</verse>
         <verse number="36">Intte Aawai Xoossai maariyoogaadan maarite.</verse>
         <verse number="37">“Haratu bolli pirddoppite; Xoossai intte bolli pirddenna. Harata iita gooppite; Xoossai inttena iita geenna. Atto giite; Xoossai intteyyo atto gaana. Immite; Xoossai intteyyo immana. Baqqi naaqqidi siilli kunttin, palahidi wora laalettiyaagaa Xoossai intte kiyuwan idinttidi immana. Aissi giikko, intte harau immanau likkidi makkiyooban Xoossai intteyyo likkidi immana” yaagiis.</verse>
-        <verse number="38"></verse>
+        <verse number="38">***</verse>
         <verse number="39">Yesuusi etassi leemisuwaa odiiddi, hagaadan yaagiis; “Qooqee qooqe kaalettana danddayii? Kaalettikko, naa77ai ollan kunddokkonaa?</verse>
         <verse number="40">Tamaariyaagee bana tamaarissiyaagaappe aadhdhenna; shin tamaaridi wurssida ubbai tamaarissiyaagaa mala gidees.</verse>
         <verse number="41">“Ne aifiyan de7iya tuussaa be7akka; shin ne ishaa aifiyan de7iya suullaa aissi xeellai?</verse>
@@ -2221,7 +2221,7 @@
         <verse number="9">I erissiyo ashkkarati, “Yaatin, ha leemisuwaa birshshettai aibee?” yaagidi Yesuusa oichchidosona.</verse>
         <verse number="10">Oichchin, i hagaadan yaagiis; “Inttessi Xoossaa kawotettaa xuuraa erai imettiis, shin harati xeellidi be7enna mala, siyidikka akeekenna mala, taani leemisuwan haasayais.</verse>
         <verse number="11">“Leemisoi hagaa. Zerettai Xoossaa qaalaa. Ogiyaa doonan de7iya zerettai qaalaa siyidaageetu leemisuwaa bessees; shin hegaappe guyyiyan, eti ammanidi attenna mala, xalahe halaqai yiidi, eta wozanaappe qaalaa efirggees.</verse>
-        <verse number="12"></verse>
+        <verse number="12">***</verse>
         <verse number="13">SHuchchaa bollan de7iyaageeti siyiiddi, a qaalaa ufaissan ekkiyaageeta milatoosona; etassi xaphoi baawa. Eti ha77issau ammaniyoogaappe attin, paacee yiyo wode xubettiyaageeta.</verse>
         <verse number="14">Qassi aguntta giddon wodhdhidaageeti siyiyaageeta milatoosona. Siyidi banttau de7iiddi, de7uwaa wodiyaa qofan duretettaaninne lo77o de7uwan cuulettiyo gishshau, eta aifee bootennan atti aggees.</verse>
         <verse number="15">SHin aradda biittan wodhdhidaageeti hegeeti lo77o wozanaappenne tumu wozanaappe qaalaa siyidi naagidaageeta; eti danddayaara naagidi aifoosona.</verse>
@@ -2248,10 +2248,10 @@
         <verse number="36">Hegaa be7ida asati xalaheti oiqqido bitanee waani paxidaakko, asaassi yootidosona.</verse>
         <verse number="37">Gerggesenoona biittan de7iya asai ubbai daro yayyido gishshau, bantta matappe baana mala, Yesuusa woossidosona. Yesuusi wolwoluwan gelidi simmiis.</verse>
         <verse number="38">Xalaheti kiyido bitanee Yesuusaara de7ana mala, Yesuusa woossiis; shin i, “Ne soo simmada, Xoossai neessi waanida gitabaa oottidaakko yoota” yaagidi a yeddiis. Yeddin, bitanee baassi Yesuusi waanida gitabaa oottidaakko, kataman de7iya asa ubbau yootiiddi biis.</verse>
-        <verse number="39"></verse>
+        <verse number="39">***</verse>
         <verse number="40">Ubba asai Yesuusa naagiiddi uttido gishshau, i simmido wode mokkidosona.</verse>
         <verse number="41">Yaa7iroosa giyoogee Aihuda woosa keettaa halaqai Yesuusakko yiis. Ayyo tammanne naa77u laitta na7iyaa de7iyaara harggada haiqqana haniyo gishshau, Yesuusa tohuwan kunddidi, ba soo gelana mala, a minttidi woossiis. Yesuusi yaa biishin, asai ubbasaara shiiqidi, a un77iis.</verse>
-        <verse number="42"></verse>
+        <verse number="42">***</verse>
         <verse number="43">Tammanne naa77u laittaasappe doommidi, i bollaappe suuttai goggiyo issi maccaasiyaa de7ausu. Aakimetussi qanxxaidda ba miishsha ubbaa wurssaasu; shin ooninne o pattanau danddayibeenna.</verse>
         <verse number="44">Guyyeera shiiqada Yesuusa afalaa macaraa bochchaasu; bochchin i bollaappe goggiya suuttai sohuwaarakka aggi bayiis.</verse>
         <verse number="45">Yesuusi, “Tana bochchidai oonee?” yaagiis. Ubba asai, “Nuna gidokko” yaagin, PHeexiroosinne aara issippe de7iyaageeti, “Godau, daro asai nena sugiiddi un77ees; 'Tana bochchidai oonee?' gai?” yaagidosona.</verse>
@@ -2275,7 +2275,7 @@
         <verse number="5">Katamaa asai inttena mokkennan ixxikko, he katamaappe kiyite; kiyiiddi eti inttena mokkennan ixxidoogaassi markka gidana mala, intte tohuwaappe buhiyaa shocite” yaagiis.</verse>
         <verse number="6">Erissiyo ashkkarati biidi, qeeri katama ubban Xoossaa qaalaa yootiiddinne harggiya asaa ubbasan pattiiddi yuuyoosona.</verse>
         <verse number="7">Galiila biittaa haariya Heeroodisi hanidabaa ubbaa siyiis. Issi issi asai, “Yohaannisi haiquwaappe denddiis” yaagees; hinkko asai, “Eelaasi kiyidi beettiis” yaagees; harati, “Beni hananabaa yootiyaageetuppe issoi denddiis” yaagoosona. Hegaa gishshau, Heeroodisi ba wozana giddon metootiis.</verse>
-        <verse number="8"></verse>
+        <verse number="8">***</verse>
         <verse number="9">Metootidi, “Taani Yohaannisa qooriyaa muucissarggaas; shin hagaadan asai haasayiyo bitanee oonee?” yaagidi, Yesuusa be7anau koyiis.</verse>
         <verse number="10">Yesuusi kiittidoogeeti simmidi, bantta oottidobaa ubbaa Yesuusassi odidosona. Yesuusi eta xalaalaa ekkidi, Beetasaida giyo katamaa matan de7iya bazzuwaa biis.</verse>
         <verse number="11">Asai a eridi kaallin, eta mokkidi, Xoossaa kawotettaabaa yootiis; harggiyaappe pattanau koshshiyoogeetakka pattiis.</verse>
@@ -2291,7 +2291,7 @@
         <verse number="21">SHin Yesuusi eta, “Hagaa oossinne odoppite” yaagidi, minttidi azaziiddi,</verse>
         <verse number="22">“Taani, Asa Na7ai, daro waayettanau bessees; tana cimati, qeese halaqatinne higgiyaa tamaarissiyaageeti ixxanau bessees; eti tana woranaunne taani heezzantto gallassi haiquwaappe denddanau bessees” yaagiis.</verse>
         <verse number="23">Yesuusi asa ubbaa hagaadan yaagiis; “Ba shemppuwaa ashshana koyiya urai bashshana; shin ba shemppuwaa ta gishshau bashshiya urai ashshana; hegaa gishshau, tana kaallana koyiya urai de7ikko, bana yeggi bayo; yaatidi ubba gallassi ba masqqaliyaa tookkidi, tana kaallo.</verse>
-        <verse number="24"></verse>
+        <verse number="24">***</verse>
         <verse number="25">Issi urai ba huuphiyaa bashshidi, woi bau pacissidi, sa7an de7iya ubbabaa bau shiishshikko, a ai maaddanee?</verse>
         <verse number="26">Asi tanaaninne ta qaalan yeellatikko, taani Asa Na7ai, ta bonchchuwaara, ta Aawaa bonchchuwaaranne geeshsha kiitanchchatu bonchchuwaara yiyo wode, aani yeellatana.</verse>
         <verse number="27">Taani intteyyo tumaa gais; amarida asati Xoossaa kawotettaa be7ennan haiqqennaageeti hagan de7oosona” yaagiis.</verse>
@@ -2426,7 +2426,7 @@
         <verse number="48">Simmi intte aawati hananabaa yootiyaageeta worin, intte eta duufuwaa bolli keettaa keexxiyo gishshau, 'Eta oosoi lo77o' yaagidi, etabaa markkatteeta.</verse>
         <verse number="49">Hegaa gishshau, Xoossaa aadhdhida eratettai, 'Taani hananabaa yootiyaageetanne kiitettidaageeta etakko kiittana; kiittidoogeetuppe issuwaa issuwaa eti worana; issuwaa issuwaa tuggayana' yaagiis.</verse>
         <verse number="50">Aabeela woroosappe doommidi, yarshshiyoosaappenne Beeta Maqidasiyaappe gidduwan worido zakkaariyaasa wodiyaa gakkanaashin, sa7ai merettoosappe doommidi gukkida hananabaa yootiya ubbatu suuttaa gishshau, ha wodiyaa asai qaxxayettanau bessees; ee, ha wodiyaa asai qaxxayettanau bessees gais.</verse>
-        <verse number="51"></verse>
+        <verse number="51">***</verse>
         <verse number="52">“Higgiyaa tamaarissiyaageetoo, eraa keettaa dooyiya qulppiyaa intte ekkideta; intte huuphiyaunne gelibeekketa; qassi gelanau koyiyaageetanne gelissekketa” yaagiis.</verse>
         <verse number="53">Yesuusi hegaappe biido wode, higgiyaa tamaarissiyaageetinne Parisaaweti a daro ixuwaa doommidi, i balabaa haasayikko oiqqanau naagiiddi, daro yohuwaa keehi oichchidosona.</verse>
       </chapter>
@@ -2460,13 +2460,13 @@
         <verse number="27">“Ciishshati waani dicciyaakko xeellite; daafurokkona woi puutto suqqokkona. SHin taani intteyyo odais; harai atto, Solomoni hegaa keena bonchchettidaagaa gidiiddi, he ciishshatuppe issuwaagaa malaa maayibeenna.</verse>
         <verse number="28">Laafa ammanoi de7iyoogeetoo, Xoossai hachchi de7idi, wontto coociyaa taman eexxiya dembbaa maataa maizziyaagee, inttena etaagaappe aattidi, waati maizzennee?</verse>
         <verse number="29">“Intte maanabaanne uyanabaa darissidi koyoppitenne qassi hirggoppite. Aissi giikko, ha sa7an de7iya ammanenna asati he ubbabaa darissidi koyoosona; qassi he ubbai inttena koshshiyoogaa intte Aawai erees.</verse>
-        <verse number="30"></verse>
+        <verse number="30">***</verse>
         <verse number="31">Hegaa aggi bayidi, Xoossaa kawotettaa koyite; i hegeeta inttessi immana.</verse>
         <verse number="32">“Amarida dorssa wudiyau, intte Aawai ba kawotettaa inttessi immanau ufaittiyo gishshau yayyoppite.</verse>
         <verse number="33">Inttessi de7iyaabaa baizzite; hiyyeesau immite; kaisoi shiiqennasan, bil77ai bochchennasan, saluwan wurenna miishshaa dagayidi, ceeggenna korjjuwaa intte huuphessi oottite.</verse>
         <verse number="34">Aissi giikko, intte wozanai intte miishshai de7iyoosan de7ana.</verse>
         <verse number="35">“Bantta godai bullachchaappe soo simmidi, kariyaa dooyanau xeegiyo wode, sohuwaara dooyanau naagiya asatudan, intte xeessan qabattuwaa mintti gixxidi, xomppiyaa xomppidi, giigi uttite.</verse>
-        <verse number="36"></verse>
+        <verse number="36">***</verse>
         <verse number="37">Bantta godai soo yiyo wode, xiskkennan naagiiddi uttida ashkkarati waani anjjettanddonaashsha! Taani tumaa gais; i eta, 'Uttite' giidi, ba qabattuwaa minttidi, eta sinttau qumaa aattana.</verse>
         <verse number="38">Omarssa gidin, woi qamma bilahe gidin, audenne eta godai yiidi, eta giigi uttidaageeta be7ikko, eti waani anjjettanddonaashsha!</verse>
         <verse number="39">SHin intte issibaa erite; hegeenne aibee giikko, kaisoi yaana wodiyaa keettaawai eridaakko, beegottidi kaisuwan ba keettaa bookissenna.</verse>
@@ -2558,7 +2558,7 @@
         <verse number="27">Ba huuphe masqqaliyaa tookkidi, tana kaallenna urai ta erissiyo ashkkara gidanau danddayenna.</verse>
         <verse number="28">“Intteppe issi urai shuchcha keettaa keexxanau koyikko, keettaa polanau woqqu miishshaa koshshiyaakko, koiroora uttidi qoodennai oonee?</verse>
         <verse number="29">Yaanana xayikko, keettaa doommidi, i polanau danddayennan aggin, hegaa be7ida asai ubbai, 'Ha bitanee keexxanau doommidi, polana danddayibeenna' yaagidi, a bolli miichchaa doommees.</verse>
-        <verse number="30"></verse>
+        <verse number="30">***</verse>
         <verse number="31">“Woi tammu sha7u asai de7iyo kawoi laatamu sha7u asai de7iyo kawuwaara olettanau danddayiyaakkonne, koiroora uttidi qoppennee? Qoppana xayikko, hegee yaatin aiba kawoo?</verse>
         <verse number="32">Baassi danddayettana xayikko, hinkko kawoi haahuwan de7ishin sigettanau woossees.</verse>
         <verse number="33">Hegaadan baassi de7iya ubbabaa aggi bayenna urai tana kaalliyaagaa gidanau danddayenna.</verse>
@@ -2620,7 +2620,7 @@
         <verse number="18">“Ba machchiyo yeddidi, haranno ekkiya ooninne shaaramuxees; qassi azinai yeddido maccaasiyo ekkiya ooninne shaaramuxees.</verse>
         <verse number="19">“Daro al77o maayuwaa maayiya issi dure bitanee de7ees. Ayyo sa7ai lo77in, ubba gallassi ufaittidi de7ees.</verse>
         <verse number="20">Al77aazara giyo masunxxida issi hiyyeesai, dure bitanee miyo masoofiyaappe sa7an wodhdhiya suuppa qumaa maanau amottidi, duriyaa penggen zin77ees. Harai atto kanatikka yiidi, a masunttaa laaccoosona.</verse>
-        <verse number="21"></verse>
+        <verse number="21">***</verse>
         <verse number="22">“Hiyyeesa bitanee haiqqin, kiitanchchati a tookkidi, Abrahaama baggi aattidosona. Qassi dure bitanee haiqqidi moogettiis.</verse>
         <verse number="23">Si7ooliyan daro seelettiiddi, haahuwan de7iya Abrahaama xoqqu giidi xeelliis. Qassi Al77aazarakka Abrahaama matan de7iyaagaa be7iis.</verse>
         <verse number="24">“Ba qaalaa xoqqu oottidi, 'Ta aawau Abrahaamaa, tana maara. Taani ha tamaa lacuwan paxa kaa7ettiyo gishshau, ba kushiyaa biradhdhiyaa xeeraa haattan yeddidi, yiidi ta inxxarssaa irxxissanau Al77aazara taakko yeddarkkii' yaagiis.</verse>
@@ -2701,7 +2701,7 @@
         <verse number="27">SHin Yesuusi zaaridi, “Asau danddayettennabai Xoossau danddayettees” yaagiis.</verse>
         <verse number="28">PHeexiroosi Yesuusa, “Be7a; nuuni nuussi de7iya ubbabaa aggi bayidi, nena kaallida” yaagiis.</verse>
         <verse number="29">Yesuusi, “Taani inttessi tumaa gais; Xoossaa kawotettaa gishshau giiddi, keettaa woi aawaanne aayyiyo, woi ishantta, woi machchiyo, woi naata aggida asi ooninne ha77i baassi de7iyaagaappe daruwaa ekkana; qassi sinttappe yaana wodiyankka merinaa de7uwaa ekkana” yaagiis.</verse>
-        <verse number="30"></verse>
+        <verse number="30">***</verse>
         <verse number="31">Yesuusi tammanne naa77u erissiyo ashkkarata banaara efiiddi eta, “Nuuni ha77i Yerusalaame kiyeettees; hananabaa yootiyaageeti xaafido tabai, Asa Na7aabai, ubbai polettana.</verse>
         <verse number="32">Aissi giikko, eti tana Aihuda gidenna asaassi aattidi immana; ta bolli qilliiccana; cuchchana; qassi tana waissana;</verse>
         <verse number="33">eti tana lissuwan garafananne worana; shin taani heezzantto gallassi haiquwaappe denddana” yaagiis.</verse>
@@ -2712,7 +2712,7 @@
         <verse number="38">Yootin ba qaalaa xoqqu oottidi, “Daawita na7au, Yesuusaa, tana maararkkii!” yaagiis.</verse>
         <verse number="39">Sinttan de7iyaageeti a, “Haizza!” giidi hanqqettidosona; shin i ba qaalaa kaseegaappekka keehi xoqqu oottidi, “Daawita na7au, tana maararkkii!” yaagiis.</verse>
         <verse number="40">Yesuusi eqqidi, he qooqe bitaniyaa baakko ehaana mala azaziis. Qooqee akko yiidi gakkana matishin, “Taani neeyyo ai oottanau koyai?” yaagidi a oichchiis. Oichchin qooqee, “Ta Godau, taani xeellanaagaa koyais” yaagiis.</verse>
-        <verse number="41"></verse>
+        <verse number="41">***</verse>
         <verse number="42">Yaagin Yesuusi a, “Xeella; nena ne ammanoi pattiis” yaagiis.</verse>
         <verse number="43">Sohuwaarakka a aifee xeelli aggin, Xoossaa galatiiddi, Yesuusa kaalli bayiis. Asa ubbai hegaa be7idi, Xoossaa galatiis.</verse>
       </chapter>
@@ -2762,7 +2762,7 @@
         <verse number="43">Aissi giikko, ne bolli yaana wodee de7ees; he wode ne morkketi urqqaa nukkidi, godaa essana. He godan nena yuushshi aattidi diridi, ubba baggaara neeyyo ogiyaa gorddana.</verse>
         <verse number="44">Nenanne ne dirssaa giddon de7iya ne asaa mentterettana. Xoossai nena be7anau yiido wodiyaa neeni akeekabeenna gishshau, ne morkketi shuchcha ubbaa issuwaa issuwaa bollaappe denttidi laalana” yaagiis.</verse>
         <verse number="45">Yesuusi Beeta Maqidasiyaa gelidi, hegan zal77iyaageeta, “Xoossaa maxaafan, 'Ta keettai Xoossaa woossiyo keetta gidana' geetettidi xaafetti uttiis; shin intte a panggati qosettiyo gonggolo kessideta” yaagidi eta yedetaa doommiis.</verse>
-        <verse number="46"></verse>
+        <verse number="46">***</verse>
         <verse number="47">Yesuusi ubba gallassi Beeta Maqidasiyan tamaarissees. Qeese halaqati, higgiyaa tamaarissiyaageetinne gita asai a xaissanau koyoosona.</verse>
         <verse number="48">SHin asai ubbai a haasayaappe issoi attennan ezggi uttido gishshau, a woriyo ogee etau xayiis.</verse>
       </chapter>
@@ -2809,7 +2809,7 @@
         <verse number="40">Aissi giikko, naa77anttuwaa issibaakka a oichchanau xalibookkona.</verse>
         <verse number="41">Yesuusi qassi eta yaagiis; “Eti woigidi Kiristtoosa Daawita na7a giyoonaa?</verse>
         <verse number="42">Aissi giikko, Daawiti Mazamure Maxaafan, 'Godai ta Godaa; “Taani ne morkketa neeni yedhdha eqqiyoobaa oottana gakkanaassi, hagan taappe ushachcha baggaara utta” giis' yaagiis.</verse>
-        <verse number="43"></verse>
+        <verse number="43">***</verse>
         <verse number="44">“Daawiti Kiristtoosa, 'Godaa' giidi xeesikko, yaatin Kiristtoosi waanidi, Daawita na7a gidii?” yaagiis.</verse>
         <verse number="45">Yesuusi ba erissiyo ashkkarata asai ubbai siyishin,</verse>
         <verse number="46">“Higgiyaa tamaarissiyaageetuppe naagettite; eti adussa maayuwaa maayidi yuuyiyoogaanne giyaa sohuwankka asai eta bonchchidi sarotiyoogaanne dosoosona; Aihuda woosa keettan daro lo77iya oidiyaa dosoosona; asi banttana imattiyoosankka bonchcho sohuwaa dosoosona. Eti am77etu keettaa bonqqidi, banttau lo77o milatanau Xoossaa woosaa adussoosona; eti ubbaappe aadhdhiya pirddaa ekkana” yaagiis.</verse>
@@ -2884,7 +2884,7 @@
         <verse number="27">Qumaa maanau uttiyaagee giteeyye qumaa sinttau aattiyaagee gitee? Qumaa maanau uttidaagee gita gidennee? SHin taani intte giddon qumaa sinttau aattiya ashkkara mala.</verse>
         <verse number="28">“Qassi taani paacettiyo wode tana yeggibeennaageeta.</verse>
         <verse number="29">Ta kawotettan taani qumaa miyo sohuwan intte maana malanne, uyana mala, qassi tammanne naa77u Israa7eela zaretu bolli pirddiiddi, araatatun uttana mala, ta Aawai tana sunttidoogaadan, taani inttena sunttais” yaagiis.</verse>
-        <verse number="30"></verse>
+        <verse number="30">***</verse>
         <verse number="31">Godai, “Simoonaa, Simoonaa, akeeka; asai gisttiyaa harqqiyoogaadan, Seexaanai inttena harqqanau Xoossaa woossin, Xoossai ero giis.</verse>
         <verse number="32">SHin taani ne ammanoi bayenna mala, neessi Xoossaa woossaas; neeni taakko simmiyo wode, ne ishantta minttetta” yaagiis.</verse>
         <verse number="33">Simooni, “Godau, taani nenaara qasho keettaa baanau, qassi nenaara haiqqanaukka giigaas” yaagiis.</verse>
@@ -2956,7 +2956,7 @@
         <verse number="26">Yesuusa efiiddi, issi Simoona giyo Qareena biitta asi gaxaappe katamaa yiyaagaa oiqqidi, Yesuusappe guyyeera tookkana mala, masqqaliyaa a bolli wottidosona.</verse>
         <verse number="27">Yeekkiiddinne waassiiddi uttida maccaasatinne keehi daro asai issippe a kaalliis.</verse>
         <verse number="28">SHin Yesuusi etakko simmidi, hagaadan yaagiis; “Yerusalaame maccaasatoo, taassi yeekkoppite; shin asai, 'Maine maccaasati, na7a mulekka yelibeenna maccaasati, na7a mulekka xanttibeenna maccaasati bantta hailau' yaagana gallassai yiyo gishshau, intte huuphessinne intte naatussi yeekkite.</verse>
-        <verse number="29"></verse>
+        <verse number="29">***</verse>
         <verse number="30">He wode eti dereta, 'Nu bolli kunddite!' yaagana. Keratakka, 'Nuna genttite!' geettaa doommana.</verse>
         <verse number="31">Aissi giikko, eti qayye mittaa hagaadan oottiyaageeta gidikko, mela mittaa waataneeshsha?” yaagiis.</verse>
         <verse number="32">Iitabaa oottida naa77u asatakka Yesuusaara gattidi woranau efiidosona.</verse>
@@ -2964,7 +2964,7 @@
         <verse number="34">Yesuusi, “Ta Aawau, eti bantta oottiyoogaa erenna gishshau, eta nagaraa atto ga” yaagiis. A maayuwaa shaakkidi, saamaa yeggidosona.</verse>
         <verse number="35">Asai eqqidi xeellishin, deriyaa haariyaageeti, “Harata ashshiis; Xoossai doorido a i gidikko, ane bana ashsho” yaagiiddi a karidi qilliiccoosona.</verse>
         <verse number="36">Qassi wotaaddarati akko shiiqidi, woiniyaa eessaa caalaa ehiidi, “Neeni Aihudatu kawo gidikko, ane ne huuphiyaa ashsha” yaagidi a bolli qilliiccoosona.</verse>
-        <verse number="37"></verse>
+        <verse number="37">***</verse>
         <verse number="38">Qassi, “Hagee Aihudatu kawuwaa” giidi, Giriike qaalan, Roomaisxxe qaalaaninne Ibraisxxe qaalan xaafido xifatee a huuphessaara de7ees.</verse>
         <verse number="39">Iitabaa oottidi masqqaliyan kaqettida asatuppe issoi, “Neeni a gidikko, ane nenanne nunanne ashsha” yaagidi Yesuusa naassiis.</verse>
         <verse number="40">SHin hankkoi a, “Neeni hagaa mala pirddan de7aiddakka Xoossaassi yayyikkii?</verse>
@@ -2992,14 +2992,14 @@
         <verse number="4">Maccaasati, “Haha! Laa hagee waaniichchidee?” yaagishin, phooliya maayuwaa maayida naa77u asati eti akeekennan eta matan eqqidosona.</verse>
         <verse number="5">Eti yayyidi, sa7aa xeellidaashin, asati eta yaagidosona; “Paxa de7iyaagaa haiqqida asaa sohuwan aissi koyeetii?</verse>
         <verse number="6">I denddiichchiis; hagan baawa. Yesuusi, 'Tana Asa Na7aa asai nagaranchchatussi aattidi immin, masqqaliyaa bolli tana misimaariyan xishin, taani kaqettanaunne heezzantto gallassi denddanau bessees' yaagidi kase Galiilan de7iyo wode, inttessi odidoogaa hassayite” yaagiis.</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">Yaagin maccaasati Yesuusi giidoogaa hassayidi, i moogettido gonggoluwaappe simmidi, hegaa ubbaa tammanne isiini erissiyo ashkkaratussinne haratu ubbaassi odidosona.</verse>
-        <verse number="9"></verse>
+        <verse number="9">***</verse>
         <verse number="10">Hegaa Yesuusi kiittidoogeetussi odidai Magddala katamaappe yiida Mairaamo, Yohaano, Yaaqooba aayyiyoo Mairaamonne, qassi etaara de7iya hara maccaasata.</verse>
         <verse number="11">He maccaasatu qaalai pattenna haasaya misatin, Yesuusi kiittidoogeeti ammanibookkona.</verse>
         <verse number="12">SHin PHeexiroosi denddidi, gonggoluwaa woxxiis; hokkidi gonggoluwaa giddo xeellidi, moogido afalaa xalaalaa be7iis. Hegaa be7idi garamettiiddi, ba soo biis.</verse>
         <verse number="13">Yesuusa kaalliyaageetuppe naa77ati hanidabaa ubbaa bantta giddon haasayiiddi, he gallassi Yerusalaameppe naa77u saate keenaa haakkiya Emaahuusa giyo qeeri katamaa boosona.</verse>
-        <verse number="14"></verse>
+        <verse number="14">***</verse>
         <verse number="15">Biiddi eti issippe haasayishiininne zorettishin, Yesuusi ba huuphen etakko shiiqidi, etaara bees.</verse>
         <verse number="16">SHin eti a erenna mala, eta wozanaa jallissiis.</verse>
         <verse number="17">Yesuusi eta, “Ha intte kayyottidi hemettiiddi, issoi issuwaara haasayiyo yohoi aibee?” yaagiis.</verse>
@@ -3019,7 +3019,7 @@
         <verse number="31">Eti a akeekana mala, eta aifee dooyettin, Yesuusa gididoogaa eridosona; erin i eta aifiyaappe geemmiis.</verse>
         <verse number="32">Eti bantta giddon, “I nuussi ogiyan odishiininne Xoossaa maxaafata birshshishin, nu wozanai mishettidi xuugettibeennee?” yaagidi haasayettidosona.</verse>
         <verse number="33">Eti sohuwaara denddidi, Yerusalaame simmidosona; tammanne isiini erissiyo ashkkaratinne etaara de7iyaageeti, “Godai tumu denddiis; Simoonikka a be7iis” yaagiiddi issippe shiiqi uttidaageeta demmidosona.</verse>
-        <verse number="34"></verse>
+        <verse number="34">***</verse>
         <verse number="35">He naa77ati ogiyan hanidabaanne Yesuusi oittaa menttiyo wode, eti a waati eridaakkonne etassi odidosona.</verse>
         <verse number="36">Eti hegaa odishin, Yesuusi ba huuphen eta giddo yiidi eqqidi, “Sarotettai inttessi gido” yaagiis.</verse>
         <verse number="37">SHin eti dagammidi yayyidosona. Qassi etassi moitillee beettiyaabaa milatiis.</verse>
@@ -3137,7 +3137,7 @@
         <verse number="12">Taani intteyyo sa7aabaa yootin, intte ammanennaageeta gidikko, saluwaabaa yootin waani ammanuuteetii?</verse>
         <verse number="13">Saluwaappe wodhdhida taappe Asa Na7aappe attin, saluwaa kiyidabi ooninne baawa; saluwan de7iya Asa Na7ai tana” yaagiis.</verse>
         <verse number="14">Muusee bazzon shooshshaa kaqqidoogaadan, tana ammanida ubbai merinaa de7uwaa ekkana mala, taani Asa Na7ai kaqettanau bessees.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">Xoossaa Na7aa ammaniya ubbai merinaa de7uwaa ekkanaappe attin, xayenna mala, Xoossai ha sa7aa keehi siiqido gishshau, ba mexi issi Na7aa immiis.</verse>
         <verse number="17">Aissi giikko, Xoossai ba Na7aa ha sa7aa pirddanau kiittibeenna; shin sa7aa a baggaara ashshanau kiittiis.</verse>
         <verse number="18">Na7aa ammaniya ooninne pirddettenna; shin Na7aa ammanenna ooninne, Xoossaa Na7aa issuwaa ammanibeenna gishshau, ha77ikka pirddetti uttiis.</verse>
@@ -3162,8 +3162,8 @@
       </chapter>
       <chapter number="4">
         <verse number="1">Yesuusi Yohaannisaagaappe dariya kaalliyaageeta baakko shiishsheesinne xammaqees giyoogaa Parisaaweti siyidoogaa Yesuusi erido wode, Yihudaappe aggidi, Galiila biis; gidikkokka, erissiyo ashkkarati xammaqidoogaappe attin, Yesuusi ba huuphen oonanne xammaqibeenna.</verse>
-        <verse number="2"></verse>
-        <verse number="3"></verse>
+        <verse number="2">***</verse>
+        <verse number="3">***</verse>
         <verse number="4">Galiila biiddi, Samaariyaara aadhdhanaagee a ashshennabaa gidiis.</verse>
         <verse number="5">Hegaa gishshau, Yaaqoobi ba na7aa Yooseefayyo immido gadiyaa matan de7iya Sikaara giyo Samaariyaa katamaa biis.</verse>
         <verse number="6">He sohuwan Yaaqooba haattaa ollai de7ees; Yesuusi hemetan daafuridi, he haattaa ollaa matan uttiis. He wode sa7ai usuppun saate heera.</verse>
@@ -3239,7 +3239,7 @@
         <verse number="20">Aissi giikko, Aawai ba Na7aa siiqees; qassi i oottiyo ooso ubbabaa ba Na7aa bessees. Intte garamettana mala, i hagaappe aadhdhiya oosuwaakka ba Na7aa bessana.</verse>
         <verse number="21">Aissi giikko, Aawai haiqqidaageeta haiquwaappe denttidi, paxa wottiyoogaadan, Na7aikka qassi ba siiqiyoogeeta paxa wottees.</verse>
         <verse number="22">Asai ubbai Aawaa bonchchiyoogaadan, Na7aakka bonchchana mala, Aawai pirdda ubbaa Na7au immidoogaappe attin, i oonanne pirddenna; Na7aa bonchchenna uri, Na7aa kiittida Aawaakka bonchchenna.</verse>
-        <verse number="23"></verse>
+        <verse number="23">***</verse>
         <verse number="24">“Taani intteyyo tumaa odais; ta qaalaa siyiyaagaunne tana kiittidaagan ammaniyaagau merinaa de7oi de7ees. Haiquwaappe de7uwau i pinnidoogaappe attin, pirddettenna.</verse>
         <verse number="25">Taani intteyyo tumaa odais; haiqqida asai Xoossaa Na7aa cenggurssaa siyiyo wodee yaana; ha77ikka yees. He cenggurssaa siyiyaageeti paxa de7ana.</verse>
         <verse number="26">Aissi giikko, Aawai banan de7oi de7iyoogaadan, ba Na7aanikka de7oi de7ana mala oottiis.</verse>
@@ -3512,7 +3512,7 @@
         <verse number="12">Miishshaa ekkidi heemmiya urai wanggireelloi yiishin be7idi, dorssata yeggi bayidi baqatees. Aissi giikko, dorssati aageeta gidokkona; qassi ikka dorssata heemmiyaagaa gidenna. Hegaa gishshau, wanggireelloi dorssata oiqqeesinne laalees.</verse>
         <verse number="13">Miishshaa ekkidi heemmiyaagee miishshau heemmiyo gishshaunne dorssaabai a qofissenna gishshau, dorssata aggi bayidi baqatees.</verse>
         <verse number="14">“Taani dorssaa loitta heemmiyaagaa; ta Aawai tana eriyoogaadan, taanikka qassi ta Aawaa erais. Hegaadankka, taani ta dorssata erais; ta dorssatikka tana eroosona. Qassi taani ta dorssatu gishshau, haiqqanau koyais.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">Ha wudiyan bainna hara dorssatikka tau de7oosona. Taani etakka ehaanau bessees. Qassi eti ta qaalaa siyana; issi wudee de7ana; heemmiyaageekka issuwaa gidana.</verse>
         <verse number="17">“Taani ta shemppuwaa zaarettada ekkana mala, aattada immanau koyiyo gishshau, ta Aawai tana siiqees.</verse>
         <verse number="18">Taani dosada ta shemppuwaa aatta immiyoogaappe attin, taappe ooninne ekkenna. Taayyo ta shemppuwaa aatta immiyo maatai de7ees; qassi zaarettada ekkanaukka maatai de7ees. Taani ha azazuwaa ta Aawaappe ekkaas” yaagiis.</verse>
@@ -3615,7 +3615,7 @@
         <verse number="12">Wonttetta gallassi Paasikaa bonchchiyoosaa yiida daro asai Yesuusi Yerusalaame biyoogaa siyiis.</verse>
         <verse number="13">Siyidi zambbaa haittaa oiqqidi, a mokkanau kiyidosona. Bantta qaalaa xoqqu oottidi, “Xoossai galatetto! Xoossaa sunttan yiya Israa7eela kawoi anjjettidaagaa!” yaagidosona.</verse>
         <verse number="14">Xoossaa maxaafai, “Xiyoone katamau, yayyoppa! Be7a, ne kawoi hare maraa bolli uttidi yees” giyoogaadan, Yesuusi hare maraa demmidi, a toggiis.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">Yesuusi erissiyo ashkkarati hegaa kase akeekibookkona; shin Yesuusi bonchchettidoogaappe guyyiyan, Xoossaa maxaafai hegaa ubbaa giidoogaanne qassi etikka hegaa ubbaa Yesuusayyo oottidoogaa hassayidosona.</verse>
         <verse number="17">Al77aazari moogettido gonggoluwaappe Yesuusi a xeesidi, haiquwaappe denttido wode, Yesuusaara de7iya daro asai Yesuusayyo markkattiis.</verse>
         <verse number="18">Daro asai a mokkanau kiyidoogee, i he wolqqaama malaataa oottido gishshassa.</verse>
@@ -3638,9 +3638,9 @@
         <verse number="35">Yaagin Yesuusi, “Poo7oi inttenaara guutta wodiyaa takkana. Intteyyo xumenna mala, poo7oi de7ishin, poo7uwan hemettite. Xuman hemettiya urai au biyaakkonne erenna.</verse>
         <verse number="36">Poo7uwaa asa gidana mala, intteyyo poo7oi de7ishin, poo7uwaa ammanite” yaagiis. Yesuusi hegaa haasayidoogaappe guyyiyan, biidi etappe geemettiis.</verse>
         <verse number="37">I hegaa keena wolqqaama malaataa eta sinttan oottikkokka, hananabaa yootiya Isiyaasi, “Godau, nu markkatettaa ooni ammanidee? Godai ba wolqqaa oona bessidee?” giidoogee tuma gidana mala, eti a ammanibookkona.</verse>
-        <verse number="38"></verse>
+        <verse number="38">***</verse>
         <verse number="39">Isiyaasi qassikka, “Eta aifee xeellenna mala, eta wozanaikka akeekenna mala, eti Xoossaakko simmin, i eta pattenna mala, Xoossai eta aifiyaa qooqissiis. Eta wozanaa dammissiis” giido gishshau, eti ammananau danddayibookkona.</verse>
-        <verse number="40"></verse>
+        <verse number="40">***</verse>
         <verse number="41">Isiyaasi Yesuusa bonchchuwaa be7ido gishshaunne qassi abaa haasayido gishshau, hegaa giis.</verse>
         <verse number="42">Hegaa gidinkka, harai atto Aihudatu halaqatuppekka daroti Yesuusa ammanidosona. SHin Parisaaweti banttana Aihudatu woosa keettaappe kessoosona giidi yayyido gishshau, ammanida giidi markkattibookkona.</verse>
         <verse number="43">Aissi giikko, eti Xoossaa sabaappe aattidi, asa sabaa siiqidosona.</verse>
@@ -3709,7 +3709,7 @@
         <verse number="14">Intte ta sunttan tana ai oichchikkokka, taani polana.</verse>
         <verse number="15">“Intte tana siiqiyaabaa gidikko, ta azazuwaa naagana.</verse>
         <verse number="16">Taani Aawaa woossana; inttenaara merinau de7ana mala, tumatettaa Ayyaanaa, hara minttettiyaagaa intteyyo i immana. Ha sa7ai he tumatettaa Ayyaanaa be7ennaagaanne erennaagaa gidiyo gishshau, a ekkanau danddayenna; shin i inttenaara de7iyo gishshaunne intte giddon de7ana gishshau, intte a ereeta.</verse>
-        <verse number="17"></verse>
+        <verse number="17">***</verse>
         <verse number="18">“Taani inttena intterkka yeggabeikke; taani simmada inttekko yaana.</verse>
         <verse number="19">Guutta wodiyaappe guyyiyan, sa7ai tana naa77antto be7enna; shin intte tana be7ana; taani paxa de7iyo gishshau, inttekka qassi paxa de7ana.</verse>
         <verse number="20">Taani ta Aawaa giddon de7iyoogaanne intte ta giddon de7iyoogaa, qassi taani intte giddon de7iyoogaanne intte he gallassi erana.</verse>
@@ -3749,7 +3749,7 @@
         <verse number="21">SHin eti tana kiittidaagaa erenna gishshau, ha ubbaa ta gaasuwan eti intte bolli wottana.</verse>
         <verse number="22">Taani yaada etau odennabaa gidiyaakko, etau nagara gidenna; shin ha77i eti oottiyo nagaraa gaasoyiyoobi baawa.</verse>
         <verse number="23">Tana ixxiyaagee ta Aawaakka ixxees. Ooninne oottibeenna oosuwaa eta giddon taani oottabeennabaa gidiyaakko, etau nagara gidennan attana; shin ha77i eti taani oottido oosuwaa be7idi, tanakka ta Aawaakka ixxidosona.</verse>
-        <verse number="24"></verse>
+        <verse number="24">***</verse>
         <verse number="25">SHin eta higgiyan, 'Tana coo ixxidosona' geetettidi xaafettidaagee polettana mala, hagee haniis.</verse>
         <verse number="26">“SHin Aawaappe yiya tumatettaa Ayyaanai minttettiyaagee yaana. Taani Aawaappe intteyyo a yeddana; qassi i tabaa markkattana.</verse>
         <verse number="27">Inttekka qassi kaseesappe doommidi, tanaara de7iyo gishshau, tabaa markkattana.</verse>
@@ -3967,7 +3967,7 @@
     <book number="44">
       <chapter number="1">
         <verse number="1">Tewofiloosaa, Yesuusi saluwaa biido gallassai gakkanaassi, oottanaunne tamaarissanau doommido ubbabaa taani ta koiro maxaafan xaafaas. Saluwaa baanaappe kase i ba dooridi kiittidoogeeta Geeshsha Ayyaanan azaziis.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">I ba kiittidoogeetussi oitamu gallassaa beettiiddinne qassi Xoossaa kawotettaabaa etau yootiiddi, ba waayiyaappe guyyiyan, haiquwaappe denddidoogaa siree bainnan daro ammanttidi, bana eta bessiis.</verse>
         <verse number="4">Etaara issippe de7iiddi, eta hagaadan yaagidi azaziis; “Yerusalaameppe kiyoppite; shin intte taappe siyidoogaa ta Aawai inttessi immana giidoogaa naagite.</verse>
         <verse number="5">Aissi giikko, Yohaannisi haattan xammaqiis; shin guutta wodiyaappe guyyiyan, Geeshsha Ayyaanan intte xammaqettana” yaagiis.</verse>
@@ -3987,10 +3987,10 @@
         <verse number="19">Yihudaa bolli hanidabaa Yerusalaamen de7iya asai ubbai siyiis; hegaa gishshau, he gadiyaa bantta qaalan Akelddaama giidi xeegidosona; Akelddaama giyoogee suutta gade giyoogaa.</verse>
         <verse number="20">PHeexiroosi yootiiddi, “Aissi giikko, Mazamure Maxaafan, 'A keettai mela de7o; ooninne hegan de7oppo' qassi 'A sunttatettaakka harai ekko' geetettidi xaafettiis.</verse>
         <verse number="21">“Hegaa gishshau, issi asi Godaa Yesuusa dendduwaa markkattanau, nunan gaittana bessees; Yohaannisi xammaqido wodiyaappe doommidi, Yesuusi nuuppe saluwaa biido wode gakkanaas, Godaa Yesuusi nunaara hemettido wode ubban i nunaara de7iyaageetuppe issuwaa gidanau bessees” yaagiis.</verse>
-        <verse number="22"></verse>
+        <verse number="22">***</verse>
         <verse number="23">Yaagin ammaniya asai dooruwaassi Yosxxoosa giyo Barssaaba geetettiya Yooseefanne Maatiyaasa naa77aa essidosona.</verse>
         <verse number="24">Hegaappe guyyiyan, Xoossaa woossiiddi, “Ubbaa wozanaa eriya Godau, Yihudai ba sohuwaa baanau yeggi bayido oosuwaanne Yesuusi kiittido oosuwaa sohuwaa ekkanaadan, ha naa77u asatuppe issuwaa neeni dooridoogaa nuna bessa” yaagidosona.</verse>
-        <verse number="25"></verse>
+        <verse number="25">***</verse>
         <verse number="26">Etan saamaa yeggidosona; saamai Maatiyaasa bollan wodhdhin, Maatiyaasi Yesuusi kiittido tammanne isiinetuura qoodettiis.</verse>
       </chapter>
       <chapter number="2">
@@ -4004,7 +4004,7 @@
         <verse number="8">Yaatin, nuuni nu yelettido biittaa qaalan eti haasayishin waanidi siyiyoonii?</verse>
         <verse number="9">Nuuni PHartte asati, Meedoona asati, Elaameexe asati, naa77u shaafatuppe gidduwan de7iyaageeti, Yihudan, Qaphphadooqiyan, PHanxxoosan Isiyan,</verse>
         <verse number="10">Pirggiyan, PHinifiliyan, Gibxxen, Qareena baggan de7iya Liibiyaa woradatun de7iyaageeti, Roomeppe yiida imattati, Aihudati, Aihudatettau laamettida nuuppe amaridaageeti, Qarxxeese asatinne, Araba asati, Xoossai oottido gita oosuwaa nu qaalan eti haasayishin siyoos” yaagidosona.</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">Ubbaikka garamettidi, yohoi banttau qashettennan ixxin bantta giddon, “Laa hagee woigiyoogee?” yaagidosona.</verse>
         <verse number="13">SHin harati ammaniyaageetun Qilliicciiddi, “Hageeti uyidi mattottidosona” yaagidosona.</verse>
         <verse number="14">SHin PHeexiroosi, Yesuusi kiittido hara tammanne isiinetuura denddi eqqidi, ba qaalaa xoqqu oottidi, etassi hagaadan yaagidi yootiis; “Aihudatoo, qassi Yerusalaamen de7iya ubbatoo, taani yootiyoogaa ezggite. Hagee intteyyo eretto; intte qoppiyoogaadan, hageeti mattottibookkona.</verse>
@@ -4028,7 +4028,7 @@
         <verse number="32">“Xoossai ha Yesuusa haiquwaappe denttidoogaassi nuuni ubbai markka.</verse>
         <verse number="33">Hegaa gishshau, Xoossai baappe ushachcha baggan a xoqqu xoqqu oottidi, ayyo Geeshsha Ayyaanaa immana giidoogaadan, Geeshsha Ayyaanaa ekkidi, hagaa intte ha77i be7iyoogaanne siyiyoogaa nu bolli gussiis.</verse>
         <verse number="34">Aissi giikko, Daawiti ba huuphen saluwaa kiyibeenna; shin yaagiis; 'Godai ta godaa; “Taani ne morkketa neeni tohuwan yedhdha eqqiyoobaa oottana gakkanaassi hagan taappe ushachcha baggaara utta” giis' yaagiis.</verse>
-        <verse number="35"></verse>
+        <verse number="35">***</verse>
         <verse number="36">“Hegaa gishshau, Xoossai masqqaliyaa bolli misimaariyan ha intte xishidi kaqqido Yesuusa Godanne Kiristtoosa oottidoogaa Israa7eela zare ubbai tumaappe ero” yaagiis.</verse>
         <verse number="37">Asai PHeexiroosi giidoogaa siyido wode, asau wozanai maashin, PHeexiroosanne Yesuusi kiittido harata, “Ishanttoo, yaanin nuuni ai oottanee?” yaagidosona.</verse>
         <verse number="38">PHeexiroosi eta, “Intte nagarai atto geetettana mala, nagaraappe simmidi, intte huuphiyan huuphiyan Yesuus Kiristtoosa sunttan xammaqettite. Xoossai immiyo Geeshsha Ayyaanaa intte ekkana.</verse>
@@ -4062,7 +4062,7 @@
         <verse number="17">“Ha77ikka ta ishatoo, inttekka inttena kaalettiyaageetuugaadan, erennan oottidoogaa taani erais.</verse>
         <verse number="18">SHin Xoossai hananabaa beni yootiya ubbatu doonan, 'Kiristtoosi waayettana bessees' yaagidi yootiis; ba yootidoogaakka hegaadan poliis.</verse>
         <verse number="19">Simmi Xoossai intte nagaraa xaissanaadan, Godaa matappe ayyaanaa minotettaa wodee intteyyo yaanaadaaninne Xoossai Yesuus Kiristtoosa kase intteyyo doorettidaagaa yeddanaadan, intte nagaraappe Xoossaakko simmite.</verse>
-        <verse number="20"></verse>
+        <verse number="20">***</verse>
         <verse number="21">Xoossai hananabaa yootiya ba geeshshatu doonan benippe doommidi haasayidoogaadan, ubbabai ooraxxiyo wodee gakkanaassi, Yesuusi saluwan gam77anau bessees.</verse>
         <verse number="22">Muusee, 'Godai Xoossai tana denttidoogaadan, intte zariyaa giddoppe intteyyo hananabaa yootiyaagaa denttana; intte i giyoogaa ubbaa siyite.</verse>
         <verse number="23">He hananabaa yootiyaagee odiyoogaa siyenna asi ooninne asaa giddoppe shaahettidi xayo' yaagiis.</verse>
@@ -4076,7 +4076,7 @@
         <verse number="3">Yiidi eta oiqqidi, Sa7ai omariichchido gishshau wonttanaassi qasho keettaa gelissidosona.</verse>
         <verse number="4">SHin qaalaa siyidaageetuppe daroti ammanidosona; ammanida attumaasaa qoodai ichchashu sha7aa keeni gidiis.</verse>
         <verse number="5">Wonttetta gallassi, eta haariyaageeti, cimati, higgiyaa tamaarissiyaageeti, qeese ubbatu halaqai Haanni, Qayaafi, Yohaannisi Iskkinddirinne qeese ubbatu halaqaa dabboti ubbai Yerusalaamen yaa7idosona.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Yesuusi kiittidoogeeta bantta gidduwan essidi, “Ai wolqqan woi o sunttan hagaa intte oottidetii?” yaagidi oichchidosona.</verse>
         <verse number="8">He wode PHeexiroosi banan Geeshsha Ayyaanai kumin, eta hagaadan yaagiis; “Deriyaa haariyaageetoo, cimatoo,</verse>
         <verse number="9">hachchi ha wobbe bitaniyaassi oosettida lo77o oosuwaabaanne i waani paxidaakko, intte nuna oichchikko,</verse>
@@ -4132,7 +4132,7 @@
         <verse number="20">“Intte biidi, Beeta Maqidasiyan eqqidi, ha ooratta de7uwaa qaalaa ubba asau yootite” yaagiis.</verse>
         <verse number="21">Yesuusi kiittidoogeeti hegaa siyido wode, guuraara Beeta Maqidasiyaa gelidi, tamaarissanau doommidosona. Qassi qeese ubbatu halaqainne aara de7iyaageeti yiidi, yaa7aanne Israa7eela cimata ubbata issippe xeegidi, Yesuusi kiittidoogeeta bantta sintti ehaana mala, wotaaddarata qasho keettau kiittidosona.</verse>
         <verse number="22">SHin wotaaddarati qasho keettaa biidi, Yesuusi kiittidoogeeta demmibookkona; guyye simmidi yaa7au, “Nuuni biyo wode qasho keettaa kariyaa daro mintti gorddin, naagiyaageetikka penggen eqqidaageeta demmida; shin nuuni kariyaa dooyiyo wode, giddon harai atto issi asinne baawa” yaagidosona.</verse>
-        <verse number="23"></verse>
+        <verse number="23">***</verse>
         <verse number="24">Yaagin Beeta Maqidasiyaa wotaaddarata azaziyaageenne qeese halaqati hegaa siyido wode, “Hagee waanidee? Qassi digin waananee?” yaagidi hirggidosona.</verse>
         <verse number="25">Hegaappe guyyiyan, issi bitanee etakko yiidi, “Be7ite; qasho keettan intte yeggido asati Beeta Maqidasiyan eqqidi, asaa tamaarissoosona” yaagidi etau odiis.</verse>
         <verse number="26">Odin, Beeta Maqidasiyaa wotaaddarata azaziyaagee wotaaddaratuura biidi, Yesuusi kiittidoogeeta ehiis; shin eti banttana asai shuchchan caddana giidi yayyido gishshau, eta loddan ehiidosona.</verse>
@@ -4188,7 +4188,7 @@
         <verse number="15">Yaaqoobi Gibxxe biittaa wodhdhidi haiqqiis; nu aawatikka yaani haiqqidosona.</verse>
         <verse number="16">Eta ahai he sohuwaappe Sekeema giyo biittaa toohettidi, yaani Abrahaami Hamoora naatuppe daro biran shammido makkaanan moogettiis.</verse>
         <verse number="17">“SHin Xoossai Abrahaamassi immana giidoogee polettiyo wodee gakkana matin, Yooseefa erenna hara kawoi Gibxxe biittan denddana gakkanaassi, asai dari dari biis.</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">He kawoi nu zariyaa cimmidi, guutta naati haiqqana mala, kare eta kessi olanaadan, nu aawata un77ettiis.</verse>
         <verse number="20">“Muusee yelettidoi he wode; Xoossaa sinttan i daro lo77o na7a gidiis; ba aawaa keettan heezzu agina gakkanaas dicciis.</verse>
         <verse number="21">Muusee wora olettido wode, Gibxxe kawuwaa na7iyaa demmada ba na7adan a dichchaasu.</verse>
@@ -4202,7 +4202,7 @@
         <verse number="29">Muusee hegaa siyido wode Gibxxeppe baqatidi, Midiyaama biittan bete gididi de7iiddi, naa77u attuma naata yaani yeliis.</verse>
         <verse number="30">“Godaa kiitanchchai oitamu laittaappe guyyiyan, Siinaa Deriyaa matan de7iya bazzuwaa buuran eexxiya tamaa lacuwaa giddon Muusessi beettiis.</verse>
         <verse number="31">Muusee ba be7idoogau garamettidi, akeeki xeellanau buuraa mati i shiiqidaashin, Godaa qaalai, 'Taani ne aawatu Xoossaa, Abrahaama Xoossaa, Yisaaqa Xoossaa, Yaaqooba Xoossaa' yaagidi Muusekko yiis. Muusee yashshaa kokkoridi, xeellanau xalibeenna.</verse>
-        <verse number="32"></verse>
+        <verse number="32">***</verse>
         <verse number="33">“Godai Muusa, 'Neeni eqqido biittai geeshsha gidiyo gishshau, ne tohuwan de7iya caammaa kessa.</verse>
         <verse number="34">Taani Gibxxen de7iya ta asaa waayiyaa geeshsha be7ada, qassi eta ooliyaakka siyada, eta ashshanau wodhdhaas. Ha77i haa ya. Taani nena Gibxxe kiittana' yaagiis.</verse>
         <verse number="35">“He Muusa Israa7eelati; 'Nena nuna haariyaagaanne daanna oottidi sunttidai oonee?' yaagidi ixxidosona; ixxin buuraa giddon ayyo beettida kiitanchchan haariyaagaanne ashshiyaagaa gidana mala, Xoossai a kiittiis.</verse>
@@ -4219,11 +4219,11 @@
         <verse number="46">Daawiti Xoossan sabettiis; qassi Yaaqooba Godai de7ana keettaa keexxanau Xoossaa woossiis.</verse>
         <verse number="47">SHin ayyo keettaa keexxidai Solomona.</verse>
         <verse number="48">“SHin hananabaa yootiyaagee, 'Godai, “Saloi ta kawotaa araataa; sa7aikka ta tohoi yedhdhiyoosaa. Yaatin, taayyo ai mala keetta keexxuuteetii? Woi taani shemppanasai awaanee? Ha ubbabaa ta kushiyan oottabeikkinaa?” yaagees' giidoogaadan, Ubbaappe Bolla Xoossai asi keexxido keettan de7enna.</verse>
-        <verse number="49"></verse>
-        <verse number="50"></verse>
+        <verse number="49">***</verse>
+        <verse number="50">***</verse>
         <verse number="51">“Intte aiba morgge zozzida asee? Intte wozanai Xoossaa qaalaa ekkanau aiba dammidee? Intte haittaikka aiba tullidee? Ubba wode Geeshsha Ayyaanaassi azazettennan ixxeeta.</verse>
         <verse number="52">Hananabaa yootiyaageetun intte aawati waissibeennai oonee? Xoossaa Na7ai Xilloi yaanaagaa kasetidi yootidaageetakka woridosona. Ha77i inttekka kiitanchchatu kushiyaappe Xoossaa higgiyaa ekkidi azazettibeennaageeti, Xilluwaa aatti immidi worideta” yaagiis.</verse>
-        <verse number="53"></verse>
+        <verse number="53">***</verse>
         <verse number="54">Eti hegaa siyido wode, bantta wozanan Isxxifaanoosassi daro yiillotidi, bantta menttershshaa sa77idi manddidosona.</verse>
         <verse number="55">SHin Isxxifaanoosi banan Geeshsha Ayyaanai kumin, saluwaa pude tishshi ootti xeellidi, Xoossaa bonchchuwaanne Yesuusi Xoossaappe ushachcha baggan eqqidaagaa be7iis.</verse>
         <verse number="56">Be7idi, “Xeellite, taani saloi dooyettin, Asa Na7ai Xoossaappe ushachcha baggan eqqidaagaa be7ais” yaagiis.</verse>
@@ -4354,7 +4354,7 @@
         <verse number="32">Simmi asa Yoophphe kiittada, Simoon PHeexiroosa giyoogaa xeesissa; Simoon PHeexiroosi Simoona giyo galbbaa qaaciya bitaniyaa sooni abbaa doonan imattatettaa uttiis' yaagiis.</verse>
         <verse number="33">Hegaa gishshau, taani neekko sohuwaara kiittaas; neeninne yaada loittadasa; simmi neeni nuuyyo yootanau Xoossai nena azazidobaa ubbaa siyanau ha77i nuuni ubbaikka hagan Xoossaa sinttan de7oos” yaagiis.</verse>
         <verse number="34">PHeexiroosi haasayaa hagaadan yaagidi doommiis; “Xoossai asa som77o xeellenna; shin dere ubban baassi yayyiyaagaanne xillo ooso oottiyaagaa galatiyoogaa taani tumu akeekaas.</verse>
-        <verse number="35"></verse>
+        <verse number="35">***</verse>
         <verse number="36">Xoossai asa ubbaa Godaa Yesuus Kiristtoosa baggaara, sarotettaa yootiiddi, ha wonggeliyaa mishiraachchuwaa Israa7eela asaassi kiittidoogaa intte ereeta.</verse>
         <verse number="37">Yohaannisi qaalaa yootido xinqqatiyaappe guyyiyan, Galiilappe doommidi, Yihudaa biitta ubban hanidabaa intte ereeta.</verse>
         <verse number="38">Xoossai Naazireeta Yesuusa Geeshsha Ayyaanaaninne wolqqan tiyiis; Xoossai aara de7iyo gishshau, lo77obaa i oottiiddinne xalahe halaqaassi haarettida ubbaa pattiiddi yuuyiis.</verse>
@@ -4383,7 +4383,7 @@
         <verse number="11">Hegaa peeshshankka heezzu asati Qiisaariyaappe taakko kiitettidi, taani de7iyo keettaa gakki aggidosona.</verse>
         <verse number="12">Gakkin taani sirennan etaara baana mala, Ayyaanai taassi yootiis. Qassi ha usuppun ishantti Yoophpheppe tanaara Qiisaariyaa bin, nuuni Qornneliyoosa soo gelida.</verse>
         <verse number="13">Kiitanchchai ba sooni eqqidi bana, 'PHeexiroosa geetettiya Simoona xeesanau asa Yoophphe kiitta; neeninne ne keettaa asai ubbai attiyo qaalaa i neeyyo yootana' giidoogaa Qornneliyoosi waatidi siyidaakko, nuussi odiis.</verse>
-        <verse number="14"></verse>
+        <verse number="14">***</verse>
         <verse number="15">“Odin taani haasayanau doommiyoogan Geeshsha Ayyaanai koiro nu bolli wodhdhidoogaadan, eta bollikka wodhdhi aggiis.</verse>
         <verse number="16">Godai, 'Yohaannisi haattan xammaqiis; shin intte Geeshsha Ayyaanan xammaqettana' yaagido qaalai taassi hassayettiis.</verse>
         <verse number="17">Xoossai nuussi Godaa Yesuus Kiristtoosa ammanidaageetussi immido imuwaa malaa Aihuda gidennaageetussikka qassi immikko, simmi Xoossaa digganau taani oonee?” yaagiis.</verse>
@@ -4467,7 +4467,7 @@
         <verse number="36">Aissi giikko, Daawiti ba wodiyan Xoossaa qofaa oottidoogaappe guyyiyan haiqqidi, ba aawatuura moogettidi musiis.</verse>
         <verse number="37">SHin Xoossai haiquwaappe denttidoogee musibeenna.</verse>
         <verse number="38">“Hegaa gishshau, ta ishatoo, nagara atto geettai intteyyo Yesuusa baggaara odettidoogeenne, Muuse higgiyan xillanau intteyyo danddayettenna ubbabaappe aani ammaniya ubbai xillanaagee intteyyo eretto.</verse>
-        <verse number="39"></verse>
+        <verse number="39">***</verse>
         <verse number="40">Hegaa gishshau, hananabaa yootiyaageeti giidoogee intte bolli gakkenna mala naagettite;</verse>
         <verse number="41">'Xoossai giidobaa qilliicciyaageetoo, be7ite; harai atto issi urai inttessi yootiyaakkokka, intte ammanenna oosuwaa taani intte wodiyan oottiyo gishshau, poora giite; haiqqite' yaagidosona” yaagiis.</verse>
         <verse number="42">PHauloosinne Barnnaabaasi Aihuda woosa keettaappe kiyishin, asai eta naa77antto Sambbatankka hegaa gujjidi yootana mala woossiis.</verse>
@@ -4504,7 +4504,7 @@
         <verse number="19">Anxxookiyaappenne Iqooniyooneppe yiida Aihudati asaa bantta baggi zaaridi, shuchchan PHauloosa caddidosona; etau haiqqidabaa milatin, katamaappe gaxi a goochchidosona.</verse>
         <verse number="20">SHin kaalliyaageeti a lanqqiyan yuuyi aadhdhidi eqqidaashin, i denddidi, katamaa geliis. Wonttetta gallassi Barnnaabaasaara issippe Daribe biis.</verse>
         <verse number="21">Eti Daribe kataman wonggeliyaa mishiraachchuwaa yootidi, daro asai Yesuusa ammanana mala oottidoogaappe guyyiyan, Lisxxira, Iqooniyoonenne Anxxookiyaa simmidosona; simmidi hegan kaalliyaageeta minttettiiddinne eti ammanuwan minnidi de7ana mala zoriiddi, “Nuuni Xoossaa kawotettaa gelanau daro waayettana bessees” yaagidosona.</verse>
-        <verse number="22"></verse>
+        <verse number="22">***</verse>
         <verse number="23">Qassi woosa keettatussi huuphiyan huuphiyan cimata dooridi, xoomidoogaappenne woossidoogaappe guyyiyan, eti ammanido Godaassi eta hadaraa immidosona.</verse>
         <verse number="24">PHisddiyaa biittaappe aadhdhidi, PHinifiliyaa yiidosona;</verse>
         <verse number="25">PHerggen qaalaa yootidoogaappe guyyiyan, Axaaliyaa wodhdhidosona.</verse>
@@ -4528,9 +4528,9 @@
         <verse number="13">Eti haasayaa wurssidoogaappe guyyiyan, Yaaqoobi hagaadan yaagidi zaariis; “Ishatoo, taani giyoogaa siyite.</verse>
         <verse number="14">Xoossai Aihuda gidennaageetu giddoppe bau haniya asaa ekkanau Aihuda gidennaageetuyyo koiro waatidi qoppidaakko Simooni yootiis.</verse>
         <verse number="15">Hananabaa yootiyaageetu qaalai hagaara giigees; Godai daro wodiyaappe doommidi, asaa hagaa erissidi, Xoossaa maxaafan hagaadan yaagiis; 'Hagaappe guyyiyan, sa7an de7iya hara asai ubbainne tabaa gidanau taani xeesido Aihuda gidenna asai ubbai Godaa koyana mala, taani simmana. Taani kolettidi kunddida keettadan hanida Daawita kawotettaa denttana. Qolettidaagaakka zaarada keexxana; taani naa77anttuwaa a essana' yaagiis.</verse>
-        <verse number="16"></verse>
-        <verse number="17"></verse>
-        <verse number="18"></verse>
+        <verse number="16">***</verse>
+        <verse number="17">***</verse>
+        <verse number="18">***</verse>
         <verse number="19">“Hegaa gishshau, ta qofa gidikko, Aihuda gidennaageetuppe Xoossaakko simmiyaageeta nuuni waissanau koshshenna.</verse>
         <verse number="20">SHin eti eeqan tunidabaa meenna mala, shaaramuxenna mala, sulettida mehe asho meenna malanne suutta uyenna mala, etassi nuuni dabddaabbiyaa xaafanau koshshees.</verse>
         <verse number="21">Aissi giikko, Muuse higgiyaa kase yeletaappe doommidi Sambbatan Sambbatan Aihuda woosa keettatun nabbabiiddi, a qaalaa katamaa ubban yootiyaageeti de7oosona” yaagiis.</verse>
@@ -4538,10 +4538,10 @@
         <verse number="23">Dooridi hagaadan giya dabddaabbiyaa xaafidi, eta bolli kiittidosona; “Nuuni Yesuusi kiittidoogeetinne cimati intte ishantti, Anxxookiyan, Sooriyaaninne Kilqqiyan de7iya Aihuda bagga gidenna ishanttussi nu sarotaa kiittoos.</verse>
         <verse number="24">“Nuuni azazibeenna asati nu giddoppe biidi, 'Intte qaxxarettanaunne higgiyaa naaganau bessees' giidi, inttena waissidoogaanne yiilloyidoogaa siyidi,</verse>
         <verse number="25">nu Godaa Yesuus Kiristtoosa sunttaa gishshau, bantta shemppuwaa olida nuuni siiqiyo Barnnaabaasaaranne PHauloosaara doorettida asata inttekko kiittanau issi wozanan nu qofaa qachchida.</verse>
-        <verse number="26"></verse>
+        <verse number="26">***</verse>
         <verse number="27">Hegaa gishshau, nuuni xaafidoogaa eti bantta huuphen bantta doonan inttessi yootana mala, Yihudaanne Sillaasa kiittida.</verse>
         <verse number="28">“Aissi giikko, eeqassi yarshshidobaa mooppite; suutta uyoppite; sulettida mehe asho mooppite; shaaramuxoppite. Ha koshshiyaageetuppe attin, hara tooho inttena toossenna mala, nuuninne Geeshsha Ayyaanai yohuwaa maayida; ha ubbabaappe intte huuphiyaa naagikko, intte lo77obaa ootteeta. Simmi saro de7ite” yaagidosona.</verse>
-        <verse number="29"></verse>
+        <verse number="29">***</verse>
         <verse number="30">Hegaa gishshau, kiitettidaageeti moisettidi, Anxxookiyaa wodhdhidi, ammaniya asaa shiishshidi, dabddaabbiyaa asaassi immidosona.</verse>
         <verse number="31">Eti he minttettiya dabddaabbiyaa nabbabido wode, ufaittidosona.</verse>
         <verse number="32">Qassi Yihudainne Sillaasi bantta huuphen hananabaa yootiyaageeta gidiyo gishshau, ishantta keehi zoridi minttettidosona.</verse>
@@ -4617,7 +4617,7 @@
         <verse number="17">Hegaa gishshau, Aihuda woosa keettan Aihudatuuranne Xoossaassi goinniya Aihuda gidenna asatuura palamettees; qassi ubba gallassi giyan banaara gaittiya asaarakka palamettees.</verse>
         <verse number="18">Qassi Eppiqoroosappenne Isxxo7ikiyaappe yiida issi issi eranchchati PHauloosaara palamettidosona; etappe issoi issoi, “Ha toofiinai ai haasayanau koyii?” yaagidosona. Harati PHauloosi Yesuusabaanne haiquwaappe i denddidoogaa banttassi yootiyo gishshau, “Ooratta xoossatubaa odiyaabaa milatees” yaagidosona.</verse>
         <verse number="19">PHauloosa oiqqidi, “Ha neeni tamaarissiyo ooratta yohoi aibakkonne nuna erissarkkii? Aissi giikko, neeni nuuyyo oorattabaa yootaasa; simmi hagee Aibakko nuuni eranau koyoos” yaagidi PHauloosa Ariyosppaagoosa giyoosaa efiidosona.</verse>
-        <verse number="20"></verse>
+        <verse number="20">***</verse>
         <verse number="21">Ateena asai ubbainne hegan de7iya imattati oorattabaa haasayiiddinne siyiiddi pe7iyoogaappe attin, haraban pe7okkona.</verse>
         <verse number="22">PHauloosi Ariyosppaagoosa sinttan eqqidi, hagaadan yaagiis; “Ateena asatoo, Xoossatussi ubbaban intte daro yayyiyoogaa taani be7ais.</verse>
         <verse number="23">Aissi giikko, taani intte goinniyoogaa xeellaidda aadhdhishin, 'Erettenna Xoossaassi' geetettidi xaafettida yarshshuwaa sohuwaa qassi demmaas; hegaa gishshau, ha intte erennan goinniyoogaa taani inttessi yootais.</verse>
@@ -4643,7 +4643,7 @@
         <verse number="7">Hegaappe kiyidi, Xoossaassi goinniya Yosxxoosa giyo bitaniyaa soo biis; Yosxxoosa keettai Aihuda woosa keettaa lanqqiyan de7ees.</verse>
         <verse number="8">Aihuda woosa keettaa halaqai Qarisphphoosi ba so asaa ubbaara Godaa ammaniis; Qoronttoosa asatuppekka daroti Xoossaa qaalaa siyido wode, ammanidi xammaqettidosona.</verse>
         <verse number="9">Godai issi qammi ajjuutan PHauloosa, “Yayyoppa; yoota; co77u gooppa. Taani nenaara de7iyo gishshau, nena qohanau iitaban yeggana asi ooninne baawa; aissi giikko, taassi ha kataman daro asai de7ees” yaagiis.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Yaagin PHauloosi Xoossaa qaalaa asaa tamaarissiiddi, issi laittanne usuppun agina etaara uttiis.</verse>
         <verse number="12">Gaaliyoosi Akaayiyaa biittaa haariyo wode, Aihudati issippe PHauloosa bolli denddidi, pirdda keettaa a efiidosona.</verse>
         <verse number="13">Efiidi, “Ha bitanee higgiyaa ixxidi, asai Xoossaassi goinnana mala labees” yaagidosona.</verse>
@@ -4725,9 +4725,9 @@
         <verse number="16">Aissi giikko, PHauloosi Isiyan daro gam77ennan Efisoona lanqqiyaara aadhdhanau ba qofaa qachchiis; bau danddayettikko, PHenxxaqosxxe giyo gallassi Yerusalaame gakkanau eesotees.</verse>
         <verse number="17">PHauloosi Miliixeppe Efisoona kiittidi, woosa keettaa cimata xeegissiis.</verse>
         <verse number="18">Woosa keettaa cimati PHauloosakko yin, eta i hagaadan yaagiis; “Taani Isiyaa gelido koiro gallassaappe doommin, kaushsha ubbaaranne daro afuttaara Godaassi oottaidda, Aihudatu yaa7aappe tana gakkida paace wode ubban inttenaara waanada de7idaakko intte ereeta.</verse>
-        <verse number="19"></verse>
+        <verse number="19">***</verse>
         <verse number="20">Nagaraappe Xoossaakko simmiyoogaanne nu Godaa Yesuus Kiristtoosa ammaniyoogaa Aihudatussinne Aihuda gidennaageetussi markkattaidda, yaa7ankka intte keettan keettankka inttessi yootada tamaarissidoogaappe attin, inttena go77iyaabaappe issibaanne pacissabeikke.</verse>
-        <verse number="21"></verse>
+        <verse number="21">***</verse>
         <verse number="22">“Be7ite; ha77ikka taani Geeshsha Ayyaanaassi azazettada, Yerusalaame bais; yaani tau aibi kiyanaakkonne erikke.</verse>
         <verse number="23">Geeshsha Ayyaanai qashoinne waayee tana naagiyoogaa katama ubban tau yootees.</verse>
         <verse number="24">SHin ta wottaa polanaunne Godaa Yesuus Kiristtoosappe taani ekkido oosuwaa Xoossaa aaro kehatettaa wonggeliyaa mishiraachchuwaa markkattiyoogaa polanau, ta shemppuwaa pattennabaadan qoodais.</verse>
@@ -4736,7 +4736,7 @@
         <verse number="27">Aissi giikko, Xoossai oottanau qoppidobaa ubbaa intteyyo ainne ashshennan yootaas.</verse>
         <verse number="28">“Yesuusi ba suuttan wozido Xoossaa woosa keettaa naagite; qassi Geeshsha Ayyaanai inttena halaqa oottidi sunttido wude ubbaakka intte huuphiyaakka naagite.</verse>
         <verse number="29">Taani biidoogaappe guyyiyan, wudiyaassi qarettenna iita wanggireelloti intte giddo gelanaagaanne, kaalliyaageetakka bantta geeduwaa kaalettanau wordduwaa haasayiya asati intte giddoppe denddanaagaa erais.</verse>
-        <verse number="30"></verse>
+        <verse number="30">***</verse>
         <verse number="31">Hegaa gishshau, taani heezzu laittaa qamminne gallassi afuttan inttena huuphiyan huuphiyan minttettiyoogaa aggabeennaagaa qoppidi genccite.</verse>
         <verse number="32">“Ha77ikka inttena minttanaunne geeshsha asa ubbaa giddon laatissanau danddayiya Xoossaassinne a aaro kehatettaa qaalaassi inttena hadaraa immais.</verse>
         <verse number="33">“Taani ooppenne bira woi worqqa woi afala amottabeikke;</verse>
@@ -4774,7 +4774,7 @@
         <verse number="25">“SHin ammanida Aihuda gidenna asata gidikko, eti eeqassi yarshshidobaa meenna malanne suutta uyenna mala, sulettida mehe asho meenna malanne shaaramuxenna mala, nuuni yohuwaa qachchidi, etau dabddaabbiyaa xaafida” yaagidosona.</verse>
         <verse number="26">Hegaappe guyyiyan, PHauloosi wonttetta gallassi asata ekkidi, etaara geeyiis; i bantta geeshshaa ai gallassi poliyaakko erissanaunne qassi yarshshuwaa huuphiyan huuphiyan aude immanaakko erissanau Beeta Maqidasiyaa geliis.</verse>
         <verse number="27">Laappun gallassai wurana hanishin, Isiyaappe yiida Aihudati Beeta Maqidasiyan PHauloosa be7idi, asa ubbaa hanqqetissidi, “Israa7eela asau, nuna maaddite; Israa7eela asaa, Muuse higgiyaanne ha Beeta Maqidasiyaa ixxidi, ubbasan asa ubbaa tamaarissiyaagee ha bitaniyaa; gujjidi qassi Giriiketakka Beeta Maqidasiyaa gelissidi, ha geeshsha sohuwaa tunissiis” yaagidi wocamiiddi, PHauloosa oiqqidosona.</verse>
-        <verse number="28"></verse>
+        <verse number="28">***</verse>
         <verse number="29">Eti kase Efisoonan de7iya Xirofiimoosa PHauloosaara kataman be7ido gishshau, Beeta Maqidasiyaa PHauloosi a gelissidobaa etayyo milatiis.</verse>
         <verse number="30">Katama ubbai shabbirettiis; asai ubbai shiiqidi PHauloosa oiqqidi, Beeta Maqidasiyaappe kare goochchiis; sohuwaarakka Beeta Maqidasiyaa penggeti gorddetti aggidosona.</verse>
         <verse number="31">Asai PHauloosa worana hanishin, “Yerusalaame katamai mulekka shabbirettiichchiis” giyo odoi shaalaqaakko gakkiis.</verse>
@@ -4812,7 +4812,7 @@
         <verse number="21">“Godai tana, 'Taani nena Aihuda gidenna asaakko haahosaa kiittiyo gishshau ba' yaagiis” yaagiis.</verse>
         <verse number="22">PHauloosi he qaalaa haasayana gakkanaassi asai i giyoogaa ezggees; hegaappe guyyiyan, bantta qaalaa xoqqu oottidi, “Hagaa biittaappe xaissa; i de7anau bessenna” yaagidosona.</verse>
         <verse number="23">Eti wocamishin, bantta maayuwaa bollau olishiininne baanaa carkkuwan laalishin, shaalaqai wotaaddarati PHauloosa bantta de7iyoosaa efaana mala azaziis. Qassi asai aissi hegaadan wocamidaakko eranau, PHauloosa lissuwan garafiiddi qorana mala, eta azaziis.</verse>
-        <verse number="24"></verse>
+        <verse number="24">***</verse>
         <verse number="25">SHin wotaaddarati PHauloosa dafuwan mintti qachchido wode, PHauloosi ba matan eqqida mato halaqaa, “Roome katamaa asa pirddi bainnan wadhdhiyoogee inttessi higgee?” yaagiis.</verse>
         <verse number="26">Hegaa mato halaqai siyido wode, shaalaqaakko biidi, “Ha bitanee Roome asa. Neeni ai oottana qoppai?” yaagidi oichchiis.</verse>
         <verse number="27">SHaalaqai PHauloosakko shiiqidi, “Neeni Roome asee? Tau yoota” yaagiis. Yaagin PHauloosi, “Ee” yaagiis.</verse>
@@ -4860,7 +4860,7 @@
       <chapter number="24">
         <verse number="1">Ichchashu gallassappe guyyiyan, qeese ubbatu halaqai, Hanaaniyaa, cimatuuranne Xarxxaluusa giyo issi xabaqaara duge Qiisaariyaa wodhdhiis; eti deriyaa haariyaagaa bolli PHauloosa mootidosona.</verse>
         <verse number="2">PHauloosi xeesettido wode, Xarxxaluusi a hagaadan yaagidi, mootuwaa doommiis. “Bonchcho Pilikisaa, nuuni ne baggaara daro sarotettaa demmidaashin, ne qofan ha deriyaassi ubbaban ubbasankka lo77o laamee beettiyaagaassi nena daro galatidi, hagaa ekkoos.</verse>
-        <verse number="3"></verse>
+        <verse number="3">***</verse>
         <verse number="4">SHin taani nena gam77ettennan, ne kehatettan nubaa neeni qanttan siyana mala, nena woossais.</verse>
         <verse number="5">Aissi giikko, ha bitanee xube gididi, sa7a ubban de7iya Aihudatu giddon ooshsha denttiiddi, Naaziraawetu bagga asaa kaalettiyaagaa gididoogaa erida.</verse>
         <verse number="6">Harai atto Beeta Maqidasiyaakka tunissanau koyishin a oiqqidi, nu higgiyaadan, a bolli pirddanau qoppida;</verse>
@@ -4878,7 +4878,7 @@
         <verse number="18">Baada hegaa oottishin, asi shiiqennan, ooshshi denddennan, taani Beeta Maqidasiyan geeyishin, eti tana demmidosona.</verse>
         <verse number="19">SHin Isiyaappe yiida issi issi Aihudati hegan de7oosona; eti ta bolli yoho koyikko, yiidi tana nenan mootanau bessees.</verse>
         <verse number="20">Woi taani eta giddon eqqada, 'Haiqqidaageeti denddanaagaa ammaniyo gishshau, hachchi intte sinttan ta bolli pirddoosona' gaada ha xoqqissada haasayido issi qaaleeppe attin, yaa7aa sinttan eqqidaashin, tanan issi mooro demmidobaa gidikko, hageeti bantta huuphen hagan yootona” yaagiis.</verse>
-        <verse number="21"></verse>
+        <verse number="21">***</verse>
         <verse number="22">SHin Pilikisi Xoossaa ogiyaabaa geeshshi erido gishshau, “Taani intte yohuwaa shaalaqaa Lusiyoosi yiyo wode qachchana” yaagidi, pirddiyo wodiyaa sinttau keeriis.</verse>
         <verse number="23">Pilikisi qassi PHauloosa qachchennan naagana malanne a dabbotuppe ooninne ayyo oottishin, woi akko yiishin diggenna mala, mato halaqaa azaziis.</verse>
         <verse number="24">Amarida gallassaappe guyyiyan, Pilikisi Aihuda zare gidida ba maccaasee Dirusilliira yiidi, PHauloosa kiitti ehiissidi, Yesuus Kiristtoosan ammaniyoobaa i haasayishin siyiis.</verse>
@@ -4918,7 +4918,7 @@
       <chapter number="26">
         <verse number="1">Agriiphphi PHauloosa, “Neeni nebaa haasayanau danddayaasa” yaagiis. He wode PHauloosi ba kushiyaa miccidi hagaadan yaagidi zaariis.</verse>
         <verse number="2">“Kawuwaa Agriiphphaa, Aihudatu wogaanne palamaa ubbaa neeni loittada eriyo gishshau, tana Aihudati mootiyo yoho ubbaa hachchi taani ne sinttan zaariyoogaassi ta qaadai daro lo77o yaagada qoppais; hegaa gishshau, neeni ta haasayaa salettennan siyana mala, nena woossais.</verse>
-        <verse number="3"></verse>
+        <verse number="3">***</verse>
         <verse number="4">“Taani naatettaasappe doommada ta asaa giddooninne Yerusalaamen de7ido ta de7uwaa Aihuda ubbati kaseppe doommidi eroosona.</verse>
         <verse number="5">Taani koiroppe doommada, nu ammanuwaa higgiyaa ooppenne minttidi naagiya Parisaawetu bagga Parisaawe gidada de7iyoogaa, eti markkattanau koyikko eroosona.</verse>
         <verse number="6">Taani ha77ikka Xoossai nu aawatussi immana giidoogaa ufaissan naagiyo gishshau, pirddettanaassi hagan eqqais.</verse>
@@ -4933,12 +4933,12 @@
         <verse number="15">“Siyada, 'Ta Godau, neeni oonee?' yaagaas. “Godai, 'Taani neeni waissiyo Yesuusa.</verse>
         <verse number="16">SHin dendda eqqa; aissi giikko, hachchi neeni tana be7idoogaanne taani nena sinttappe bessanaagaa haratussi markkattana mala, ta oosanchcha oottada nena sunttanau neessi beettaas.</verse>
         <verse number="17">Eti tana ammanin, eta nagarai atto geetettanaadan, Xoossai doorido asaa giddon eti bantta sohuwaa demmanaadan, qassi xumaappe poo7uwaa simmanaadaaninne xalahiyaa godatettaappekka Xoossaakko simmanaadan, eta aifiyaa neeni dooyana mala, Israa7eela asaappenne taani nena etakko kiittiyo Aihuda gidennaageetuppe nena ashshana' yaagiis.</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">“Kawuwaa Agriiphphaa, hegaa gishshau, taassi saluwaappe beettida ajjuutaassi taani azazettanaagaa ixxabeikke.</verse>
         <verse number="20">SHin taani kasetada, Damasqqooninne Yerusalaamen hegaappe guyyiyan, Yihudaa biitta ubban de7iyaageetussinne Aihuda gidennaageetussi bantta nagaraappe simmana mala, qassi nagaraappe simmanau bessiyaabaa oottiiddi, Xoossaakko simmana mala qaalaa yootaas.</verse>
         <verse number="21">Hegaa gishshau, Aihudati tana Beeta Maqidasiyan oiqqidi woranau koyidosona.</verse>
         <verse number="22">Hegaa gishshau, taani Xoossaa maaduwaa ekkada, gitaassinne guuttaassi hachchi gakkanaassikka eqqada markkattais. Hananabaa yootiyaageetinne Muusee, 'Kiristtoosi waayettana bessees; qassi haiquwaappe koiro denddidi, Aihudatussinne Aihuda gidennaageetussi atotettaa poo7uwaa yootanau bessees' giidoogaadan, taanikka eti haasayidoogaappe haraa issibaakka haasayidobi baawa” yaagiis.</verse>
-        <verse number="23"></verse>
+        <verse number="23">***</verse>
         <verse number="24">PHauloosi babaa hagaadan yaagidi zaarishin, Pisxxoosi qaalaa xoqqu oottidi, “PHauloosaa, neeni gooyaasa; neeni daro tamaaridoogee nena gooshshana hanees” yaagiis.</verse>
         <verse number="25">SHin PHauloosi hagaadan yaagiis; “Bonchcho Pisxxoosaa, taani tumu yohuwaanne wozanaa qofaa haasayiyoogaappe attin gooyikke.</verse>
         <verse number="26">Taani Kawuwaa Agriiphphassi ha yohuwaa qassi qoncciyan yootiyoogaa i erees; aissi giikko, ha yohoi geeman oosettibeenna gishshau, hagaappe issoinne appe geemmennaagaa taani geeshshada erais.</verse>
@@ -5040,7 +5040,7 @@
         <verse number="7">Xoossai siiqiyoogeetuyyoonne geeshsha oottanau xeesido Roome biittan de7iya ubbatuyyo Xoossaa nu Awaappenne Godaa Yesuus Kiristtoosappe aaro kehatettainne sarotettai intteyyo gido.</verse>
         <verse number="8">Kasetada taani intte ammanoi sa7aa ubban siyettido gishshau, Yesuus Kiristtoosa baggaara intteyyo ta Xoossaa galatais.</verse>
         <verse number="9">Aissi giikko, taani ubba wode ta woosan inttena hassayiyoogau, Xoossai, taani a Na7aa wonggeliyaa mishiraachchuwaa yootiyoogan ta ayyaanan ayyo oottiyoogee markka. Xoossai, ba sheniyan, taani ha77i inttekko baanau ta ogiyaa injjeyanaadan, ubba wode woossais.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Aissi giikko, taani inttena minttettanau, inttenaara issippe Ayyaanaa imuwaa shaakkana mala, inttena be7anau laamotais.</verse>
         <verse number="12">Taani giyoogee, inttekka taakka issi wode minettana. Intte ta ammanuwan, qassi taanikka intte ammanuwan minettana.</verse>
         <verse number="13">Ta ishatoo, taani ubba wode inttekko baanau qoppaas. SHin tana diggiyaabai de7iyoogaa intte eranau bessees; taani harai atto Aihuda gidenna hara asaappekka aife demmidoogaadan, intteppekka aife demmanau koyais.</verse>
@@ -5084,7 +5084,7 @@
         <verse number="17">SHin neeni nena Aihuda gaasa; higgiyan zemppada Xoossan ceeqettaasa.</verse>
         <verse number="18">Neeni oottana mala, Xoossai koyiyoobai aibakko eraasa; qassi tuma gidiyaabaa dooranau higgiyaappe tamaaradasa.</verse>
         <verse number="19">Neeni qooqeta kaalettiyaagaa, qassi xuman de7iyaageetuyyookka poo7issiyaagaa, eeyyaa erissiyaagaanne yelagaa tamaarissiyaagaa gidiyoogaa eraas; higgiyaappe neeni kumetta eratettaanne kumetta tumatettaa demmiyoogaa eraasa.</verse>
-        <verse number="20"></verse>
+        <verse number="20">***</verse>
         <verse number="21">Yaatin, neeni harata tamaarissiyaagee nena ne huuphen aissi tamaarissikkii? Neeni, “Wuuqqoppa” yaagada qaalaa yootaasa. SHin neeni ne huuphen wuuqqaiyye?</verse>
         <verse number="22">Neeni, “SHaaramuxoppa” yaagaasa. SHin neeni ne huuphen shaaramuxai? Neeni eeqaa shenetaasa. SHin eeqai de7iyo keettaa bonqqai?</verse>
         <verse number="23">Xoossaa higgee neeyyo de7iyo gishshau, neeni ceeqettaasa; shin he higgiyaa menttada Xoossaa yeellayai?</verse>
@@ -5145,11 +5145,11 @@
         <verse number="14">Aissi giikko, higgiyau azazettiyaageeti Xoossai immana giidoogaa laattiyaageeta gidikko, asa ammanoi allaalle kessennabaa gidiis; Xoossai giidoogeekka hada gidiis;</verse>
         <verse number="15">higgee Xoossaa boshaa ehees; shin higgee bainnasan higgiyaa menttiyoobi baawa.</verse>
         <verse number="16">Hegaa gishshau, higgiyaa naagiyaageetu xalaalau gidennan, qassi Abrahaami ammanidoogaadan, ammaniya Abrahaama zaretu ubbau Xoossai immana giidoogee, woitodan tumattanaagee ammanuwaana. Abrahaami nuuyyo ubbaayyo aawaa. Xoossaa maxaafai, “Taani nena daro kawotettatuyyo aawa oottaas” giyoogaadan, haiqqidaageetuyyo de7uwaa immiya, ba azazuwan bainnabaa de7iyaabaadan oottidi xeesiya, i ammanido Xoossaa sinttan Abrahaami nuuyyo ubbau aawa.</verse>
-        <verse number="17"></verse>
+        <verse number="17">***</verse>
         <verse number="18">Xoossaa maxaafai Abrahaama, “Ne zerettai hagaa keena gidana” yaagidoogaadan, hagaa keena gidana giidi, ufaissan naaganau danddayenna wode, Abrahaami ammanidinne sinttappe demmana giidi, ufaissan naagidi, daro zaretuyyo aawa gidiis.</verse>
         <verse number="19">He wode, Abrahaami yelettoosappe xeetu laitta kumana haniyo cima; shin ba daafurida asatettaanne Saara na7a yelanau danddayennaagaa qoppido wode, i ba ammanuwan daafuribeenna.</verse>
         <verse number="20">Xoossaa i bonchchiiddi, au immana giida Xoossai qassi polanau danddayiyoogaa loittidi erees; eridi ba ammanuwan minnidoogaappe attin, ammanennan ixxidi, Xoossai immana giidoogaa siribeenna.</verse>
-        <verse number="21"></verse>
+        <verse number="21">***</verse>
         <verse number="22">Hegaa gishshau, Xoossai qassi a ammanuwaa xillotettan qoodiis.</verse>
         <verse number="23">“Ayyo xillotettan qoodiis” giya qaalai a xalaalau xaafettibeenna.</verse>
         <verse number="24">He qaalai nu Godaa Yesuusa haiquwaappe denttida Xoossaa ammaniya nuuyyookka xillotettan qoodettana mala xaafettiis.</verse>
@@ -5159,7 +5159,7 @@
         <verse number="1">Hegaa gishshau, nuuni ammanuwan xillidoogan, nu Godaa Yesuus Kiristtoosa baggaara nuuyyo Xoossaara sarotettai de7ees;</verse>
         <verse number="2">qassi i nuna ha77i nuuni de7iyo Xoossaa aaro kehatettaa giddo ammanuwan ehiis; yaatin, nuuni Xoossaa bonchchuwaa shaakkanau nuuyyo de7iya ufaissan ceeqettoos.</verse>
         <verse number="3">Hegaa xalaala gidenna; nuuni nu waayiyankka ufaittoos; aissi giikko, waayee danddayaa ehiyoogaa, qassi danddayai paaciyaa, paacee qassi demmanau ufaissan naagi uttidoogaa ehiyoogaa nuuni eroos.</verse>
-        <verse number="4"></verse>        
+        <verse number="4">***</verse>        
         <verse number="5">Xoossai nuuyyo immido Geeshsha Ayyaanaa baggaara ba siiquwaa nu wozanan gussido gishshau, he nuuni demmanau ufaissan naagi uttidoogee nuna yeellayenna.</verse>
         <verse number="6">Aissi giikko, nuuni biron wolqqi bainnaageeta gididi de7ishin, Xoossai doorido wodee gakkin, Kiristtoosi nagaranchchatu gishshau haiqqiis.</verse>
         <verse number="7">Xillo uraa gishshau, issi urai haiqqanaagee daro metobaa; shin keha asa gishshau haiqqanau, “Eeno” giya uri ooni erii beettennan aggenna.</verse>
@@ -5282,7 +5282,7 @@
         <verse number="9">Aissi giikko, Xoossai immana giidi haasayidoogee hagaa; “Taani laitti hannoode yaana; attuma na7a Saara yelana” yaagiis.</verse>
         <verse number="10">Hegaa xalaalakka gidenna; Irbbiqa yelido mentte naatu aawai issuwaa; i nu aawaa Yisaaqa.</verse>
         <verse number="11">SHin issi na7aa dooroi Xoossai ba huuphen qoppidoogaa gidanaadan, Xoossai Irbbiqiyyo, “Bairai kaaluwau azazettana” yaagiis; i hegaa eti yelettanaappenne iitabaa woi lo77obaa ainne oottanaappe kase giis. Hegaa gishshau, Xoossaa dooroi a xeesidoogaadaanippe attin, eti oottidoogaana gidenna.</verse>
-        <verse number="12"></verse>
+        <verse number="12">***</verse>
         <verse number="13">Xoossaa maxaafai, “Yaaqooba siiqaas; shin Eesawa ixxaas” yaagees.</verse>
         <verse number="14">Yaatin, nuuni woiganee? Xoossai moori pirddii? Mulekka gidenna.</verse>
         <verse number="15">Aissi giikko, Muuseyyo i, “Taani maaranau koyiyoogeeta maarana; qassi qarettanau koyiyoogeetuyyookka qarettana” yaagiis.</verse>
@@ -5435,20 +5435,20 @@
         <verse number="3">Aissi giikko, harai atto Kiristtoosikka bana ufaissibeenna. SHin Xoossaa maxaafai, “Nena boridaageeti borido boree ta bolli wodhdhiis” giidoogaadan haniis.</verse>
         <verse number="4">Xoossaa maxaafai nuuyyo immiyo genccaaninne minttettuwan nuuni demmana giidi ufaissan naagi uttidoogee de7ana mala, Xoossaa maxaafan xaafettida ubbabai nuna tamaarissanau xaafettiis.</verse>
         <verse number="5">Intte ubbai issi wozana gididi, issi qaalan Xoossaa, nu Godaa Yesuus Kiristtoosa Aawaa, bonchchana mala, genccaanne minotettaa immiya Xoossai, intteyyo Kiristtoos Yesuusi oottidoogaadan, issoi issuwaara issippe de7iyo issi qofaa immo.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Hegaa gishshau, Kiristtoosi inttena mokkidoogaadan, Xoossaa bonchchuwau issoi issuwaa mokkite.</verse>
         <verse number="8">Aissi giikko, Xoossai ammanettidaagaa gidiyoogaa erissanau, Xoossai aawatuyyo immana giidoogaa tumayanaunne Aihuda gidenna asai Xoossaa a maarotettaa gishshau bonchchanau Kiristtoosi Aihudatuyyo ashkkara gididoogaa intteyyo odais. Hegaa Xoossaa maxaafai yaagees; “Hegaa gishshau, taani nena Aihuda gidenna asaa giddon galatana; ne sunttaakka sabbana” yaagees.</verse>
-        <verse number="9"></verse>
+        <verse number="9">***</verse>
         <verse number="10">Qassikka, “Aihuda gidenna asatoo, Xoossaa asatuura ufaittite” yaagees.</verse>
         <verse number="11">Qassikka gujjidi, “Inttenoo, Aihuda gidenna asatoo ubbau, Godaa galatite; asau ubbau, a galatite” yaagees.</verse>
         <verse number="12">Qassikka Isiyaasi, “Isseya zaree yaana; yiidi Aihuda gidenna asaa haaranau denddana. Qassi eti a baggaara demmana giidi ufaissan naagana” yaagees.</verse>
         <verse number="13">Intte ekkana giidi ufaissan naagiyoogee Geeshsha Ayyaanaa wolqqan diccanaadan, intteyyo immana giida Xoossai, intte a ammaniyo gishshau, intteyyo ufaissaanne sarotettaa kunttidi immo.</verse>
         <verse number="14">Ta ishatoo, inttenan lo77otettainne eratetta ubbai kumidoogaanne qassi issoi issuwaa zoranau danddayiyoogaa taani ta huuphen eraas.</verse>
         <verse number="15">SHin taani inttena issibaa issibaa gujja hassayissanau, ha dabddaabbiyaa giddon ainne yayyennan intteyyo xaafaas. Taani Kiristtoos Yesuusa ashkkara gidada, Aihuda gidenna asau oottanaadan, Xoossai taayyo aaro kehatettaa immido gishshau, taani ainne yayyabeikke; Aihuda gidenna asai Geeshsha Ayyaanaa baggaara Xoossau geeshsha gididi, a ufaissiya yarshsho gidanaadan, Xoossaa wonggeliyaa mishiraachchuwaa yootiyoogan qeesedan oottais.</verse>
-        <verse number="16"></verse>
+        <verse number="16">***</verse>
         <verse number="17">Hegaa gishshau, taani Kiristtoos Yesuusan gidada Xoossau oottiyooban ceeqettanau danddayais.</verse>
         <verse number="18">Aihuda gidenna asai Xoossau azazettanaadan, Kiristtoosi ta baggaara qaalan, oosuwan, malaataa wolqqan, Xoossai oottiyo malaataa wolqqaaninne Geeshsha Ayyaanaa wolqqan oottidoogaa xalaalaa taani yootanaappe attin, harabaa yootanau xalikke. Hegaa gishshau, Yerusalaameppe doommada, Iliwaariqoona giyo biittaa gakkanaassi yuuyada, Kiristtoosa wonggeliyaa mishiraachchuwaa wurssa yootaas.</verse>
-        <verse number="19"></verse>
+        <verse number="19">***</verse>
         <verse number="20">Hegaadankka, taani hara asi doommidoogaa bollan doommennaadan, Kiristtoosa sunttai xeesettibeennasan wonggeliyaa mishiraachchuwaa yootanau amottaas.</verse>
         <verse number="21">SHin Xoossaa maxaafai, “Abai odettibeennaageeti a be7ana; qassi abaa siyibeennaageeti akeekana” yaagees.</verse>
         <verse number="22">Hegaa gishshau, taani darotoo inttekko yaanau koyaas; shin yaanau danddayabeikke.</verse>
@@ -5501,7 +5501,7 @@
         <verse number="3">Xoossai, nu Aawainne nu Godai Yesuus Kiristtoosi inttessi aaro kehatettaanne sarotettaa immo.</verse>
         <verse number="4">Xoossai Kiristtoosa Yesuusa baggaara inttessi immido aaro kehatettaa gishshau, taani ubba wode inttessi Xoossaa galatais.</verse>
         <verse number="5">Taani Kiristtoosassi markkattiyoogee inttenan minnido gishshau, intte ubbaban, haasaya ubban eratetta ubban, aani duretideta.</verse>
-        <verse number="6"></verse>
+        <verse number="6">***</verse>
         <verse number="7">Hegaadan intte nu Godaa Yesuus Kiristtoosa yuussaa naagishin, ayyaana imuwaappe harai atto issoinne inttessi paccenna.</verse>
         <verse number="8">Qassi nu Godaa Yesuus Kiristtoosa gallassan intte borettennaageeta gidanaadan, wurssettai gakkanaassi i inttena minttana.</verse>
         <verse number="9">Ba Na7aa nu Godaa Yesuus Kiristtoosa issippetettaassi inttena xeesida Xoossai ammanettidaagaa.</verse>
@@ -5598,7 +5598,7 @@
         <verse number="1">Intte giddon shaaramuxai de7iyoogee tumu zigirettees; hegaa mala shaaramuxai harai atto, Xoossaa ammanenna asaa giddooninne baawa. Aissi giikko, ba aawaa machchiyo aissida asi de7ees.</verse>
         <verse number="2">Inttekka otorettideta. Hegaappe intte azzananau bessennee? Hegaa mala borssuwaa oottida bitanee intte shiiquwaappe kichchanau bessees.</verse>
         <verse number="3">Ai gidinkka taani ta asatettan inttenaara de7ennabaa gidikkonne, ayyaanan inttenaara de7ais. Ha77i inttenaara de7iyaabaadan hanada, hegaa mala oosuwaa oottida bitaniyaa bolli nu Godaa Yesuus Kiristtoosa sunttan pirddarggaas. Inttenne ta ayyaanai nu Godaa Yesuus Kiristtoosa wolqqaara issippe shiiqidi,</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">he bitaniyaa ayyaanai Godaa Yesuusa gallassan attana mala, a bollaa bashshanau Seexaanaassi intte immanaadan, taani pirddaas.</verse>
         <verse number="6">Intte ceeqoi lo77o gidenna. Guutta irshshoi munaqa ubbaa denttiyoogaa erekketiiyye?</verse>
         <verse number="7">Intte ooratta gidana mala, nagaraa irshshoi caalidaagaa kessite. Intte irshshoi bainna munaqa mala. Aissi giikko, nuuni Paasikaa gallassaa bonchchiyo dorssai, Kiristtoosi yarshshettiis.</verse>
@@ -5642,7 +5642,7 @@
         <verse number="8">Hegaa gishshau, taani machchiyo ekkibeennaageetinne am77eti tanadan coo de7iyaakko, etassi lo77o gais.</verse>
         <verse number="9">SHin amuwan xuugettiyoogaappe ekkiyoogeenne geliyoogee lo77o gidiyo gishshau, eti banttana naaganau danddayana xayikko, ekkonanne gelona.</verse>
         <verse number="10">Machchiyaa ba azinaappe shaahettuppu. SHin shaahettikkonne gelennan de7u; woi ba azinaara sigettu. Azinaikka ba machchiyo yeddoppo yaagada, ekkidaageetanne gelidaageeta azazais. SHin hagaa azaziyaagee Godaa gidiyoogaappe attin, tana gidikke.</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">Taani harata hagaadan gais; Godaa gidenna. Ammanenna machchiyaa de7iyo ammaniya asi ooninne de7ikko, a machchiyaa aara issippe de7iyoogaa i dosikko, o yeddoppo.</verse>
         <verse number="13">Qassi ammanenna azinai de7iyo ammaniya machchiyaa de7ikko, i azinai iira issippe de7iyoogaa a dosikko, appe shaahettuppu.</verse>
         <verse number="14">Aissi giikko, ammanenna azinai ba ammaniya machcheera de7idi geeyiis. Qassi ammanenna machchiyaa ba ammaniya azinaara de7ada geeyaasu. Hegee bainnaakko, intte naati tuna; shin ha77i eti geeshsha.</verse>
@@ -5767,7 +5767,7 @@
         <verse number="12">Aissi giikko, maccaara attumaagaappe merettidoogaadan, hegaadan qassi attumaageekka maccaarippe yelettiis. Qassi ubbabaikka Xoossaappe yees.</verse>
         <verse number="13">Intte intte huuphen pirddite. Maccaara ba huuphiyaa qacennan Xoossaa woossanau bessii?</verse>
         <verse number="14">Attumaagee ba huuphiyaa dichchikko, ayyo pokko. SHin maccaara ba huuphiyaa dichchikko, iyyo bonchcho gidiyoogaa harai atto, meretaikkonne inttena tamaarissennee? Aissi giikko, maccaari huuphee o kammanau iyyo imettiis.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">SHin ooninne ha yohuwan palamettana koyikko, nuussi gidin woikko Xoossaa woosa keettatussi gidinkka, hagaappe hara meezee baawa.</verse>
         <verse number="17">SHin intte shiiqiyoogee iitabaassappe attin, lo77obaassa gidenna gishshau, taani ha azazuwaa immaidda inttena galatikke.</verse>
         <verse number="18">Aissi giikko, ubbabaikka de7o. SHin intte woosa keettan shiiqiyo wode, intte giddon phalqqettai de7iyoogaa taani siyais. Qassi hegee issi baggaara tuma gidiyoogaa ammanais.</verse>
@@ -5930,7 +5930,7 @@
         <verse number="49">Nuuni biittaappe merettidaagaa meraa maayidoogaadan, saluwaappe yiidaagaa meraakka qassi maayana.</verse>
         <verse number="50">Ta ishatoo, taani giyoogee hagaa; ashoinne suutti Xoossaa kawotettaa laattana danddayenna. Qassi musiyaagee musennaagaa laattenna.</verse>
         <verse number="51">Siyite! Taani intteyyo issibaa xuurana. Nuuni ubbai haiqqokko. SHin wurssetta malkkatai punettiyo wode, liphida aifee xeellanaassi hassayennan laamettana. Aissi giikko, malkkatai punettiyo wode, haiqqida asai musenna asa gididi denddana; nuunikka laamettana.</verse>
-        <verse number="52"></verse>
+        <verse number="52">***</verse>
         <verse number="53">Aissi giikko, hagee musiyaagee musennaagaa maayanau bessees; qassi hagee haiqqiyaageekka haiqqennaagaa maayanau bessees.</verse>
         <verse number="54">SHin hagee musiyaagee musennaagaa maayiyo wode, qassi hagee haiqqiyaagee haiqqennaagaa maayiyo wode, he wode, Xoossaa maxaafai, “Haiqoi xoonettidi mitettiis.</verse>
         <verse number="55">Haiquwau, ne yiishshai awaanee? Haiquwau, ne xoonoi awaanee?” giido qaalai polettana.</verse>
@@ -5954,7 +5954,7 @@
         <verse number="13">Tishshi giite. Ammanuwan minnite. Xalite. Minnite.</verse>
         <verse number="14">Ooso ubbaa siiquwan oottite.</verse>
         <verse number="15">Ta ishatoo, Isxxifaanoosinne a so asai Giriiken koiro ammanidaageeta gidiyoogaanne geeshshatussi oottanau banttana immidoogaa intte ereeta. Inttekka eta mala asaassinne, etaara oottiya ubbaassi daafuriya ubbaassi haarettanaadan, taani inttena woossais.</verse>
-        <verse number="16"></verse>
+        <verse number="16">***</verse>
         <verse number="17">Isxxifaanoosi, Parddonaaxisinne Akaiqoosi intte bainnasan tana boorasiyaa teqqido gishshau, eta yuussaa taani ufaittais.</verse>
         <verse number="18">Eti inttena ayyaanan minttettidoogaadan, tanakka ayyaanan minttettido gishshau, hegeeta mala asata dogoppite.</verse>
         <verse number="19">Isiyaa woosa keettaa asai inttena, “Saro saro” goosona. Aqiilinne PHirisqqila bantta soo shiiqiya woosa keettaa asaarakka intteyyo Godaa sarotaa wozanappe kiittoosona.</verse>
@@ -5980,7 +5980,7 @@
         <verse number="11">Intte woossido daro woosan nuuyyo anjjoi simmido gishshau, daro asai nu gishshaa Xoossaa galatana mala, inttekka qassi nuna woosan maaddana koshshees.</verse>
         <verse number="12">Nuuni ceeqettiyoogee hagaa; ha sa7an nuuni de7iyo de7oi, ubba qassi inttenaara nuuyyo de7iya issippetettai Xoossaa aaro kehatettaanappe attin, asa aadhdhida eratettaana gidennaagaa, qassi Xoossai immido geeshshatettaaninne suuretettan nuuni de7iyoogaa nuna zoriya wozanai nuuyyo markkattees.</verse>
         <verse number="13">Aissi giikko, intte nabbabanaunne akeekanau danddayiyoogaa xalaalaa intteyyo xaafiyoogaappe attin, nuuni harabaa intteyyo xaafokko. Nu Godaa Yesuusa gallassi nuuni inttenan ceeqettanaagaadan, inttekka nunan ceeqettana mala, intte ha77i wurssi akeekenna yohuwaa digin wurssi akeekana gaada qoppais.</verse>
-        <verse number="14"></verse>
+        <verse number="14">***</verse>
         <verse number="15">Hegaa taani loitta erido gishshau, intte naa77utoo go7ettana mala, ubbaappe kasetada inttekko baanau qofaa qachchaas.</verse>
         <verse number="16">Taani Maqidooniyaa baidda inttenaara gaittanaagaanne qassi yaappe simmaidda intte mataara Yihudaa aadhdhishin, intte tana maaddanaagaa qoppa uttaas.</verse>
         <verse number="17">Hegaa gishshau, taani hegaa qoppaidda tanan ammanettabeikkinaa? Taani ta qofaa qachchiyo wode, sa7aa asadan issi kuttan, “Ee, ee” woi, “CHii, chii” gaanau giiga uttidanaa?</verse>
@@ -6267,7 +6267,7 @@
         <verse number="13">Kase taani Aihuda ammanuwan de7iyo wode, waana de7idaakko, intte siyideta; taani Xoossaa woosa keettaa qareti bainnan yedettaasinne xaissanau baaxetaas.</verse>
         <verse number="14">Ta wode de7ida ta dabbotuppe darota Aihuda ammanuwaa higgiyaa naagiyoogan aadhdhais; nu aawatu wogaa ooppenne aadhdhada siiqaas.</verse>
         <verse number="15">SHin Xoossai ba aaro kehatettan, taani biron ta aayee uluwan de7ishin, baayyo oottanau tana xeesiis; abaa yootiya wonggeliyaa mishiraachchuwaa Aihuda gidenna asaayyo taani yootana mala, Xoossai ba Na7aa tau qonccissanau koyido wode, zorettanau ookkonne babeikke.</verse>
-        <verse number="16"></verse>
+        <verse number="16">***</verse>
         <verse number="17">Woikko taappe kase Yesuusi kiittidoogeetuura gaittanau Yerusalaame babeikke; shin taani sohuwaara Araba giyo biittaa baas. Hegaappe Damasqqo giyo katamaa simmaas.</verse>
         <verse number="18">Heezzu laittappe guyyiyan, PHeexiroosaara gaittanau Yerusalaame baada, aara tammanne ichchashu gallassaa uttaas.</verse>
         <verse number="19">SHin Yesuusi kiittidoogeetuppe Godaa ishaa Yaaqoobappe attin, haratuura gaittabeikke.</verse>
@@ -6434,7 +6434,7 @@
         <verse number="17">Qassi Godaa Yesuus Kiristtoosa Xoossai, bonchcho Aawai, Xoossaa intte eranaadan, inttena aadhdhida eranchcha oottiya qassi Xoossaa intteyyo qonccissiya Geeshsha Ayyaanaa intteyyo immanaadan, taani woossais.</verse>
         <verse number="18">Xoossai intte ekkana giidi, ufaissan naagi uttidoogaayyo inttena xeesidoogaanne i ba asau immana giyo anjjoi ai keena durekko intte eranaadan, Xoossai intte wozanaa dooyin, a poo7uwaa intte be7anaadan, taani Xoossaa woossais.</verse>
         <verse number="19">Qassi a ammaniya nunan a wolqqai keehi oottees. Ha nunan de7iya wolqqainne haiquwaappe Kiristtoosa denttidi, saluwaa sohuwan Xoossaappe ushachcha baggaara utissida gita wolqqai issuwaa.</verse>
-        <verse number="20"></verse>
+        <verse number="20">***</verse>
         <verse number="21">Kiristtoosi saluwaa sunttatuppe, godatettai de7iyoogeetuppe, wolqqaamatuppenne godatu ubbaappe bolla gididi haarees; i ha sa7aa xalaalan gidennan, sinttappe yaana sa7ankka hara sunttatetta ubbaappe xoqqees.</verse>
         <verse number="22">Xoossai ubbabaa Kiristtoosa tohuwaappe garssan haarissiis; qassi Xoossai i ubbaban ubbaappe bollaara Goda gidanaadan, woosa keettaayyo a immiis.</verse>
         <verse number="23">Woosa keettai Kiristtoosa asatetta; woosa keettai Kiristtoosi ubbasan ubbabaa kunttiyo a polo.</verse>
@@ -6473,14 +6473,14 @@
         <verse number="7">Xoossai ba oosuwaa wolqqaa baggaara tau immido aaro kehatettan taani ha wonggeliyau ashkkara gidaas.</verse>
         <verse number="8">Taani geeshshatu ubbaa giddon laafiyaagaa gidikkokka, Aihuda gidenna asau zawai bainna Kiristtoosa duretettaa wonggeliyaa mishiraachchuwaa yootiyo ha qaadaa Xoossai taayyo immiis.</verse>
         <verse number="9">Qassi taani hegan Xoossaa xuura qofaa asa ubbau qonccissa yootana; ubbabaa medhdhida Xoossai ba xuura yohuwaa beni wode ubban gentti wottiis. Xoossai ha77i hegaa woosa keettaa baggaara saluwaa sohuwan de7iya halaqatuyyoonne godatettai de7iyoogeetuyyo zawai bainna ba aadhdhida eratettaa qonccissanau oottiis.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Xoossai hegaa nu Godaa Kiristtoos Yesuusa baggaara i polido ba merinaa qofaadan oottiis.</verse>
         <verse number="12">Nuuni Kiristtoosi Yesuusaara issippe gididi, a ammaniyo ammanuwan ammanettidi, ainne yayyennan Xoossaa sintti aadhdhanau danddayoos.</verse>
         <verse number="13">Hegaa gishshau, taani intteban metootiyoogan intte hirggenna mala, inttena woossais; aissi giikko, taani intte bonchchuwau metootais.</verse>
         <verse number="14">Hegaa gishshau, taani saluwaaninne sa7an de7iya ammaniya keetta asai ubbai aani sunttettido Xoossaa sinttan gulbbatais.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">Xoossai ba bonchchuwaa daruwaadan, ba Geeshsha Ayyaanan, intteyyo intte garssa asatettan intte minniyo wolqqaa immanaadaaninne, qassi ammanuwaa baggaara Kiristtoosi intte wozanaa ba keetta oottanaadan, taani Xoossaa woossais; qassikka intte xaphuwaa yeddidi, tokettidi siiquwan minnanaadan, Xoossaa woossais.</verse>
-        <verse number="17"></verse>
+        <verse number="17">***</verse>
         <verse number="18">Qassi geeshshatu ubbaara Kiristtoosa siiqoi ai keena aahokko, adussakko, xoqqakkonne ciimmakko eriyo wolqqaa intte demmanaadan, taani Xoossaa woossais.</verse>
         <verse number="19">Eratettaappe aadhdhiya Kiristtoosa siiquwaa intte eranaadaaninne qassi Xoossaabaa gidiya ubbaban intte poli kumanaadan, taani Xoossaa woossais.</verse>
         <verse number="20">Simmi nu giddon oottiya ba wolqqaa baggaara nuuni woossiyoobaa woi qoppiyoobaa ubbaappe keehi darissi oottanau danddayiya Xoossaayyo, woosa keettaaninne Kiristtoos Yesuusan ubba wode merinaappe merinaa gakkanaassi bonchchoi gido. Amin77i.</verse>
@@ -6557,7 +6557,7 @@
       <chapter number="6">
         <verse number="1">Naatoo, inttena yelidaageetuyyo Godan azazettite; aissi giikko, hagee oottanau bessiyaabaa.</verse>
         <verse number="2">“Neeyyo ubbabai lo77anaadaaninne sa7an ne laittai aduqqanaadan, ne aawaanne ne aayyiyo bonchcha” giya azazoi Xoossai immana giidoogaara de7iya koiro azazuwaa.</verse>
-        <verse number="3"></verse>
+        <verse number="3">***</verse>
         <verse number="4">Aawatoo, intte intte naata Godaa seeraaninne zoriyan dichchiteppe attin, eta hanqqetissoppite.</verse>
         <verse number="5">Ailletoo, Kiristtoosayyo oottiyoogaadan, intte godatuyyo yashshatettaaninne kokkorssan suure wozanaappe azazettite.</verse>
         <verse number="6">Xoossai giidoogaa oottiyaageetudan, Kiristtoosa ailletudan, wozanaappe oottiteppe attin, asa ufaissanau oottiyaabaadan, asi be7o giidi oottoppite.</verse>
@@ -6569,7 +6569,7 @@
         <verse number="12">Aissi giikko, nuuni saluwaa sohuwan de7iya iita ayyaana wolqqatuura, haariyaageetuura, godatettai de7iyaageetuuranne ha xuma biittaa haariyaageetuura olettiyoogaappe attin, asaara baaxetokko.</verse>
         <verse number="13">Hegaa gishshau, iita gallassan teqqanaunne qassi wurssettai gakkanaassi warettoogaappe guyyiyan, minni eqqanau intte danddayana mala, Xoossaa ola miishsha ubbaa oiqqite.</verse>
         <verse number="14">Hegaa gishshau, xeessan qabattuwaa gixxiyoogaadan tumatettaa gixxidi, tiran wottiyo ola miishshadan xillotettaa maayidi, intte tohuwan caammaa wottiyoogaadan sarotettaa wonggeliyaa mishiraachchuwaa yootanau giigidi, minni eqqite.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">He ubbaappe aattidi, xalahe halaqai dafidi yeddiyo wonddafiyaa tama ubbaa toissanau, ammanuwaa ubba wode gonddalledan oiqqite.</verse>
         <verse number="17">Ammanuwaa huuphiyan wottiyo birata qophedan wottite; qassi Geeshsha Ayyaanaa bisuwaa, Xoossaa qaalaa, oiqqite.</verse>
         <verse number="18">Xoossaa woossiiddinne a maaduwaa oichchiiddi, ubba wode Geeshsha Ayyaanan Xoossaa woossite. Hegaa gishshau, minnite; salettoppite; geeshshatu ubbaayyo Xoossaa ubba wode woossite.</verse>
@@ -6587,12 +6587,12 @@
         <verse number="2">Nu Aawaa Xoossaappenne Godaa Yesuus Kiristtoosappe aaro kehatettainne sarotettai intteyyo gido.</verse>
         <verse number="3">Taani inttena hassayiyo wode ubban ta Xoossaa galatais.</verse>
         <verse number="4">Intte koiro gallassaappe hanno gakkanaassi, wonggeliyaa mishiraachchuwaa yootiyoogan tana maaddido gishshau, taani ubba wode intteyyo ubbaayyo ufaissan Xoossaa woossais.</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">Qassi intte giddon lo77o oosuwaa doommida Xoossai, Kiristtoos Yesuusi simmiyo gallassai gakkanaassi polanaagaa erais.</verse>
         <verse number="7">Taani intteyyo ubbaayyo hegaadan qoppanau bessees; aissi giikko, taani inttena ubba wode hassayais. Ha77i taani qashuwan de7iyoogan, wonggeliyau mootettiyoogaaninne wonggeliyaa mintta essiyoogan Xoossai taayyo qaadido qaadaa inttekka tanaara shaakki ekkideta.</verse>
         <verse number="8">Aissi giikko, taani inttena ubbata Kiristtoos Yesuusappe yiya siiquwan ai keenaa siiqiyaakko, Xoossai tau markka.</verse>
         <verse number="9">Qassi taani intteyyo Xoossaa woossiyoogee hagaa; lo77obai aibakko dooranau intte danddayanaadaaninne, qassi intte siiqoi tumu eratettaaranne akeeka ubbaara issippe gujji gujji diccanaadan, Xoossaa woossais; yaatidi Kiristtoosi simmiyo gallassan intte suurenne borettennaageeta gidana.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Qassi intte de7oikka Xoossaa bonchchuwaayyoonne galataayyo Yesuus Kiristtoosa baggaara beettiya xillotettaa aifiyaa aifana.</verse>
         <verse number="12">Ta ishatoo, ha tana gakkidabai wonggelee aakkanaadan tumu maaddidoogaa intte erana mala koyais.</verse>
         <verse number="13">Taani Kiristtoosa gishshau qashettidoogaa, kawo keettaa naagiya ubbatinne hagan de7iya harati ubbati eroosona.</verse>
@@ -6629,7 +6629,7 @@
         <verse number="12">Hegaa gishshau, ta dabbotoo, taani inttenaara de7iyo wode ubban intte tau azazettidoogaadan, ha77i taani intte matan de7enna wodekka, intte kaseegaappe aattidi tau azazettanau bessees; yashshatettaaninne kokkorssan intte atotettaa polanau oottite.</verse>
         <verse number="13">Aissi giikko, Xoossai inttena bau eeno giissanaadaaninne qassi i qoppidobaa intte oottanaadan intte giddon ubba wode oottees.</verse>
         <verse number="14">Geellanne nagaranchcha asaa giddon borettennaageeta, ashkketanne Xoossaa naatudankka pokkoi bainnaageeta gidite; qassi zuuzummennan woikko iitabaa qoppennan ubbabaa oottite. He asaa giddonkka saluwan poo7iya xoolinttedan poo7iiddi,</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">de7uwaa wonggeliyaa mishiraachchuwaa etau yootite; he wode ta daafurainne ta oosoi mela xayibeennaagee erettiyo gishshau, Kiristtoosa gallassi taani inttenan gitatana.</verse>
         <verse number="17">Harai atto intte ammanoi Xoossaayyo yarshshiyo yarshshuwaa bolli ta suuttai ushshaa yarshshodan gukkikkokka, taani ufaittais; inttenaara ubbaara issippe ufaittais.</verse>
         <verse number="18">Hegaadan inttekka qassi ufaittanau bessees; tanaara issippe ufaittite.</verse>
@@ -6655,9 +6655,9 @@
         <verse number="6">Aihuda ammanuwau mishettiyoogaa gidikko, taani woosa keettaa waissaas; issi urai higgiyau azazettidi xilliyoogaa baggaa gidikko, tanan boree beettibeenna.</verse>
         <verse number="7">SHin tana go77iya ubbabaa Kiristtoosa gishshau bayidabaadan qoodaas.</verse>
         <verse number="8">Tumakka, hegeetu xalaala gidenna; taani ta Godaa Kiristtoos Yesuusa eriyoogee ubbabaappe keehi aadhdhiyo gishshau, ubbabaa tana mulekka go77ennabaadan qoodaas; taani a gishshau ubbabaa yegga bayaas. Kiristtoosa demmanaunne aara de7anau ubbabaa wora olidobaadan qoodais; taani higgiyaayyo azazettada demmiyo ta huuphe xillotetti taayyo baawa. Kiristtoosa ammanin, Xoossai immiyo xillotettai, ammanuwan Xoossaa matappe yiya xillotettai tau ha77i de7ees.</verse>
-        <verse number="9"></verse>
+        <verse number="9">***</verse>
         <verse number="10">Taani Kiristtoosanne haiquwaappe i denddido wolqqaa eranau koyais; yaatada taani ta huuphen haiquwaappe denddana yaagiyoogan, a waayiyaa aara waayettanaunne a haiquwan a milatanau amottais.</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">Taani ha77i demmarggaas woikko tanan bali baawa giikke. SHin Kiristtoos Yesuusi tana baayyo oottido woituwaa demmana gaada eesotais.</verse>
         <verse number="13">Ta ishatoo, taani hegaa demmarggaas gaada qoppikke; shin taani issibaa oottais; taappe guyyeera de7iyaagaa doga aggada, sinttan de7iyaagaa oiqqanau warettais.</verse>
         <verse number="14">Xoossai Kiristtoos Yesuusa baggaara bolla de7uwau xeesiyo woituwaa ekkanau, ta gakkanasaa horddofais.</verse>
@@ -6748,7 +6748,7 @@
         <verse number="18">Wordduwaa ashkke milatanaunne kiitanchchaayyo goinnanau koyiyaagee, be7ibeennaagaa ajjuutan be7aas giidi otorettiyaagee, asatetta qofan coo ayyiyaagee, ooninne intte bolli pirddoppo.</verse>
         <verse number="19">Hegaa mala asi huuphe gidiya Kiristtoosa mintti oiqqidoogaa lefissees. Bolla ubbai he huuphiyaappe wolqqaa demmidi, bollan de7iya kuriyaaranne shayaara issippe ohettidi, Xoossai dichchiyo dishuwaadan diccees.</verse>
         <verse number="20">Intte ha sa7aa haariya ayyaanatuppe haakkidi, Kiristtoosaara haiqqideta; yaatin, aissi ha sa7aa wogan de7iya asadan de7eetii? “Oiqqoppa; baara be7oppa; bochchoppa” yaagiya higgetuyyo aissi azazetteetii?</verse>
-        <verse number="21"></verse>
+        <verse number="21">***</verse>
         <verse number="22">Ha ubbabaikka asi medhdhido higgenne timirtte gidiyo gishshau, polettoogaappe guyyiyan xayana.</verse>
         <verse number="23">Eti kiitanchchaayyo goinniyoogaaninne wordduwaa ashkke milatiyoogan qassi bantta asatettaa gilqqissiyoogan aadhdhida eranchcha milatoosona; shin shaaramuxanau koyiyoogaa diggiyoogee hegan ainne go77enna.</verse>
       </chapter>
@@ -6909,10 +6909,10 @@
         <verse number="4">Hegaa gishshau, inttena yedetainne waaye ubbai gakkinkka intte gencciyoogaanne ammaniyoogaa nuuni nu huuphen Xoossaa woosa keettaayyo yootiiddi, intteban ceeqettoos.</verse>
         <verse number="5">Intte waayettiyo Xoossaa kawotettaayyo bessiyaageeta gididi qoodettana mala, Xoossai pirddiyo xillo pirddau hagee malaata.</verse>
         <verse number="6">Xoossai tumu pirddaa pirddana. Godai Yesuusi ba wolqqaama kiitanchchatuura tamaa lacuwaa giddon saluwaappe yiyo wode, Xoossai inttena waissiyaageetu bolli waayiyaa ehaana. Qassi waayettiya inttenanne nuna shemppissana.</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">Qassi Xoossai bana erennaageetanne nu Godaa Yesuus Kiristtoosa wonggeliyaa mishiraachchuwaayyo azazettennaageeta qaxxayana.</verse>
         <verse number="9">He gallassi, i ba geeshshatu ubban bonchchettanaunne qassi bana ammaniya ubbatun sabettanau yiyo wode, eti Godaa sinttappenne a wolqqaa bonchchuwaappe shaahettidi, merinaa bashshan qaxxayettana. Nuuni intteyyo yootido kiitaa intte ammanido gishshau, intte a bonchchiyaageetu giddooninne sabbiyaageetu giddon de7ana.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Nuuni intteyyo ubba wode Xoossaa woossiyoogee hegaassa. Nu Xoossai xeesido de7uwau inttena bessiyaageeta giidi qoodanaadan, nuuni a woossoos; intte lo77obaa amottiyoogaanne intte ammanuwaa oosuwaa i ba wolqqan polo.</verse>
         <verse number="12">Hegan nu Xoossaa aaro kehatettaaninne qassi nu Godaa Yesuus Kiristtoosa aaro kehatettan, Godaa Yesuusa sunttaa intte bonchchana; inttenakka i bonchchana.</verse>
       </chapter>
@@ -6928,7 +6928,7 @@
         <verse number="9">He makkalanchchai Seexaanaa wolqqaara yiidi, Xoossai oottiyo malaata ubbaa, worddo malaataanne garamissiyaabaa oottana.</verse>
         <verse number="10">Hegaadankka, qassi xayiya asata dumma dumma iita cimuwan balettana. Xayiyaageeti attanau tumatettaa siiqidi ekkibeenna gishshau xayana.</verse>
         <verse number="11">Hegaa gishshau, tumatettaa ammanibeenna asati, nagara oottiyoogan ufaittiyaageeti ubbai pirddettanaadaaninne worddo gidiyaabaa ammananaadan, Xoossai wolqqaama balaa eta giddo yeddana.</verse>
-        <verse number="12"></verse>
+        <verse number="12">***</verse>
         <verse number="13">SHin Godai siiqiyo nu ishatoo, nuuni Xoossaa intte gishshau, ubba wode galatanau bessees. Aissi giikko, Geeshsha Ayyaanaa wolqqan inttena ba geeshsha asa oottiyoogaaninne tumatettaa intte ammaniyoogan inttena ashshanau, Xoossai inttena bairadan dooriis.</verse>
         <verse number="14">Xoossai inttena nuuni intteyyo yootido nu wonggeliyaa mishiraachchuwaa baggaara xeesidoogee, intte nu Godaa Yesuus Kiristtoosaara issippe bonchchettanaassa.</verse>
         <verse number="15">Simmi nu ishatoo, minnidi eqqite; nuuni inttena nu doonan gidin, woi nu dabddaabbiyan gidin, tamaarissido wogaa oiqqite.</verse>
@@ -6980,15 +6980,15 @@
       </chapter>
       <chapter number="2">
         <verse number="1">Nuuni Xoossaa milatiyoogan, geeshshatetta ubban, sarotettaaninne ashkketettan de7ana mala, asa ubbau, kawotuyyoonne sunttatettai de7iyo ubbatuyyo, Xoossaa oichchanau, woossanau, gaannatanaunne galatanau bessiyoogaa ubbabaappe kasetada taani nena erissais.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Asai ubbai attanaadaaninne tumatettaa eranaadan koyiya nuna ashshiya Xoossaa sinttan hagee lo77iyaabaanne ufaissiyaabaa.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">Aissi giikko, issi Xoossai de7ees; Xoossaappenne asaappe gidduwan gididi gaannatiya issoi de7ees. Hegeekka Kiristtoos Yesuusa giyo asa.</verse>
         <verse number="6">I asaa ubbaa wozanau bana ubbau immiis. Xoossai ba wodiyan asa ubbaa wozanau koyiyoogaa bessiya markkai hagaa.</verse>
         <verse number="7">Taani Xoossaa qaalaa yootiyaagaa, Yesuusi kiittidoogaanne qassi ammanuwaaninne tumatettan Aihuda gidenna asaa tamaarissiyaagaa gidada sunttettidoogee hegaassa. Taani worddotikke; tumaa haasayais.</verse>
         <verse number="8">Hegaa gishshau, ubbasan de7iya attumaasai hanqqoinne palami bainnan, ba geeshsha kushiyaa pude denttidi, Xoossaa woossanaadan, taani koyais.</verse>
         <verse number="9">Hegaadan qassi maccaasaikka bessiya maayuwaa kiphataaninne banttana shiishshi ekkiyoogan maayona. Xoossau yayyais giya maccaasau bessiyoogaadan, lo77obaa oottiyoogaanappe attin, huuphiyaa shurubbaa daddiyoogan, worqqan woikko inqquwan, woikko daro al77o afalan banttana alleeqissoppona.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Maccaasai ubbaban haarettidi, co77u giidi tamaaro.</verse>
         <verse number="12">Taani maccaasai co77u giidi de7ona gaisippe attin, attumaasaa tamaarissona woikko eta bolli aawatona giikke.</verse>
         <verse number="13">Aissi giikko, Addaamee koiro merettiis; Hewaana guyyeppe merettaasu.</verse>
@@ -7062,7 +7062,7 @@
         <verse number="1">Xoossaa sunttainne nu timirttee cayettenna mala, ailletettaa qambbaraa giddon de7iyaageeti banttana haariya godatuyyo bonchchoi bessiyoogaa erona.</verse>
         <verse number="2">Ammaniya asaa aille gidiyaageetuyyo eta godati etau isha gidiyo gishshau, eta karoppona. SHin bantta oosuwan go7ettiyaageeti eti siiqiyo ammaniyaageeta gidiyo gishshau, eti kaseegaappe aattidi oottanau bessees. Neeni ha yohota tamaarissanaunne yootanau bessees.</verse>
         <verse number="3">Ai asinne dumma timirttiyaa tamaarissiyaabaa gidikko, qassi nu Godaa Yesuus Kiristtoosa tumu qaalaaranne nu haimaanootiyaa timirttiyaara gaittenna urai daro otorettees; ainnekka erenna. Qassi qaalaa bollan palamettanaunne ooyettanau etau giigenna qofai de7ees. Hegee qanaatiyaa, palamaa, cashshaa, iita siriyaa kaalettees.</verse>
-        <verse number="4"></verse>
+        <verse number="4">***</verse>
         <verse number="5">Qassi eta huuphee oottenna. Tumatetti bainna asatuurakka palamaa kaalettees. Eti Xoossaa milatiyoogan duretana giidi qoppoosona. Neeni he asatuppe shaahetta.</verse>
         <verse number="6">SHin taayyo de7iyaabai tau gidana giya ura Xoossaa milatiyoogee dureyees.</verse>
         <verse number="7">Aissi giikko, nuuni ha sa7aassi ainne ehibookko; qassi appe ainnekka ekkokko.</verse>
@@ -7138,7 +7138,7 @@
         <verse number="4">kashi erikke giyaageeta, eesotiyaageeta, otoruwan sugettiyaageeta, qassi Xoossaappe aattidi, ufaittiyoobaa dosiyaageeta gidana.</verse>
         <verse number="5">Eti nu ammanuwaa bolla doonan ekkidabaa milatana; shin a tumu wolqqaa erikke gaana. Hegeetu mala asatukko shiiqoppa.</verse>
         <verse number="6">Aissi giikko, etappe issoi issoi asa keetta gelidi, nagarai deexxidoogeeta, dumma dumma amuwan sugettiyaageeta, ubba wode tamaaridi, tumatettaa eratettaa ekkanau mule danddayibeenna daafuranchcha maccaasata godatoosona.</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">Yaaneesinne Yambbareesi Muuse yohuwaa phalqqidoogaadan, hegaadan qassi hageeti, suure qofai bainnaageeti ammanuwan kunddidaageeti, tumatettaabaa phalqqoosona.</verse>
         <verse number="9">SHin Yaaneesa eeyyatettainne Yambbareesa eeyyatettai qassi qonccidoogaadan, eta eeyyatettaikka asa ubbau qonccana gishshau, eti kaseegaappe aadhdhidi go7ettokkona.</verse>
         <verse number="10">SHin neeni ta timirttiyaa, ta hanotaanne ta qofaa, ta ammanuwaanne ta danddayaa, ta siiquwaanne ta genccaa,</verse>
@@ -7189,7 +7189,7 @@
         <verse number="11">Eti tamaarissanau bessenna pokkiya ogiyan miishsha demmanau tamaarissiyoogan keetta ubbaa mooriyo gishshau, eta haasayaa teqqana bessees.</verse>
         <verse number="12">Eta giddoppe issoi, hananabaa yootiya etaagee, “Qarxxeese asai ubba wode, worddanchcha, iita do7anne yoranchcha qassi azalla asa” yaagiis.</verse>
         <verse number="13">I markkattidoogee tuma; hegaa gishshau, neeni etassi mino ammanoi de7anaadaaninne qassi Aihudatu haisiyaanne tumaa ixxida asatu azazuwaa eti siyennaadan, eta minttada seeranau bessees.</verse>
-        <verse number="14"></verse>
+        <verse number="14">***</verse>
         <verse number="15">Bantta huuphen geeshsha gididaageetussi ubbabaikka geeshsha; shin tunatussinne ammanennaageetussi eta wozanaa qofainne eta zoriya wozanai tunido gishshau, etau aibinne geeshsha gidenna.</verse>
         <verse number="16">Banttau eti Xoossaa eriyoogaa qoncciyan yootoosona; shin eti sheneyiyaageeta, azazettennaageetanne lo77o ooso ubbaukka giigennaageeta gidiyo gishshau, bantta oosuwan a erokko goosona.</verse>
       </chapter>
@@ -7198,7 +7198,7 @@
         <verse number="2">Cima attumaasai ammanuwan, siiquwaaninne danddayan mino gidanaadan, qassi mattottennaagaa, woppu giidaagaanne banakka naagiyaagaa gidanaadan zora.</verse>
         <verse number="3">Hegaadankka cima maccaasai geeshsha de7o de7iya maccaasatudan haniyaagaa, zigirennaagaa, woine eessassi haarettennaagaanne lo77obaa tamaarissiyaagaa gidanau bessees.</verse>
         <verse number="4">Eti Xoossaa qaalai borettenna mala, bantta keettaawatanne bantta naata siiqiyaageeta, banttanakka naagiyaageeta, geeshshata, bantta keettan oottiyaageeta, kehatanne bantta keettaawatussikka azazettiyaageeta gidana mala, yelaga maccaasaa tamaarissona.</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">Hegaadankka yelaga attumaasati banttana naagana mala zora.</verse>
         <verse number="7">Neeni ne huuphenkka lo77o ooso ubban etau leemiso gida; neeni tamaarissiyoogankka ammanettiyaagaanne kiphata gida.</verse>
         <verse number="8">Ne morkketi nuna zigiriyoobai etassi xayiyo wode eti yeellatana mala, neeni borettenna lo77o haasayaa haasaya.</verse>
@@ -7212,16 +7212,16 @@
       </chapter>
       <chapter number="3">
         <verse number="1">Eti deriyaa haariyaageetussinne godatettai de7iyoogeetussi haarettanau, azazettanaunne lo77o ooso ubbaa oottanau giigettanaadan eta hassayissa; qassi eti oonanne cayenna mala, palamettenna mala, asa ubbaa ashkketettaanne doshotettaa bessiyaageeta gidanaadan zora.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Aissi giikko, nuuni kase nu huuphenkka eeyyata, azazettennaageeta, baliyaageetanne amossinne dumma dumma ufaissaassi ailledan haarettiyaageeta; qassi iitatettaaninne qanaatiyan de7iyaageeta; asan ixettiyaageetanne issoi issuwaakka ixxiyaageeta.</verse>
         <verse number="4">SHin nuna ashshiya Xoossaa kehatettainne asa i siiqiyoogeenne beettido wode,</verse>
         <verse number="5">i ba maarotettaadankka, ooratta yeletaassi haniya meechchaaninne Geeshsha Ayyaanan ooraxxiyoogan nuna ashshidoogaappe attin, nuuni xillo oosuwaa oottidoogaana gidenna.</verse>
         <verse number="6">Xoossai ba aaro kehatettan nuuni xillanaadaaninne, i immana giido merinaa de7uwaa laattanaadan, nuna ashshiya Yesuus Kiristtoosa baggaara Geeshsha Ayyaanaa nu bolli darissidi tigiis.</verse>
-        <verse number="7"></verse>
+        <verse number="7">***</verse>
         <verse number="8">Ha haasayai ammanettidaagaa; Xoossaa ammaniyaageeti lo77o oosuwaa oottanau giiganaadan, ha yohuwaa etassi neeni minttada yootanau koyais; hageeti asau lo77onne go77iyaageeta.</verse>
         <verse number="9">SHin eeyyatetta palamaappe, zare qoodiyoogaappe, walassaappenne higgeban ooyettiyoogaappe naagetta. Aissi giikko, hegeeti go77ennaageetanne allaalle kessennaageeta.</verse>
         <verse number="10">SHaahotetta medhdhiya urai geella asa gidiyoogaanne ba huuphiyan pirddidi nagaraa oottiyoogaa erada, issitoo naa77utoo a seeridoogaappe guyyiyan, hegaa milatiya asappe shaahetta.</verse>
-        <verse number="11"></verse>
+        <verse number="11">***</verse>
         <verse number="12">Taani Arxxemaasa woi Tikiqoosa neekko kiittiyo wode, neeni taakko Niqophiliyoona yaanau minna. Aissi giikko, taani balgguwaa yaani shaaccanau qofaa qachchaas.</verse>
         <verse number="13">Higgiyaa eriya Zemaasinne Aphiloosi ogiyaa biyo wode, etassi aibinne paccenna mala, eta loitta maadda.</verse>
         <verse number="14">Nu asaikka pattenna asa gididi attenna mala, bana keehi koshshiyaabaa demmanau, lo77o oosuwaa minnidi oottiyoogaa tamaaro.</verse>
@@ -7234,7 +7234,7 @@
         <verse number="2">ne sooni shiiqiya woosa keettaayyo, nu michchee Afiibiyyoonne nunaara issippe de7iya wotaaddaraa Arkkipoosayyo ha dabddaabbiyaa xaafoos.</verse>
         <verse number="3">Xoossaa nu Aawaappenne nu Godaa Yesuus Kiristtoosappe aaro kehatettainne sarotettai intteyyo gido.</verse>
         <verse number="4">Neeni geeshshata siiqiyoogaanne Godaa Yesuusa ammaniyoogaa taani siyiyo gishshau, Xoossaa woossaidda nena hassayiyo wode ubban, ta Xoossaa galatais.</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">Neeni ne ammanuwaa haratuura shaakkiyoogee nuuyyo Kiristtoos Yesuusa baggaara yiya lo77obaa ubbaa erissana mala, taani Xoossaa woossais.</verse>
         <verse number="7">Aissi giikko, geeshshatu wozanai ne oosuwan minnido gishshau, ta ishau, taani ne siiquwan daro ufaissaanne minttettuwaa demmaas.</verse>
         <verse number="8">Hegaa gishshau, neeni oottanau bessiyaabaa oottana mala, taani nena azazanau Kiristtoosa baggaara xalikkokka,</verse>
@@ -7242,7 +7242,7 @@
         <verse number="10">Taani qashuwan de7aidda ayyo aawa gidido ta na7aa Anaasimoosa gishshau, nena woossais.</verse>
         <verse number="11">I kase nena go77enna; shin ha77i nenakka tanakka tumu go77ees.</verse>
         <verse number="12">Taani wozanappe dosiyo Anaasimoosa neekko yeddais. Taani wonggeliyaa gishshau qashetta uttidaashin, ne gishshaa tau oottidi, tana maaddana mala, ta matan a ashshanau koyais.</verse>
-        <verse number="13"></verse>
+        <verse number="13">***</verse>
         <verse number="14">SHin neeni ne shenedan oottanaagaa koyaisippe attin, nenaara zorettennan wolqqan ainne oottanau koyikke.</verse>
         <verse number="15">Anaasimoosi guutta wodiyaa neeppe shaahettidoogee, ooni erii simmidi, ubba wodekka nenaara de7anaassakkonne.</verse>
         <verse number="16">Simmi hagaappe sinttau Anaasimoosi aille gidenna; shin ailleppe i keehi aadhdhees; i taayyo ai keena siiqo ishee! Qassi i neeyyo asa baggaarakka Godaa baggaarakka ai keena aadhdhida isha gidanddeeshsha!</verse>
@@ -7303,7 +7303,7 @@
         <verse number="6">SHin Kiristtoosi Xoossaa keettan na7adan ammanettidaagaa; nuuni ekkana giidi ufaissan naagiyoogaa xalatettaaninne ammanuwan naagikko, Xoossau keetta gidoos.</verse>
         <verse number="7">Hegaa gishshau, Geeshsha Ayyaanai hagaadan yaagees; “Xoossaa qaalaa intte hachchi siyiyaabaa gidikko,</verse>
         <verse number="8">intte aawati taayyo ixxi makkalidi, oitamu laittaa ta oosuwaa be7ido bazzo paaciyaa gallassaadan, inttekka zore ekkennan ixxoppite.</verse>
-        <verse number="9"></verse>
+        <verse number="9">***</verse>
         <verse number="10">Hegaa gishshau, taani he asaa hanqqettada, 'Eti ubba wode bantta wozanan baloosona. Ta ogiyaakka eribookkona' yaagaas.</verse>
         <verse number="11">Hegaadankka qassi, taani hanqqetta caaqqada, 'Taani shemppiyoosaa eti mulekka gelokkona' yaagaas” yaagees.</verse>
         <verse number="12">Ta ishatoo, de7o Xoossaappe inttena shaakkiya iita ammanenna wozani inttenan oonaaninne de7enna mala naagettite.</verse>
@@ -7351,10 +7351,10 @@
       </chapter>
       <chapter number="6">
         <verse number="1">Hegaa gishshau, Kiristtoosa timirttiyaa biron doommiyaagaa aggi bayidi, wozannaama asa timirttiyau sinttau boos; koiro nuuni tamaaranau koshshiyo timirttiyaa wodhdhi eqqidi tamaaranau nuuyyo bessenna; he timirttee aibee giikko, pattenna oosuwaappe simmiyoogaa, Xoossaa ammaniyoogaa, xinqqatebaa, kushe wotobaa, haiqoppe denddobaanne merinaa pirddaabaa.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Xoossai oottite giikko, hegaa nuuni oottana.</verse>
         <verse number="4">Aissi giikko, issitookka poo7oi poo7idoogeetanne saluwaa imuwaa baari be7idaageeta, qassi Geeshsha Ayyaanaakka shaakki ekkidaageetanne Xoossaa qaalai lo77o gididoogaa siyi eridaageeta, sinttappe yaana sa7aa wolqqaakka bochchi xeellidaageeta,</verse>
-        <verse number="5"></verse>
+        <verse number="5">***</verse>
         <verse number="6">hegaappe guyye simmidi kaddidaageeta nagaraappe naa77anttuwaa zaaranaagee danddayettennabaa. Aissi giikko, hegeeti Xoossaa Na7aa masqqaliyaa bolli misimaariyan xishidi kaqqoosonanne asa sinttan kaushshoosona.</verse>
         <verse number="7">Ubba wode bukkiya iraa uyidi, goyida uraa go77iya kattaa mokkiya biittaa Xoossai anjjees.</verse>
         <verse number="8">SHin buluwaa buuzuwaa mokkikko, ainne go77enna; qanggettau shiiqi eqqiis. Qassi wurssettan xuugettana.</verse>
@@ -7436,7 +7436,7 @@
         <verse number="17">Aissi giikko, azazida urai haiqqido wode, i azazidoogee polettees; he azazidaagee paxa de7ishin, ainne polettenna.</verse>
         <verse number="18">Harai atto, koiro maachchaikka suutti bainnan injjetibeennaagee hegaassa.</verse>
         <verse number="19">Aissi giikko, higgiyan de7iya azazo ubbaa Muusee asa ubbau yootiis; hegaappe guyyiyan, galo maraa suuttaanne deeshshaa suuttaa, haattaara, zo7o dorssa ikisiyaaranne hiisoophphiyaa giyo mittaa bonccuwaara issippe ekkidi, “Hagee inttena Xoossai azazido maachchaa suuttaa” yaagidi, higgiyaa maxaafaa bollinne asa ubbaa bolli caccafiis.</verse>
-        <verse number="20"></verse>
+        <verse number="20">***</verse>
         <verse number="21">Hegaadankka, Dunkkaaniyaa bollinne oottiyo miishsha ubbaa bolli suuttaa Muusee caccafiis.</verse>
         <verse number="22">Higgee giyoogaadan, tumakka amaridabaappe attin, ubbabaikka suuttan geeyees; suutti gukkana xayikko, atotetti baawa.</verse>
         <verse number="23">Hegaa gishshau, saluwan de7iyaageeta milatiyaageeti he yarshshuwan geeyanau koshshees; shin saluwan de7iyaageetikka bantta huuphen geeyanau aadhdhiya yarshshuwaa eta koshshees.</verse>
@@ -7505,7 +7505,7 @@
         <verse number="15">Eti he yeggidi kiyido biittaa simmanau qoppidobaa gidiyaakko, guyye simmiyo qaadaa demmennan aggokkona; shin</verse>
         <verse number="16">eti hegaa aggidi, lo77iya biittaa laamotoosona; hegee saluwaa biittaa. Hegaa gishshau, Xoossai eta Xoossaa geetettanau yeellatenna. Aissi giikko, i etau katamaa giigissi wottiis.</verse>
         <verse number="17">Abrahaami Yisaaqa yarshshanaakko yarshshennaakko, Xoossai eranau xomoosido wode, Abrahaami ammanuwan a yarshshiis. Xoossai Abrahaama, “Ne zaree Yisaaqa baggaara xeesettana” giidaashinkka, Abrahaami ba na7aa Yisaaqa yarshshanau giigiis.</verse>
-        <verse number="18"></verse>
+        <verse number="18">***</verse>
         <verse number="19">Abrahaami Xoossai Yisaaqa harai atto, haiquwaappekka pattanau danddayiyoogaa eriis; hegaa gishshau, haiquwaappe guyye a zaaridi ekkiis.</verse>
         <verse number="20">Yisaaqi wodeppe hananabau Yaaqoobanne Eesawa anjjidoogee ammanuwaana.</verse>
         <verse number="21">Yaaqoobi haiqqana haniiddi, Yooseefa naata huuphiyan huuphiyan anjjidoogeenne gatiman guufetidi, Xoossau goinnidoogee ammanuwaana.</verse>
@@ -7592,14 +7592,14 @@
       <chapter number="1">
         <verse number="1">Taani Yaaqoobi Xoossaa ailleenne Godaa Yesuus Kiristtoosa aillee, biitta ubban laalettida tammanne naa77u zerettatuyyo sarotaa kiittais.</verse>
         <verse number="2">Ta ishatoo, intte ammanoi paacettiyoogee intteyyo danddayaa immanaagaa eridi, dumma dumma paacee inttena gakkiyo wode, hegaa kumetta ufaissadan qoodite.</verse>
-        <verse number="3"></verse>
+        <verse number="3">***</verse>
         <verse number="4">Intte danddayai aibinne bali bainnan inttena zawatidaageetanne paci bainnaageeta oottidi, ba oosuwaa polo.</verse>
         <verse number="5">SHin intteppe ooninne baayyo aadhdhida eratettai xayikko, borennan ubbau kehatettan immiya Xoossaa woosso. I ayyo immana.</verse>
         <verse number="6">SHin i aibiininne sirennan ammanuwan Xoossaa woosso. Aissi giikko, siriya urai carkkoi sugin qaaxxiya abbaa beetaa mala.</verse>
         <verse number="7">Aissi giikko, naa77u qofai de7iyo urai, ba oge ubban ba qofaa qachchennaagee, he urai Godaappe ainne demmanau qoppoppo.</verse>
-        <verse number="8"></verse>
+        <verse number="8">***</verse>
         <verse number="9">SHin hiyyeesa ishai Xoossai a xoqqu oottido wode ufaitto; qassi dure ishaikka Xoossai a ziqqi oottido wode ufaitto. Aissi giikko, dure bitanee maata giddon dicciya ciishshadan xayana.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">Aissi giikko, awai ba mishuwaara kiyidi, maataa melissin, ciishshai xayees; qassi a meraa lo77otettaikka xayees; hegaadankka qassi dure bitanee babaa oottiiddi xayana.</verse>
         <verse number="12">Waayiyan gencciya urai anjjettidaagaa; aissi giikko, he waayiyaa xoonidoogaappe guyyiyan, Xoossai bana siiqiyaageetuyyo immana giido de7uwaa akiliiliyaa i ekkana.</verse>
         <verse number="13">Ooninne paacettido wode, “Tana Xoossai paaccees” gooppo. Aissi giikko, Xoossai iitan paacettanau danddayenna; qassi i ba huuphen oonanne paaccenna.</verse>
@@ -7718,17 +7718,17 @@
         <verse number="6">Ha77i guutta wodiyaayyo harai atto dumma dumma paaciyan intte paacettanau koshshikkokka, hagan daro ufaittite.</verse>
         <verse number="7">Hegee harai atto, taman yeggin xayiya worqqappekka intte ammanoi daro al77onne bali bainnaagaa gidiyoogaa bessanaassa; yaatidi Yesuus Kiristtoosi beettiyo wode, galataa, bonchchuwaanne sabaa intte ekkana.</verse>
         <verse number="8">Intte a be7ana xayikkokka, siiqeeta; intte ha77i a be7ana xayikkokka, ammaneeta. Qassi intte intte ammanuwau polo gidiya intte shemppuwaa atotettaa ekkiyo gishshau, yootanau danddayettenna bonchchoi kumido ufaissaa ufaitteeta.</verse>
-        <verse number="9"></verse>
+        <verse number="9">***</verse>
         <verse number="10">Xoossai intteyyo immana aaro kehatettaabau hananabaa yootidaageeti keehi koyidi, ha atotettaabaa qoridosona.</verse>
         <verse number="11">Etan de7iya Kiristtoosa Ayyaanai Kiristtoosa waayiyaabaanne hegaappe guyyiyan yaana bonchchuwaabaa kasetidi markkattiiddi, aude woi waanida wodiyan yaanaakkonne akeekissidoogaadan, eti qoroosona.</verse>
         <verse number="12">He hananabaa yootiyaageeti oottido oosoi inttessappe attin, eta huuphessa gidennaagaa Xoossai etayyo qonccissiis; ha77i intte siyido wonggeliyaa mishiraachchuwaa intteyyo yootida asati, banttau saluwaappe kiitettida Geeshsha Ayyaanaa wolqqan yootidosona. Hegaa kiitanchchatikka be7anau amottoosona.</verse>
         <verse number="13">Hegaa gishshau, oosuwaa oottanau intte wozanan qoppi uttite; minnite. Yesuus Kiristtoosi beettiyo wode aaro kehatettaa ekkana giidi, kumetta ufaissan naagi uttite.</verse>
         <verse number="14">Xoossau azazettite; intte kase erennan amottido amuwaa kaalloppite.</verse>
         <verse number="15">SHin inttena xeesida Xoossai geeshsha gididoogaadan, inttekka intte ooso ubban geeshsha gidite. Xoossaa maxaafan, “Taani geeshsha gidiyo gishshau, inttekka geeshsha gidite” geetettidi xaafettiis.</verse>
-        <verse number="16"></verse>
+        <verse number="16">***</verse>
         <verse number="17">Asa huuphen huuphen som77o xeellennan a huuphe huuphe oosuwaadan pirddiya Xoossaa woossiiddi intte, “Nu Aawau” giidi a xeesiyaabaa gidikko, ha sa7aa bolli intte de7iyo wodiyan yashshatettan de7ite.</verse>
         <verse number="18">Intte intte aawatuppe laattido pattenna de7uwaappe wozettidoogee, xayiya bira woi worqqa malaana gidennaagaa ereeta; borssoi woi qiti bainna dorssa suuttadan, al77o Kiristtoosa suuttan intte wozettideta.</verse>
-        <verse number="19"></verse>
+        <verse number="19">***</verse>
         <verse number="20">Xoossai sa7ai merettanaappe kase Kiristtoosa doori wottiis; shin intte gishshau, ha wodiyaa wurssettan i beettiis.</verse>
         <verse number="21">Intte ammanoinne intte ekkana giidi ufaissan naagi uttidobai Xoossan de7ana mala, Xoossai haiquwaappe a denttidi, ayyo bonchchuwaa immidaagan aani ammanetta.</verse>
         <verse number="22">Tumatettaayyo intte azazettiyoogan, lo77o milatiya iitatetti bainnan, intte ishantta siiqanau intte huuphiyaa geeshshidi, issoi issuwaara minttidi wozanappe siiqettite.</verse>
@@ -7739,7 +7739,7 @@
       <chapter number="2">
         <verse number="1">Hegaa gishshau, intteppe iitatetta ubbaa, cimo ubbaa, lo77o milatiya iitatetta, qanaatenne zigirssa ubbaa diggite.</verse>
         <verse number="2">Godai keha gididoogaa intte eridobaa gidikko, ha77i yelettida gacino naatudan, uyiiddi diccanaunne attanau Xoossaa geeshsha qaalaa maattaa ubba wode laamotite.</verse>
-        <verse number="3"></verse>
+        <verse number="3">***</verse>
         <verse number="4">Godaakko de7o shuchchaakko shiiqite. Asi a ixxiis; shin Xoossaa matan i doorettida al77o.</verse>
         <verse number="5">Inttekka qassi de7o shuchchadan, geeshsha qeese gididi, Yesuus Kiristtoosa baggaara Xoossaa ufaissiya ayyaanaa yarshshuwaa Xoossaayyo yarshshanau, intte intte huuphen ayyaana keettadan keexettite.</verse>
         <verse number="6">Aissi giikko, Xoossaa maxaafai, “Be7ite, taani Xiyoone giyo kataman keettaa godaa xaphuwaa minttiya, doorettida, al77o shuchchaa wottais; aani ammaniya ooninne yeellatenna” yaagees.</verse>
@@ -7765,7 +7765,7 @@
       </chapter>
       <chapter number="3">
         <verse number="1">Hegaadankka maccaasatoo, intte azinatuppe Xoossaa qaalau azazettenna issooti issooti de7ikkokka, intte palamettennan, eti intte yashshatettaanne intte geeshsha de7uwaa be7idi ammanana mala, etau haarettite.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Intte intte huuphe pixiyoogaaninne worqqa wottiyoogan woi lo77o maayo maayiyoogan intteyyo bolla baggaa loittoppite.</verse>
         <verse number="4">SHin intte wozana giddon de7iya lo77otettai Xoossaa sinttan intteyyo daro al77o gididi, xayenna ashkkenne woppu giida ayyaana gido.</verse>
         <verse number="5">Aissi giikko, hegaadan Xoossai immana giidoogaa ammanida geeshsha maccaasati beni wode bantta azinatuyyo haarettidi, banttana hegaadan daro loittidosona.</verse>
@@ -7859,7 +7859,7 @@
         <verse number="7">Higgiyau azazettenna shaaramuxiya asatu giddon tuggatidi de7iya xillo Looxa Xoossai ashshiis.</verse>
         <verse number="8">He lo77o bitanee eta giddon de7iiddi, eti oottiyo iita oosuwaa gallassi gallassi be7ido wodenne siyido wode a lo77o wozanai un77ettiis.</verse>
         <verse number="9">Hegaa gidikko, Godai Xoossau goinniya asata paaciyaappe waati ashshanaakko erees; nagaranchchata qassi ubbaappe aattidi, tuna amuwan ashuwaa amuwaa kaalliyaageetanne qassi Xoossaa wolqqaa kariyaageeta, pirddaa gallassai gakkanaassi Godai qaxxayiiddi wottanaagaakka erees. Wordduwaa tamaarissiya hegeeti xalanne otoranchcha gididoogan, bollan de7iya bonchcho meretaa cayoosonappe attin, bonchchokkona.</verse>
-        <verse number="10"></verse>
+        <verse number="10">***</verse>
         <verse number="11">He asatuppe daro minonne wolqqaama gidiya kiitanchchatikka bollan de7iya bonchcho meretaa Godaa sinttan cashshan mootanau koyokkona.</verse>
         <verse number="12">SHin he asati ohettidi xayanau yelettida bantta meretan wozanai bainna woraa do7atudan hanoosona; eti erennabaa cayoosona; qassi woraa do7adan, eti coo xayana.</verse>
         <verse number="13">Eti bantta medhdhido metuwan metootana; gallassi yexxidi duriyoogaa ufaissiyaabaa giidi qoppoosona; eti kaushshatanne tunata gidi uttidi, inttenaara miyo qumaa meettan ufaittoosona.</verse>
@@ -7958,7 +7958,7 @@
         <verse number="17">SHin dure asi ooninne ba ishai metootiyoogaa be7iiddi, ayyo qarettennan ixxikko, ba wozanan Xoossaa siiqoi de7ees gaanau waani danddayii?</verse>
         <verse number="18">Ta naatoo, nuuni oosuwaaninne tumatettan siiqettanaappe attin, coo haasayan woikko bolla doonan siiqettanau bessenna.</verse>
         <verse number="19">Nuuni tumaa baggan de7iyoogaa hegan erana; qassi nu wozanai nu bolli pirddiyo wode ubban, Xoossaa sinttan tumatettaa nuna hegan erissees. Aissi giikko, Xoossai nu wozanaappe gita; qassi i ubbabaa erees.</verse>
-        <verse number="20"></verse>
+        <verse number="20">***</verse>
         <verse number="21">Ta siiqotoo, nu wozanai nu bolli pirddennabaa gidikko, nuuni Xoossaa sinttan yayyokko.</verse>
         <verse number="22">Nuuni a azazuwaa naagiyo gishshaunne a ufaissiyaabaa oottiyo gishshau, woossiyo ubbabaa appe ekkoos.</verse>
         <verse number="23">Xoossaa azazoi hagaa: Kiristtoosi nuna azazidoogaadankka, Xoossaa Na7aa Yesuus Kiristtoosa sunttan nuuni ammananaadaaninne issoi issuwaara siiqettanaadan Xoossai nuna azaziis.</verse>
@@ -8014,7 +8014,7 @@
     <book number="63">
       <chapter number="1">
         <verse number="1">Taani cimai, intteyyo doorettida godatteeyyoonne ne naatuyyo ha dabddaabbiyaa xaafais; nu giddon de7iya qassi nunaara merinau de7ana tumatettaa gishshau, taani inttena tumu siiqais. Qassi ta xalaala gidennan, tumatettaa eriya ubbati inttena siiqoosona.</verse>
-        <verse number="2"></verse>
+        <verse number="2">***</verse>
         <verse number="3">Xoossaa nu Aawaa aaro kehatettai, maarotettainne sarotettai a Na7aa Yesuus Kiristtoosa aaro kehatettai, maarotettainne sarotettai tumatettaaninne siiquwan nunaara issippe gido.</verse>
         <verse number="4">Xoossai, Aawai nuna azazidoogaadan, ne naatuppe amaridaageeti, tumatettan de7iyoogaa be7ada taani daro ufaittaas.</verse>
         <verse number="5">Siiqo godattee, ha77ikka nuuni ubbai issoi issuwaara siiqettana mala, taani nena woossais; ha azazoi kaseesappe nunaara de7iya azazoppe attin, taani neeyyo ooratta azazo xaafikke.</verse>
@@ -8063,7 +8063,7 @@
         <verse number="12">Hegeeti siiquwan gibiraa intte miyoosan inttenaara yashshi bainnan miyo wode, qita mala. Eti bantta xalaalaa naagoosona. Eti carkkoi efiyo iri bainna shaara mala; qassi eti boniyan aifiyaa aifenna, xaphuwaara shodettidi, muleera melida mitta mala.</verse>
         <verse number="13">Eti bantta pokkuwaa genttenna hoommotiya, iita abbaa beetaa mala. Eti Xoossai merinau sakkana xuman sohuwaa giigissi wottido yuuyiya xoolinttetu mala.</verse>
         <verse number="14">Heenooki Addaameppe doommin, laappuntta yeleta gidiyaagee, daro wodeppe kase etabaa hananabaa yootiiddi, hagaadan yaagiis; “Akeekite, Xoossaa erenna nagaranchcha asati oottido iita ooso ubbaunne qassi Xoossaa erenna he iita asati Xoossaa bolli haasayido iita haasaya ubbau, Godai eta ubbaa bolli pirddanau, ba daro sha7u geeshshatuura issippe yaana” yaagiis.</verse>
-        <verse number="15"></verse>
+        <verse number="15">***</verse>
         <verse number="16">He asati ubba wode zuuzummoosonanne harata amassaloosona; qassi bantta iita amuwaa kaalloosona; bantta huuphiyau go77a demmanau harata sabboosonanne bantta qaalaa wogaappe aattidi, xoqqu ootti haasayoosona.</verse>
         <verse number="17">SHin ta dabbotoo, nu Godaa Yesuus Kiristtoosi kiittidoogeeti intteyyo beni haasayido qaalaa akeekite.</verse>
         <verse number="18">Eti intteyyo, “Wurssettaa wodiyan, bantta Xoossi bainna amuwaa kaalliyaageeti, qassi intte bolli qilliicciyaageeti yaana” yaagidosona.</verse>
@@ -8073,7 +8073,7 @@
         <verse number="22">Issi issi siree de7iyo asatuyyo qarettite.</verse>
         <verse number="23">Issoota issoota tamaappe dafi kessidi ashshite. Qassi harai atto eta iita amuwan tunida maayuwaa ixxiiddikka, issootuyyo issootuyyo yashshatettan qarettite.</verse>
         <verse number="24">Intte kunddennaadan, inttena naaganaunne borettennaageeta oottidi, ba bonchchuwaa sintti gita ufaissaara shiishshanau danddayiya nuna ashshiya issi Xoossau, nu Godaa Yesuus Kiristtoosa baggaara bonchchoi, gitatettai, wolqqainne maatai, aadhdhida wode ubbaappenne ha77inne merinaa gakkanaassinne gido. Amin77i.</verse>
-        <verse number="25"></verse>
+        <verse number="25">***</verse>
       </chapter>
     </book>
     <book number="66">
@@ -8126,7 +8126,7 @@
         <verse number="24">“'“SHin Tiyaaxiroonan de7iya haratoo, ha iita timirttiyaa tamaaribeennaageetoo, harati, 'Seexaanaa ciimma yohuwaa' giyoogaa intte tamaaribeekketa; taani inttena hara deexo toossikke gais.</verse>
         <verse number="25">SHin taani yaana gakkanaassi intteyyo de7iyaabaa mintti naagite.</verse>
         <verse number="26">Xoonidaagaayyoonne wurssettai gakkanaassi ta oosuwaa naagidaagaayyo, asa zare ubbaa haarana mala, taani ta Aawaappe ekkido maataa malaa ayyo immana; i eta birata dullan haarananne urqqa miishsha menttiyoogaadan menttana.</verse>
-        <verse number="27"></verse>
+        <verse number="27">***</verse>
         <verse number="28">Qassi taani ayyo bakkaaliyaa xoolinttiyaa immana.</verse>
         <verse number="29">“'“Siyanau haitti de7iyo urai Geeshsha Ayyaanai woosa keettatuyyo giyoobaa siyo” yaagees' yaagada xaafa.</verse>
       </chapter>
