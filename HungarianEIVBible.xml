@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bible translation="Hungarian (EIV) (Újszövetség: élet, igazság és világosság) " status="The New Testament: Life, Truth and Light (Ujszövetseg: elet, igazsag es vilagossag) Copyright © 2003 by Biblica, Inc.® Used by permission. All rights reserved worldwide." link="https://www.bible.com/bible/26/MAT.1.EIV">
-	<testament translation="New">
+	<testament name="New">
 		<book number="40">
 			<chapter number="1">
 				<verse number="1">Jézus Krisztusnak, Dávid fiának, Ábrahám fiának nemzetségéről szóló könyv.</verse>
