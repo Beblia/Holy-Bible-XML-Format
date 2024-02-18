@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bible translation="Danish Bible (WIE) 1997 - Det Nye Testamente" status="No Data">
-	<testament translation="New">
+	<testament name="New">
 		<book number="40">
 			<chapter number="1">
 				<verse number="1">Jesu Kristi, Davids Søns, Abrahams Søns, fødsels Bog:</verse>
