@@ -3,6 +3,7 @@
 	<testament name="New">
 		<book number="40">
 			<chapter number="1">
+				<verse number="1"></verse>
 				<verse number="2">Aabrahamile sündis Iisak, Iisakile sündis Jaakob, Jaakobile sündisid Juuda ja Tema vennad;</verse>
 				<verse number="3">Juudale sündisid Taamarist Perets ja Serah, Peretsile sündis Hesrom, Hesromile sündis Aram;</verse>
 				<verse number="4">Aramile sündis Amminaadab, Amminaadabile sündis Nahson, Nahsonile sündis Salmon;</verse>
@@ -14,6 +15,7 @@
 				<verse number="10">Hiskijale sündis Manasse, Manassele sündis Aamos, Aamosele sündis Joosija;</verse>
 				<verse number="11">Joosijale sündisid Jekonja ja tema vennad Baabüloni vangipõlve ajal.</verse>
 				<verse number="12">Pärast Baabüloni vangipõlve sündis Jekonjale Sealtiel, Sealtielile sündis Serubbaabel;</verse>
+				<verse number="13"></verse>
 				<verse number="14">Asurile sündis Saadok, Saadokile sündis Aahim, Aahimile sündis Elihuud;</verse>
 				<verse number="15">Elihuudile sündis Eleasar, Eleasarile sündis Mattan, Mattanile sündis Jaakob;</verse>
 				<verse number="16">Jaakobile sündis Joosep, Maarja mees; ja Maarjast sündis Jeesus, Keda nimetatakse Kristuseks.</verse>
@@ -65,6 +67,7 @@
 				<verse number="10">Ent kirves on juba puude juure küljes; iga puu nüüd, mis ei kanna head vilja, raiutakse maha ja visatakse tulle.</verse>
 				<verse number="11">Mina ristin teid küll veega meeleparanduseks, aga Kes tuleb pärast mind, on vägevam mind ja mina ei ole kõlvuline Temale jalatseidki kandma; Tema ristib teid Püha Vaimu ja tulega.</verse>
 				<verse number="12">Ta visk-labidas on Tema käes ja Ta puhastab Oma rehealuse ja kogub Oma nisud aita, kuid aganad Ta põletab ära kustutamatu tulega.”</verse>
+				<verse number="13"></verse>
 				<verse number="14">Kuid Johannes peatas Teda, üteldes: „Minule on vaja, et Sina mind ristiksid, ja Sina tuled minu juure!”</verse>
 				<verse number="15">Jeesus vastas ning ütles temale: „Olgu nüüd nii; sest nõnda on meie kohus täita kõike õigust.” Siis Johannes andis Temale järele.</verse>
 				<verse number="16">Kui nüüd Jeesus oli ristitud, tuli Ta sedamaid veest välja. Ja ennäe, taevad avanesid, ja Ta nägi Jumala Vaimu laskuvat alla kui tuvi ja tulevat Tema peale.</verse>
@@ -82,11 +85,18 @@
 				<verse number="9">ning ütles Temale: „Selle kõik Ma annan Sinule, kui Sa maha langed ja mind kummardad!”</verse>
 				<verse number="10">Siis Jeesus ütles temale: „Tagane Minust, saatan! Sest on kirjutatud: Sina pead Issandat, Oma Jumalat kummardama ja ükspäinis Teda teenima!”</verse>
 				<verse number="11">Siis kurat jättis Ta rahule. Ja vaata, Ingleid tuli Tema juure, ja Need teenisid Teda.</verse>
+				<verse number="12"></verse>
 				<verse number="13">Ja jättes maha Naatsareti tuli Ta ja asus Kapernauma, mis on mererannas Sebuloni ja Naftali aladel, 14. et läheks täide, mis on üteldud prohvet Jesaja kaudu:</verse>
+				<verse number="14"></verse>
 				<verse number="15">„Sebulonimaa ja Naftalimaa; mereäärne tee, maa sealpool Jordanit, paganate Galilea –</verse>
 				<verse number="16">rahvas, kes istub pimeduses, näeb suurt valgust, ja surma maal ja varjus istujaile, neile tõuseb valgus!”</verse>
+				<verse number="17"></verse>
+				<verse number="18"></verse>
 				<verse number="19">Ja Ta ütles neile: „Tulge minu järele ja Ma teen teid inimeste püüdjaiks! 20. Nemad jätsid kohe võrgud maha ning järgisid Teda. 21. Ja kui Ta läks sealt eemale, nägi Ta teist kaht venda, Jakoobust, Sebedeuse poega, ja Johannest, ta venda, paadis ühes nende isa Sebedeusega parandamas oma võrke. Ja Ta kutsus neid.</verse>
+				<verse number="20"></verse>
+				<verse number="21"></verse>
 				<verse number="22">Ja nad jätsid kohe maha paadi ja oma isa ning järgisid Teda.</verse>
+				<verse number="23"></verse>
 				<verse number="24">Ja jutt Temast levis üle kogu Süüria. Ja Tema juure toodi kõik vaevalised, mõnesuguse haiguse ja tõve põdejad, seestunud, kuutõbised ja halvatud. Ja Ta tegi nad terveks.</verse>
 				<verse number="25">Ja palju rahvast järgis Teda Galileast ja Dekapolist ja Jeruusalemast ja Judeast ja sealtpoolt Jordanit.</verse>
 			</chapter>
@@ -103,17 +113,21 @@
 				<verse number="10">Õndsad on need, keda taga kiusatakse õiguse pärast, sest nende päralt on Taevariik.</verse>
 				<verse number="11">Õndsad olete teie, kui inimesed teid Minu pärast laimavad ja taga kiusavad ja valetades räägivad teist kõiksugust kurja.</verse>
 				<verse number="12">Olge rõõmsad ja ilutsege, sest teie palk on suur taevas; samuti on nad taga kiusanud prohveteid enne teid.</verse>
+				<verse number="13"></verse>
 				<verse number="14">Teie olete maailma valgus. Ei saa jääda varjule linn, mis asetseb mäe otsas.</verse>
 				<verse number="15">Ei süüdata ka küünalt ega panda seda vaka alla, vaid küünlajalale, ja see paistab kõikidele, kes majas on.</verse>
 				<verse number="16">Nõnda paistku teie valgus inimeste ees, et nad näeksid teie häid tegusid ja annaksid au teie Isale, kes on taevas.</verse>
+				<verse number="17"></verse>
 				<verse number="18">Sest tõesti Ma ütlen teile, kuni kaob taevas ja maa, ei kao käsuõpetusest mitte ühtki tähekest või ühtki märgikest, enne kui kõik on sündinud.</verse>
 				<verse number="19">Kes nüüd iganes tühistab ühe neist vähimaist käskudest ja nõnda õpetab inimesi, teda hüütakse vähimaks Taevariigis; aga kes seda mööda teeb ja nõnda õpetab, teda hüütakse suureks Taevariigis.</verse>
 				<verse number="20">Sest Ma ütlen teile: Kui teie õigus pole palju parem kirjatundjate ja variseride omast, siis te ei saa Taevariiki.</verse>
+				<verse number="21"></verse>
 				<verse number="22">Kuid Mina ütlen teile, et igaüks, kes on oma vennale vihane, kuulub kohtu alla; aga kes iganes oma vennale ütleb „raka!” kuulub Suurkohtu alla; aga kes ütleb „Sa jõle!” kuulub põrgutulle.</verse>
 				<verse number="23">Sellepärast kui sa oma andi tood altarile ja seal meenub sulle, et su vennal on midagi sinu vastu,</verse>
 				<verse number="24">siis jäta oma and sinna altari ette ja mine lepi enne oma vennaga, ja siis tule ja too oma and.</verse>
 				<verse number="25">Ole varsti järeleandlik oma vastasele, niikaua kui sa temaga teel oled, et vastane sind ei annaks kohtuniku kätte, ja kohtunik sind ei annaks sulase kätte, ja sind ei pandaks vangi.</verse>
 				<verse number="26">Tõesti Ma ütlen sulle, sa ei pääse sealt, enne kui oled maksnud ära viimse veeringu!</verse>
+				<verse number="27"></verse>
 				<verse number="28">Aga Mina ütlen teile, et igaüks, kes naise peale vaatab teda himustades, on juba abielu rikkunud temaga oma südames.</verse>
 				<verse number="29">Ent kui su parem silm sind pahandab, siis kisu ta välja ja heida enesest ära, sest sulle on parem, et üks sinu liikmeist hukkub kui et kogu su ihu heidetakse põrgusse.</verse>
 				<verse number="30">Ja kui sinu parem käsi sind pahandab, siis raiu ta maha ja heida enesest ära, sest sulle on parem, et üks sinu liikmeist hukkub kiti et kogu su ihu läheb põrgusse.</verse>
@@ -124,10 +138,12 @@
 				<verse number="35">ega maa juures, sest see on Tema jalgealune järg; ega Jeruusalema juures, sest see on suure Kuninga linn.</verse>
 				<verse number="36">Ara vannu ka oma pea juures, sest sina ei või ühtki juuksekarva teha valgeks ega mustaks;</verse>
 				<verse number="37">vaid teie kõne olgu: Jah, jah, või: Ei, ei; aga mis üle selle on, see on kurjast.</verse>
+				<verse number="38"></verse>
 				<verse number="39">Aga Mina ütlen teile: Ärge pange vastu kurjale, vaid kui keegi sind lööb vastu su paremat kõrva, siis kääna temale ka teine;</verse>
 				<verse number="40">ja sellele, kes tahab sinuga kohut käia ja võtta su vammuse, jäta ka kuub;</verse>
 				<verse number="41">ja kes sind sunnib kaasas käima ühe penikoorma, sellega mine kaks.</verse>
 				<verse number="42">Anna sellele, kes sult palub, ja ära käändu kõrvale sellest, kes sult tahab laenata.</verse>
+				<verse number="43"></verse>
 				<verse number="44">Aga Mina ütlen teile: Armastage oma vaenlasi ja palvetage nende eest, kes teid taga kiusavad,</verse>
 				<verse number="45">et te saaksite oma Isa lapsiks, Kes on taevas, sest Tema laseb Oma päikest tõusta kurjade ja heade üle ja laseb vihma sadada õigete ja ülekohtuste peale.</verse>
 				<verse number="46">Sest kui te armastate neid, kes teid armastavad, mis palka te saate? Eks tölneridki tee sedasama?</verse>
@@ -139,9 +155,11 @@
 				<verse number="2">Seepärast, kui sa armastuseande annad, siis ära lase enese ees sarve puhuda, nagu silmakirjatsejad teevad kogudusekodades ja uulitsail, et inimesed neid ülistaksid. Tõesti Ma ütlen teile, et neil on oma palk käes!</verse>
 				<verse number="3">Vaid kui sina armastuseande annad, siis ärgu su vasak käsi teadku, mida su parem käsi teeb,</verse>
 				<verse number="4">et su armastuseannid oleksid salajas; ja su Isa, kes näeb salajasse, tasub sinule.</verse>
+				<verse number="5"></verse>
 				<verse number="6">Ent sina, kui sa palvetad, siis mine oma kambrisse ja sule uks, ja palu oma Isa, Kes on salajas, ja su Isa, kes näeb salajasse, tasub sinule.</verse>
 				<verse number="7">Aga kui te palvetate, siis ärge palju lobisege, nõnda nagu paganad, sest nad arvavad, et neid kuuldakse nende paljude sõnade tõttu.</verse>
 				<verse number="8">Ärge siis saage nende sarnaseks, sest Jumal, teie Isa, teab, mida te vajate, enne kui te Teda palute.</verse>
+				<verse number="9"></verse>
 				<verse number="10">sinu Riik tulgu; Sinu tahtmine sündigu nagu taevas, nõnda ka maa peal;</verse>
 				<verse number="11">meie igapäevane leib anna meile tänapäev;</verse>
 				<verse number="12">ja anna meile andeks meie võlad, nagu meiegi andeks anname oma võlglastele;</verse>
@@ -151,10 +169,13 @@
 				<verse number="16">Aga kui te paastute, siis ärge jääge kurvanäoliseks, nõnda nagu silmakirjatsejad; sest nad teevad oma palge näotumaks, et rahvas näeks neid paastuvat. Tõesti, Ma ütlen teile, neil on oma palk käes!</verse>
 				<verse number="17">Vaid kui sina paastud, siis võia oma pea ja pese oma pale,</verse>
 				<verse number="18">et su paastumine ei oleks nähtav inimestele, vaid su Isale, Kes on salajas. Ja su Isa, Kes näeb salajasse, tasub sinule.</verse>
+				<verse number="19"></verse>
 				<verse number="20">Vaid koguge endile varandusi taevasse, kus koi ega rooste ei riku ja kus vargad sisse ei murra ega varasta.</verse>
 				<verse number="21">Sest kus su varandus on, seal on ka su süda!</verse>
 				<verse number="22">Ihu küünal on silm; kui su silm on terve, siis on kõik su ihu valguses.</verse>
 				<verse number="23">Aga kui su silm on rikkis, siis on kogu su ihu pimeduses. Kui nüüd su valgus, mis on sinus, on pimedus, kui suur on siis pimedus?</verse>
+				<verse number="24"></verse>
+				<verse number="25"></verse>
 				<verse number="26">Pange tähele taeva linde: nad ei külva ega lõika ega pane kokku aitadesse, ja teie taevane Isa toidab neid. Eks teie ole palju enam kui nemad?</verse>
 				<verse number="27">Aga kes teie seast võib muretsemisega oma pikkusele ühegi küünra jätkata?</verse>
 				<verse number="28">Ja miks te muretsete riietuse pärast? Pange tähele lilli väljal, kuidas nad kasvavad; nad ei tee tööd ega ketra.</verse>
@@ -178,6 +199,7 @@
 				<verse number="10">Või kui ta palub kala, ja ta annaks temale mao?</verse>
 				<verse number="11">Kui nüüd teie, kes olete kurjad, mõistate anda häid ande oma lastele, eks palju enam teie Isa taevas anna häid ande neile, kes Teda paluvad.</verse>
 				<verse number="12">Sellepärast kõik, mida te tahate, et inimesed teile teevad, tehke ka neile; sest see on käsuõpetus ja prohvetid.</verse>
+				<verse number="13"></verse>
 				<verse number="14">Ja kitsas on värav ja ahtake on tee, mis viib ellu, ja pisut on neid, kes selle leiavad.</verse>
 				<verse number="15">Hoiduge valeprohveteist, kes tulevad teie juure lammaste riideis, aga seest-pidi on nad kiskjad hundid.</verse>
 				<verse number="16">Nende viljast te tunnete nad. Ega viinamarju nopita kibuvitsust või viigimarju ohakaist?</verse>
@@ -213,6 +235,7 @@
 				<verse number="15">Siis Jeesus võttis ta käest kinni, ja palavik lahkus temast. Ja ämm tõusis üles ja ümmardas teda.</verse>
 				<verse number="16">Aga õhtu tulles toodi Tema juure palju seestunuid; ja Ta ajas vaimud välja sõnaga ja tegi haiged terveks,</verse>
 				<verse number="17">et läheks täide, mis on üteldud prohvet Jesaja kaudu: „Tema võttis Enese peale meie haigused ja kandis meie tõved!”</verse>
+				<verse number="18"></verse>
 				<verse number="19">Ja Tema juure tuli üks kirjatundja ja ütles Temale: „Õpetaja, ma tahan Sind järgida, kuhu Sa iganes lähed!”</verse>
 				<verse number="20">Siis Jeesus ütles temale: „Rebastel on augud ja taeva lindudel on pesad, kuid Inimese Pojal ei ole, kuhu Ta Oma pea võiks panna!”</verse>
 				<verse number="21">Ka keegi teine jüngritest ütles Temale: „Issand, luba mind enne minna ja matta oma isa.</verse>
@@ -222,10 +245,12 @@
 				<verse number="25">Siis jüngrid tulid Tema juure, äratasid Ta üles ja ütlesid: „Issand aita! Me hukkume!”</verse>
 				<verse number="26">Tema ütles neile: „Miks te olete arad, te nõdrausulised?” Siis Ta tõusis üles ja sõitles tuult ja merd. ja meri jäi täiesti vaikseks.</verse>
 				<verse number="27">Aga inimesed imestasid ja ütlesid: „Mis Mees See küll on, et isegi tuuled ja meri kuulevad Tema sõna!”</verse>
+				<verse number="28"></verse>
 				<verse number="29">Ja vaata, nemad kisendasid ning ütlesid: „Mis on Sul meiega tegemist, Sa Jumala Poeg? Oled Sa siia tulnud meid enneaegu vaevama?”</verse>
 				<verse number="30">Aga kaugel neist oli suur seakari söömas.</verse>
 				<verse number="31">Ja kurjad vaimud palusid Teda ning ütlesid: „Kui Sa meid välja ajad, siis läheta meid seakarja sisse!”</verse>
 				<verse number="32">Ja Ta ütles neile: „Minge!” Siis nad läksid sigade sisse. Ja vaata, kogu kari kukutas enese ülepeakaela kaldalt merre ja suri vette. 33. Aga karjased põgenesid ja läksid linna ning andsid teada kõik ja mis oli sündinud seestunutega.</verse>
+				<verse number="33"></verse>
 				<verse number="34">Ja vaata, kogu linn läks välja Jeesusele vastu. Ja kui nad Teda nägid, palusid nad Teda, et Ta nende rajadest ära läheks.</verse>
 			</chapter>
 			<chapter number="9">
@@ -245,6 +270,8 @@
 				<verse number="14">Siis tulid Johannese jüngrid Tema juure ja küsisid: „Mispärast meie ja variserid paastume, aga Sinu jüngrid ei paastu?”</verse>
 				<verse number="15">Jeesus ütles neile: „Ega peiupoisid või olla kurvad, niikaua kui peig on nende juures? Ent päevad tulevad, mil peig neilt võetakse, ja siis nad paastuvad.</verse>
 				<verse number="16">Ūkski ei pane vanutamata riidetükki paigaks vanale kuuele; sest niisugune augutäidis rebeneb küljest lahti ja lõhe läheb pahemaks. 17. Ei valata ka mitte värsket viina vanusse nahklähkreisse; muidu lähkrid lõhkevad ja viin voolab maha ning lähkrid saavad hukka; vaid värske viin valatakse uutesse lähkritesse, siis säilivad mõlemad.”</verse>
+				<verse number="17"></verse>
+				<verse number="18"></verse>
 				<verse number="19">Ja Jeesus tõusis ja läks ta järel, samuti Ta jüngrid.</verse>
 				<verse number="20">Ja vaata, naine, kes oli kaksteistkümmend aastat veritõbe põdenud, tuli Tema selja taha ja puudutas Tema kuue palistust.</verse>
 				<verse number="21">Sest ta ütles iseeneses: „Saaksin Ma vaid puudutada Tema kuube, siis ma pääseksin!”</verse>
@@ -258,9 +285,11 @@
 				<verse number="29">Siis Ta puudutas nende silmi ning ütles: „Teile sündigu teie usku mööda!”</verse>
 				<verse number="30">Ja nende silmad avanesid. Ja Jeesus hoiatas neid kõvasti ning ütles: „Katsuge, et seda keegi ei saa teada!”</verse>
 				<verse number="31">Aga nemad läksid välja ja tegid Tema kuulsaks kogu sellel maal.</verse>
+				<verse number="32"></verse>
 				<verse number="33">Ja kui kuri vaim oli välja aetud, rääkis keeletu. Ja rahvas imestas ja ütles: „Seda pole veel iialgi nähtud Iisraelis!”</verse>
 				<verse number="34">Kuid variserid ütlesid: „Kurjade vaimude ülema abil ajab Ta kurje vaime välja.”</verse>
 				<verse number="35">Ja Jeesus käis läbi kõik linnad ja külad, õpetas nende kogudusekodades ja kuulutas Jumala riigi Evangeeliumi, parandas kõike tõbe ja kõike viga.</verse>
+				<verse number="36"></verse>
 				<verse number="37">Siis Ta ütles Oma jüngritele: „Lõikust on palju, aga vähe töötegijaid.</verse>
 				<verse number="38">Paluge siis lõikuse Issandat, et Ta läkitaks töötegijaid välja Oma lõikusele.”</verse>
 			</chapter>
@@ -383,6 +412,7 @@
 				<verse number="40">Sest otsegu Joona oli valaskala kõhus kolm päeva ja kolm ööd, nõnda peab Inimese Poeg olema maapõues kolm päeva ja kolm ööd.</verse>
 				<verse number="41">Niinive mehed astuvad kohtus esile ühes sellesinase sugupõlvega ja süüdistavad teda, sest nad parandasid meelt Joona jutluse tõttu. Ja vaata, siin on enam kui Joona!</verse>
 				<verse number="42">Lõunamaa kuninganna tõuseb üles kohtus ühes sellesinase sugupõlvega ja süüdistab Teda, sest Ta tuli ilmamaa otsast kuulama Saalomoni tarkust. Ja vaata, siin on enam kui Saalomon!</verse>
+				<verse number="43"></verse>
 				<verse number="44">Siis ta ütleb: Ma lähen tagasi oma kotta, kust ma väljusin! Ja kui ta tuleb, leiab ta selle tühja olevat, puhitud ja ehitud.</verse>
 				<verse number="45">Siis ta läheb ja võtab enesega kaasa teist seitse vaimu, kes on temast kurjemad; ja kui nad sisse tulevad, elavad nad seal. Ja selle inimese viimne lugu läheb pahemaks kui esimene. Nõnda käib ka selle kurja sugupõlve käsi.”</verse>
 				<verse number="46">Kui Ta rahvale veel rääkis, vaata, siis seisid Ta Ema ja Ta vennad õues ja tahtsid Temaga rääkida.</verse>
@@ -521,6 +551,7 @@
 				<verse number="29">Ja Jeesus läks sealt ära ja tuli Galilea mere ääre; ja Ta läks mäele ja istus sinna.</verse>
 				<verse number="30">Ja Tema juure tuli palju rahvast, tuues enesega ühes jalutumaid, vigaseid, pimedaid, keeletumaid ja palju teisi; ja nad heitsid need Tema jalge ette. Ja Ta tegi nad terveks,</verse>
 				<verse number="31">nii et rahvas pani imeks, nähes keeletumaid rääkivat, vigaseid olevat terved, jalutumaid käivat ja pimedaid nägevat. Ja nad andsid au Iisraeli Jumalale.</verse>
+				<verse number="32"></verse>
 				<verse number="33">Siis ütlesid Ta jüngrid Temale: „Kust me võtame kõrves nii palju leibu, et nii hulga rahva kõhud täita?”</verse>
 				<verse number="34">Ja Jeesus ütles neile: „Mitu leiba teil on?” Nad vastasid: „Seitse, ja pisut kalukesi.”</verse>
 				<verse number="35">Siis Ta käskis rahva maha istuda.</verse>
@@ -630,6 +661,7 @@
 				<verse number="2">Ja palju rahvast järgis Teda, ja Ta tegi neid seal terveks.</verse>
 				<verse number="3">Siis tuli Tema juure varisere Teda kiusama, ja need ütlesid: „Kas on luba oma naist enesest lahutada igasugusel põhjusel?”</verse>
 				<verse number="4">Tema kostis ja ütles: „Kas te ei ole lugenud, et Looja nad algusest lõi meheks ja naiseks, 5. ja ütles: Seepärast inimene jätab maha oma isa ja ema ning hoiab oma naise poole, ja need kaks on üks liha!?</verse>
+				<verse number="5"></verse>
 				<verse number="6">Nõnda ei ole nad siis enam kaks, vaid on üks liha. Mis nüüd Jumal on ühte pannud, seda inimene ärgu lahutagu!”</verse>
 				<verse number="7">Nad ütlesid Temale: „Mispärast siis Mooses käskis anda lahutuskirja ja lahutada?”</verse>
 				<verse number="8">Ta ütles neile: „Mooses on teile teie südame kanguse pärast annud loa oma naisi enestest lahutada; algusest ei ole see mitte nõnda olnud.</verse>
@@ -666,6 +698,7 @@
 				<verse number="7">Nad ütlesid temale: Meid ei ole keegi palganud! Tema ütles neile: Minge teiegi viinamäele!</verse>
 				<verse number="8">Kui siis õhtu tuli, ütles viinamäe isand oma ülevaatajale: Kutsu töötegijad ja anna neile palk alates viimseist kuni esimesteni.</verse>
 				<verse number="9">Kui nüüd need tulid, kes üheteistkümnendal tunnil olid palgatud, said nad igaüks ühe teenari.</verse>
+				<verse number="10"></verse>
 				<verse number="11">Kui nad olid saanud, nurisesid nad majaisanda vastu</verse>
 				<verse number="12">ning ütlesid: Need viimsed aga on ühe tunni tööd teinud ja sa oled nad teinud meie väärilisteks, kes me päeva koormat ja palavust oleme kannud!</verse>
 				<verse number="13">Aga ta kostis ning ütles ühele nende seast: Sõber, ma ei tee sulle ülekohut; eks sa leppinud minuga kokku ühe teenari peale?</verse>
@@ -679,6 +712,7 @@
 				<verse number="21">Aga Ta ütles naisele: „Mida sa tahad?” Tema ütles Temale: „Ūtle, et need mu kaks poega istuksid üks Su paremale ja teine Su vasakule käele Sinu Kuningriigis!”</verse>
 				<verse number="22">Aga Jeesus vastas ning ütles: „Te ei tea, mida te palute! Kas te võite juua seda karikat, mis Minul tuleb juua?” Nad ütlesid Talle: „Jah, võime!”</verse>
 				<verse number="23">Tema ütles neile: „Minu karika te küll joote, aga Mu paremal ja vasakul käel istuda ei ole Minu käes teile anda, vaid kellele Mu Isa selle on valmistanud.”</verse>
+				<verse number="24"></verse>
 				<verse number="25">Aga Jeesus kutsus nad Enese juure ja ütles: „Te teate, et paganate ülemad valitsevad nende üle ja suured isandad tarvitavad vägivalda nende kallal.</verse>
 				<verse number="26">Teie seas aga ei tohi nõnda olla; vaid kes iganes teie seast tahab suureks saada, see olgu teie teenija;</verse>
 				<verse number="27">ja kes teie seast tahab olla kõige esimene, see olgu teie ori;</verse>
@@ -695,12 +729,14 @@
 				<verse number="2">„Minge sinna alevisse, mis on teie ees, ja varsti te leiate kinniseotud emaeesli ja sälu ta juures; päästke need lahti ja tooge Mu juure.</verse>
 				<verse number="3">Ja kui teile keegi midagi ütleb, siis ütelge: Issandal on neid tarvis! Siis Ta lähetab nad sedamaid.</verse>
 				<verse number="4">Aga see on kõik sündinud, et läheks täide, mis on üteldud prohveti kaudu:</verse>
+				<verse number="5"></verse>
 				<verse number="6">Siis jüngrid läksid ja tegid nõnda, nagu Jeesus neid oli käskinud,</verse>
 				<verse number="7">ning tõid emaeesli ja sälu ja panid riided nende peale ja panid Ta riiete peale istuma.</verse>
 				<verse number="8">Aga suurem hulk laotas oma riided tee peale, aga teised raiusid oksi puudest ja puistasid tee peale.</verse>
 				<verse number="9">Aga rahvahulgad, kes ees ja taga käisid, hüüdsid: „Hoosianna Taaveti Pojale! Õnnistatud olgu, Kes tuleb Issanda nimel! Hoosianna kõrges!”</verse>
 				<verse number="10">Ja kui Ta Jeruusalemma sisse läks, tõusis kogu linn liikvele ja ütles: „Kes See on?”</verse>
 				<verse number="11">Aga rahvas ütles: „Tema on See Prohvet Jeesus Galilea Naatsaretist!”</verse>
+				<verse number="12"></verse>
 				<verse number="13">ja ütles neile: „Kirjutatud on: Minu koda peab hüütama palvekojaks, aga teie teete Ta röövliauguks!”</verse>
 				<verse number="14">Ja pühakojas tuli Tema juure pimedaid ja jalutumaid, ja Ta tegi nad terveks.</verse>
 				<verse number="15">Aga kui ülempreestrid ja kirjatundjad nägid neid imesid, mida Ta tegi, ja poisse, kes pühakojas hüüdsid: „Hoosianna Taaveti Pojale!” sai nende meel pahaseks</verse>
@@ -858,6 +894,7 @@
 				<verse number="30">Ja siis ilmub Inimese Poja tunnustäht taevas, ja siis hakkavad kõik rahva suguvõsad maa peal halisema ja näevad Inimese Poja tulevat taeva pilvede peal suure väe ja auhiilgusega.</verse>
 				<verse number="31">Ja Ta läkitab Oma Inglid suure pasunahäälega, ja nad koguvad kokku ta äravalitud neljast tuulest, ühest taeva otsast teise.</verse>
 				<verse number="32">Ent viigipuust õppige võrdumit: kui ta oksad juba on pungas ja ajavad lehti, siis te tunnete, et suvi on ligi. 33. Nõnda ka teie: kui te näete seda kõike, siis teadke, et see on ligi ukse ees.</verse>
+				<verse number="33"></verse>
 				<verse number="34">Tõesti Ma ütlen teile, et selle põlve rahvas ei lõpe ära, enne kui see kõik sünnib!</verse>
 				<verse number="35">Taevas ja maa hävivad, aga Minu sõnad ei hävi mitte!</verse>
 				<verse number="36">Aga sellest päevast ja tunnist ei tea ükski, ei Inglidki taevas ega ka Poeg, muud kui Isa üksi.</verse>
@@ -910,6 +947,7 @@
 				<verse number="30">Ja k</verse>
 				<verse number="31">Aga kui Inimese Poeg tuleb Oma auhiilguses ja k</verse>
 				<verse number="32">ja siis kogutakse Tema ette k</verse>
+				<verse number="33"></verse>
 				<verse number="34">Siis Kuningas ütleb neile, kes on Ta paremal käel: Tulge siia, Minu Isa</verse>
 				<verse number="35">Sest Mul oli nälg, ja te andsite Mulle süüa; Mul oli janu, ja te jootsite Mind; Ma olin v</verse>
 				<verse number="36">Ma olin alasti, ja te riietasite Mind; Ma olin haige, ja te tulite Mind vaatama; Ma olin vangis, ja te tulite Mu juure.</verse>
@@ -920,6 +958,7 @@
 				<verse number="41">siis Ta ütleb ka neile, kes on vasakul käel: Minge ära Minu juurest, te neetud, igavesse tulle, mis on valmistatud kuradile ja tema inglitele!</verse>
 				<verse number="42">Sest Mul oli nälg, ja te ei annud Mulle süüa; Mul oli janu, ja te ei jootnud Mind;</verse>
 				<verse number="43">Ma olin v</verse>
+				<verse number="44"></verse>
 				<verse number="45">Siis Ta vastab neile n</verse>
 				<verse number="46">Ja need lähevad igavesse karistusse, aga</verse>
 			</chapter>
@@ -979,6 +1018,7 @@
 				<verse number="53">V</verse>
 				<verse number="54">Kuidas siis läheksid kirjad täide, et see n</verse>
 				<verse number="55">Sel tunnil ütles Jeesus hulgale: „Otsegu röövli peale olete te välja tulnud m</verse>
+				<verse number="56"></verse>
 				<verse number="57">Aga need, kes Jeesuse olid kinni v</verse>
 				<verse number="58">Aga Peetrus järgis Teda eemalt ülempreestri kojani, ja ta läks sisse ja istus maha ühes sulastega, et näha, kuidas asi l</verse>
 				<verse number="59">Aga ülempreestrid ja k</verse>
@@ -1128,7 +1168,8 @@
 				<verse number="34">Ja Ta tegi terveks paljud, kes p</verse>
 				<verse number="35">Ja vara hommikul enne valget t</verse>
 				<verse number="36">Ja Siimon ning tema kaaslased t</verse>
-				<verse number="37">ja leidsid Tema ning,ütlesid Talle: „K</verse>
+				<verse number="37">ja leidsid Tema ning, ütlesid Talle: „K</verse>
+				<verse number="38"></verse>
 				<verse number="39">Ja Ta läks ning kuulutas nende kogudusekodades kogu Galileas ja ajas kurjad vaimud välja.</verse>
 				<verse number="40">Ja Tema juure tuleb pidalit</verse>
 				<verse number="41">Ja Jeesusel hakkas temast hale meel, Ta sirutas Oma käe, puudutas teda ja ütles talle: „Ma tahan, saa puhtaks!”</verse>
@@ -1213,11 +1254,14 @@
 				<verse number="6">Aga kui päike t</verse>
 				<verse number="7">Ja muist kukkus ohakate sekka, ja ohakad t</verse>
 				<verse number="8">Ja muist kukkus heale maale, ja kui see tärkas ja kasvas, andis see vilja, ja m</verse>
+				<verse number="9"></verse>
+				<verse number="10"></verse>
 				<verse number="11">Ja Ta ütles neile: „Teile on antud m</verse>
 				<verse number="12">et nad nähes näeksid ega taipaks, ja kuuldes kuuleksid ega m</verse>
 				<verse number="13">Ja Ta ütles neile: „Te ei taipa seda tähendamissõna, kuidas te siis tahate m</verse>
 				<verse number="14">Külvaja külvab s</verse>
 				<verse number="15">Need on teeäärsed, kuhu s</verse>
+				<verse number="16"></verse>
 				<verse number="17">aga neil ei ole juurt enestes, vaid nad kestavad ainult üürikese aja; pärast, kui t</verse>
 				<verse number="18">Ja teised on ohakate sekka külvatud. Need on, kes s</verse>
 				<verse number="19">aga selle maailma mured ja rikkuse petlikkus ja muude asjade himud saavad võimule ja lämmatavad s</verse>
@@ -1249,6 +1293,7 @@
 				<verse number="2">Ja kui Ta paadist väljus, kohtas Teda varsti haudadest tulnud mees, kellel oli rüve vaim.</verse>
 				<verse number="3">Mehe eluase oli surnuhaudades ja keegi ei suutnud teda ahelatega kinni panna,</verse>
 				<verse number="4">sest ta oli mitu korda olnud kinni jalgrau’us ja ahelais, aga oli ahelad puruks kiskunud ja jalgrauad katki murdnud, nii et ükski ei suutnud teda taltsutada.</verse>
+				<verse number="5"></verse>
 				<verse number="6">Aga kui ta Jeesust kaugelt nägi, jooksis ta ja kummardas Teda</verse>
 				<verse number="7">ja ütles suure häälega kisendades: „Mis Sinul on minuga tegemist, Jeesus, k</verse>
 				<verse number="8">Sest Ta oli ütelnud temale: „Mine välja inimesest, sa rüve vaim!”</verse>
@@ -1427,6 +1472,7 @@
 			</chapter>
 			<chapter number="9">
 				<verse number="1">Ja tema ütles neile: „T</verse>
+				<verse number="2"></verse>
 				<verse number="3">Tema riided läksid hiilgavaks, helevalgeks otsegu lumi, nagu neid ükski vanutaja maa peal ei suuda teha nii heledaks.</verse>
 				<verse number="4">Ja Eelija ühes Moosesega ilmus neile, ja nad k</verse>
 				<verse number="5">Ja Peetrus kostis ning ütles Jeesusele: „Rabi, siin on hea olla! Teeme nüüd kolm telki: Sinule ühe ja Moosesele ühe ja Eeiijale ühe!”</verse>
@@ -1437,6 +1483,7 @@
 				<verse number="10">Ja nad pidasid meeles selle s</verse>
 				<verse number="11">Siis nad küsisid Temalt ning ütlesid: „Miks kirjatundjad ütlevad, et Eelija peab enne tulema?”</verse>
 				<verse number="12">Aga Tema ütles neile: „Eelija tuleb küll enne korda seadma k</verse>
+				<verse number="13"></verse>
 				<verse number="14">Ja kui nad tulid jüngrite juure, nägi Ta palju rahvast nende ümber ja kirjatundjaid vaidlevat nendega.</verse>
 				<verse number="15">Ja kohe, kui rahvahulk Teda nägi, kohkusid k</verse>
 				<verse number="16">Ja Ta küsis nendelt: „Miks te vaidlete nendega?”</verse>
@@ -1510,11 +1557,15 @@
 				<verse number="32">Aga nad olid teel minemas Jeruusalemma; ja Jeesus käis nende ees, ja nad kohkusid, aga järelkäijad kartsid. Ja Ta v</verse>
 				<verse number="33">„Vaata, me läheme üles Jeruusalemma; ja Inimese Poeg antakse ülempreestrite ja kirjatundjate kätte, ja nad m</verse>
 				<verse number="34">Ja need pilkavad Teda ja sülitavad Ta peale ja peksavad Teda rooskadega ja tapavad Tema, ja kolme päeva pärast t</verse>
+				<verse number="35"></verse>
 				<verse number="36">Aga Tema ütles neile: „Mida te tahate, et ma teile teeksin?” 37. Nemad ütlesid Talle: „Anna meile, et me üks Sinu paremal ja teine Sinu vasakui pool saaksime istuda Sinu auhiilguses!”</verse>
+				<verse number="37"></verse>
 				<verse number="38">Aga Jeesus ütles neile: „Te ei tea, mida te palute. Kas te v</verse>
+				<verse number="39"></verse>
 				<verse number="40">kuid istuda Mu paremal ja vasakul pool ei ole Minu anda, vaid see antakse neile, kellele see on valmistatud!”</verse>
 				<verse number="41">Kui need kümme seda kuulsid, said nad pahaseks Jakoobuse ja Johannese peale.</verse>
 				<verse number="42">Ja Jeesus kutsus nad Enese juure ja ütles neile: „Te teate, et need, keda arvatakse rahvaste ülemaiks, valitsevad nende üle ja rahvaste suured tarvitavad v</verse>
+				<verse number="43"></verse>
 				<verse number="44">ja kes teie seast tahab olla k</verse>
 				<verse number="45">Sest Inimese Poeg ei ole tulnud ennast laskma teenida, vaid ise teenima ja andma oma hinge lunaks paljude eest!”</verse>
 				<verse number="46">Ja nad tulid Jeerikosse. Ja kui Ta Jeerikost välja läks ja Tema jüngrid ja suur hulk rahvast, siis istus Timeuse poeg, pime Bartimeus, tee ääres ja kerjas.</verse>
@@ -1535,6 +1586,7 @@
 				<verse number="7">Ja nad t</verse>
 				<verse number="8">Ja paljud laotasid oma riided tee peale, aga teised oksi, mida nad raiusid väljadelt.</verse>
 				<verse number="9">Ja need, kes käisid ees ja taga, hüüdsid: „Hoosianna!</verse>
+				<verse number="10"></verse>
 				<verse number="11">Ja Ta tuli Jeruusalemma pühakotta. Ja kui Ta k</verse>
 				<verse number="12">Ja kui nad teisel päeval Betaaniast väljusid, oli Tal nälg.</verse>
 				<verse number="13">Ja nähes kaugelt viigipuud lehis, läks Ta vaatama, kas Ta sellelt midagi leiab. Aga sinna juure j</verse>
@@ -1647,6 +1699,7 @@
 			<chapter number="14">
 				<verse number="1">Aga kahe päeva pärast olid paasaja hapnemata leibade pühad, ja ülempreestrid ja kirjatundjad otsisid, kuidas kavalusega Teda kinni v</verse>
 				<verse number="2">Sest nad ütlesid: „Mitte pühade ajal, et ei t</verse>
+				<verse number="3"></verse>
 				<verse number="4">Aga seal olid m</verse>
 				<verse number="5">Sest selle oleks v</verse>
 				<verse number="6">Aga Jeesus ütles: „Jätke ta rahule! Miks te teete talle südamevalu? Ta on teinud Mulle heateo.</verse>
@@ -1687,6 +1740,7 @@
 				<verse number="41">Ja Ta tuli kolmat puhku ja ütles neile: „Te ikka veel magate ja puhkate; aeg on möödas, tund on tulnud! Vaata, Inimese Poeg antakse patuste kätte!</verse>
 				<verse number="42">T</verse>
 				<verse number="43">Ja sedamaid, kui Tema alles rääkis, saabus Juudas, üks neist kaheteistkümnest, ja ühes temaga j</verse>
+				<verse number="44"></verse>
 				<verse number="45">Ja kui ta sinna tuli, astus ta kohe Tema juure ja ütles: „Rabi!” ja andis Temale suud.</verse>
 				<verse number="46">Aga nemad pistsid oma käed Tema külge ja v</verse>
 				<verse number="47">Siis keegi juuresseisjaist t</verse>
@@ -2030,6 +2084,7 @@
 				<verse number="16">Aga Tema läks k</verse>
 				<verse number="17">Ja ühel päeval, kui Ta</verse>
 				<verse number="18">Ja vaata, mehed t</verse>
+				<verse number="19"></verse>
 				<verse number="20">Kui Tema nende usku nägi, ütles Ta: „Inimene, sinu patud on sulle andeks antud!”</verse>
 				<verse number="21">Siis kirjatundjad ja variserid hakkasid m</verse>
 				<verse number="22">Aga Jeesus tundis ära nende m</verse>
@@ -2048,6 +2103,7 @@
 				<verse number="35">Ent päevad tulevad, mil peigmees v</verse>
 				<verse number="36">Aga Ta ütles neile ka tähendamiss</verse>
 				<verse number="37">Ka ei pane keegi värsket viina vanusse nahklähkreisse, muidu värske viin ratkub lähkrid ja ta jookseb maha ning lähkrid lähevad rikki; 38. vaid värske viin tuleb panna uutesse nahklähkritesse,</verse>
+				<verse number="38"></verse>
 				<verse number="39">siis keegi, kes joob vana, ei himusta värsket, vaid ütleb: Vana on maitsev!”</verse>
 			</chapter>
 			<chapter number="6">
@@ -2071,17 +2127,21 @@
 				<verse number="18">kes oli tulnud Teda kuulama ja ennast laskma parandada oma haigustest. Ja ka need, keda rüvedad vaimud vaevasid, said terveks.</verse>
 				<verse number="19">Ja k</verse>
 				<verse number="20">Ja Tema t</verse>
+				<verse number="21"></verse>
+				<verse number="22"></verse>
 				<verse number="23">R</verse>
 				<verse number="24">Kuid häda teile rikastele! Sest teil on troost käes.</verse>
 				<verse number="25">Häda teile, kes nüüd olete täidetud, sest teile tuleb nälg! Häda teile, kes nüüd naerate, sest te saate veel leinata ja nutta!</verse>
 				<verse number="26">Häda teile, kui k</verse>
 				<verse number="27">Aga teile, kes kuulete, ütlen Ma: Armastage oma vaenlasi, tehke head neile, kes teid vihkavad;</verse>
+				<verse number="28"></verse>
 				<verse number="29">Kes sind lööb vastu k</verse>
 				<verse number="30">Anna igaühele, kes sind palub, ja sellelt, kes v</verse>
 				<verse number="31">Ja n</verse>
 				<verse number="32">Ja kui te armastate neid, kes teid armastavad, mis tänu on teil sellest? Sest patusedki armastavad neid, kes neid armastavad.</verse>
 				<verse number="33">Ja kui te teete head oma heategijaile, mis tänu on teil sellest? Sest patusedki teevad sedasama.</verse>
 				<verse number="34">Ja kui te laenate neile, kelledelt te loodate tagasi saada, mis tänu on teil sellest? Patusedki laenavad patustele, et nad samav</verse>
+				<verse number="35"></verse>
 				<verse number="36">Olge armulised, n</verse>
 				<verse number="37">Ja ärge m</verse>
 				<verse number="38">Andke, siis antakse ka teile; hea, tuubitud ja raputatud ja kuhjaga m</verse>
@@ -2105,6 +2165,7 @@
 				<verse number="5">sest ta armastab meie rahvast ja tema on meile ehitanud kogudusekoja.”</verse>
 				<verse number="6">Jeesus läks nendega. Aga kui ta enam ei olnud majast kaugel, läkitas pealik oma s</verse>
 				<verse number="7">Sellepärast ei ole mina ennast arvanud väärt tulema Sinu juure, vaid ütle aga s</verse>
+				<verse number="8"></verse>
 				<verse number="9">Kui Jeesus seda kuulis imetles Ta teda ja pöördudes rahva poole, kes järel käis, ütles Ta: „Ma ütlen teile, ei ole ma Iisraelistki leidnud nii suurt usku!”</verse>
 				<verse number="10">Ja kui need, kes olid läkitatud, jälle koju said, leidsid nad sulase terve olevat.</verse>
 				<verse number="11">Järgmisel päeval läks Ta linna, mida hüütakse Nainiks, ja Temaga ühes läksid Tema jüngrid ja palju rahvast.</verse>
@@ -2136,6 +2197,7 @@
 				<verse number="37">Ja vaata, selles linnas oli naine, kes oli patune. Kui see teada sai, et Ta istub lauas variseri kojas, t</verse>
 				<verse number="38">ja astus nuttes Tema taha ta jalgade juure ja hakkas Tema jalgu kastma silmaveega ja kuivatas neid oma juustega, ja suudles Tema jalgu ning v</verse>
 				<verse number="39">Aga kui variser, kes Teda oli kutsunud, seda nägi, m</verse>
+				<verse number="40"></verse>
 				<verse number="41">„Ūhel rahalaenajal oli kaks v</verse>
 				<verse number="42">Aga kui neil ei olnud maksta, kinkis ta m</verse>
 				<verse number="43">Siimon vastas ning ütles: „Ma arvan see, kellele ta rohkem kinkis.” Tema ütles temale: „Sa otsustasid</verse>
@@ -2182,6 +2244,7 @@
 				<verse number="32">Aga seal oli suur seakari mäel söömas. Ja nad palusid Teda, et Ta neid lubaks minna nende sisse. Ja Ta andis neile loa.</verse>
 				<verse number="33">Aga kui kurjad vaimud olid inimesest väljunud, läksid nad sigade sisse, ja seakari kukutas enese ülepeakaela kaldalt järve ning uppus.</verse>
 				<verse number="34">Kui karjatsejad nägid, mis sündis, p</verse>
+				<verse number="35"></verse>
 				<verse number="36">Siis jutustasid neile need, kes olid näinud, kuidas seestunu oli terveks saanud.</verse>
 				<verse number="37">Ja kogu rahvahulk gerasalaste maa ümbruskonnast palus Teda, et Ta läheks ära nende juurest. Sest suur hirm oli neid vallanud. Tema aga astus paati ja pöördus tagasi.</verse>
 				<verse number="38">Aga mees, kellest kurjad vaimud olid välja läinud, palus Teda, et ta v</verse>
@@ -2405,11 +2468,13 @@
 				<verse number="34">Sest kus teie varandus on, seal on ka teie süda!</verse>
 				<verse number="35">Teie niuded olgu vöötatud ja küünlad p</verse>
 				<verse number="36">Ja teie olge inimeste sarnased, kes ootavad oma isandat, millal ta lahkub pulmast, et kui ta tuleb ja koputab, nad kohe temale avaksid.</verse>
+				<verse number="37"></verse>
 				<verse number="38">Ja tulgu ta teisel v</verse>
 				<verse number="39">Aga seda teadke: Kui peremees teaks, mil tunnil varas tuleb, ta ei laseks oma kotta sisse murda!</verse>
 				<verse number="40">Olge siis ka teie valmis, sest Inimese Poeg tuleb tunnil, mil te ei arvagi!”</verse>
 				<verse number="41">Aga Peetrus küsis: „Issand, kas ütled selle tähendamiss</verse>
 				<verse number="42">Ja Issand ütles: „Kes on siis ustav ja m</verse>
+				<verse number="43"></verse>
 				<verse number="44">T</verse>
 				<verse number="45">Aga kui see sulane ütleb oma südames: Mu isand viibib tulles! ja ta hakkab peksma poisse ja tüdrukuid, ja sööma ja jooma ja purjutama,</verse>
 				<verse number="46">siis selle sulase isand tuleb päeval, mil ta ei oota teda, ja tunnil, mida ta ei tea, ja raiub ta pooleks ja annab temale osa ühes uskmatutega.</verse>
@@ -2432,6 +2497,7 @@
 				<verse number="2">Ja Jeesus hakkas k</verse>
 				<verse number="3">Ma ütlen teile, et mitte sugugi, vaid kui te ei paranda meelt, lähete k</verse>
 				<verse number="4">V</verse>
+				<verse number="5"></verse>
 				<verse number="6">Ja Ta ütles selle tähendamiss</verse>
 				<verse number="7">Siis ta ütles viinamäe aednikule: Vaata, kolm aastat ma käin otsimas sellelt viigipuult vilja, aga ei leia. Raiu ta maha! Miks ta maad raiskab?</verse>
 				<verse number="8">Aga see vastas ning ütles talle: Isand, jäta ta veel sellekski aastaks, kuni ma ta ümber kaevan ja talle panen s</verse>
@@ -2458,6 +2524,7 @@
 				<verse number="29">Ja tuleb inimesi idast ja läänest, p</verse>
 				<verse number="30">Ja vaata, on viimseid, kes saavad esimesiks, ja esimesi, kes jäävad viimseiks!”</verse>
 				<verse number="31">Samal tunnil tulid m</verse>
+				<verse number="32"></verse>
 				<verse number="33">Siiski Ma pean veel rändama täna ja homme ja tunahomme; sest see ei sobi, et prohvet saab hukka mujal kui Jeruusalemas!</verse>
 				<verse number="34">Jeruusalem, Jeruusalem, kes tapad prohvetid ja viskad kividega surnuks need, kes sinu juure on läkitatud! Kui mitu korda Ma olen tahmud koguda sinu lapsi otsegu kana oma poegi tiibade alla, aga teie ei ole tahtnud!</verse>
 				<verse number="35">Vaata, teie koda jäetakse teil maha! Ja t</verse>
@@ -2475,6 +2542,7 @@
 				<verse number="10">Aga kui sa oled kutsutud, siis mine ja istu alamasse paika, ja kui tuleb see, kes sind kutsus, ja ütleb sulle: S</verse>
 				<verse number="11">Sest igaüht, kes ennast ülendab, alandatakse, ja kes ennast alandab, ülendatakse!”</verse>
 				<verse number="12">Aga Ta ütles ka sellele, kes Teda oli kutsunud: „Kui sa teed l</verse>
+				<verse number="13"></verse>
 				<verse number="14">siis sa oled</verse>
 				<verse number="15">Kui üks lauas kaasistujaist seda kuulis, ütles ta Temale: „</verse>
 				<verse number="16">Aga Ta ütles temale: „Ūks inimene tegi suure</verse>
@@ -2539,6 +2607,7 @@
 				<verse number="4">Ma tean, mis ma teen, et kui ma majapidamisest lahti saan, mind vastu v</verse>
 				<verse number="5">Ja ta kutsus enda juure igaühe oma isanda v</verse>
 				<verse number="6">See ütles: Sada vaati</verse>
+				<verse number="7"></verse>
 				<verse number="8">Ja isand kiitis seda ülekohtust majapidajat, et ta arukalt oli teinud, sest selle maailma lapsed on oma sugup</verse>
 				<verse number="9">Ja Mina ütlen teile: Tehke endile s</verse>
 				<verse number="10">Kes ustav on k</verse>
@@ -2555,6 +2624,7 @@
 				<verse number="21">ja püüdis oma k</verse>
 				<verse number="22">Siis sündis, et vaene suri, ja Inglid kandsid ta Aabrahami sülle. Aga ka rikas suri ja maeti maha.</verse>
 				<verse number="23">Ja kui ta p</verse>
+				<verse number="24"></verse>
 				<verse number="25">Aga Aabraham ütles: Laps, m</verse>
 				<verse number="26">Ja k</verse>
 				<verse number="27">Aga ta ütles: Ma palun siis sind, isa, et sa läkitaksid tema mu isa majasse,</verse>
@@ -2669,6 +2739,7 @@
 				<verse number="19">Aga ta ütles sellelegi: Ja sina valitse viie linna üle!</verse>
 				<verse number="20">Veelgi tuli teine ja ütles: Isand, vaata, siin on su nael, mida ma olen hoidnud higirätikus;</verse>
 				<verse number="21">sest ma kartsin sind, et sa oled vali inimene; sa v</verse>
+				<verse number="22"></verse>
 				<verse number="23">miks sa siis ei annud mu raha panka? Küll ma tulles oleksin selle tagasi n</verse>
 				<verse number="24">Ja ta ütles juuresseisjaile: V</verse>
 				<verse number="25">Ja nad ütlesid talle: Isand, temal on kümme naela!</verse>
@@ -2679,6 +2750,7 @@
 				<verse number="30">ning ütles: „Minge vastasolevasse alevisse, ja kui te sinna j</verse>
 				<verse number="31">Ja kui keegi teilt küsib: Miks te ta lahti päästate? siis ütelge nii: Issandal on teda tarvis!”</verse>
 				<verse number="32">Aga need, kes olid läkitatud, läksid ja leidsid k</verse>
+				<verse number="33"></verse>
 				<verse number="34">Nemad vastasid: „Issandal on teda tarvis!”</verse>
 				<verse number="35">Ja nad t</verse>
 				<verse number="36">Kui Ta nüüd edasi liikus, laotasid nad oma riided tee peale.</verse>
@@ -2805,6 +2877,7 @@
 				<verse number="18">Sest Ma ütlen teile, et Mina ei joo enam viinapuu viljast, enne kui tuleb Jumala Riik!”</verse>
 				<verse number="19">Ja Ta v</verse>
 				<verse number="20">Samuti ka karika pärast</verse>
+				<verse number="21"></verse>
 				<verse number="22">Ja Inimese Poeg läheb küll ära, n</verse>
 				<verse number="23">Ja nemad hakkasid küsima üksteiselt, kes see küll peaks nende seast olema, kes seda teeb.</verse>
 				<verse number="24">Aga nende seas t</verse>
@@ -3131,7 +3204,8 @@
 				<verse number="39">Aga palju samaarlasi sellest linnast uskus Temasse naise kõne tõttu, kes tunnistas: „Tema ütles mulle kõik, mis ma olen teinud!”</verse>
 				<verse number="40">Kui nüüd samaarlased tulid Tema juure, palusid nad Teda jääda nende juure. Ja Ta viibis seal kaks päeva.</verse>
 				<verse number="41">Ja veel palju rohkem samaarlasi hakkas uskuma Tema sõna tõttu.</verse>
-				<verse number="42">Nad ütlesid naisele: „Me ei usu mitte enam sinu kõne pärast; sest me ise oleme kuulnud ja teame, et Tema on tõesti maailma Õnnistegija!”43. Aga kahe päeva pärast tuli Ta sealt ära Galileasse.</verse>
+				<verse number="42">Nad ütlesid naisele: „Me ei usu mitte enam sinu kõne pärast; sest me ise oleme kuulnud ja teame, et Tema on tõesti maailma Õnnistegija!”</verse>
+				<verse number="43">Aga kahe päeva pärast tuli Ta sealt ära Galileasse.</verse>
 				<verse number="44">Sest Jeesus ise tunnistas, et prohvetist ei peeta lugu ta omal isamaal.</verse>
 				<verse number="45">Kui Ta nüüd oli tulnud Galileasse, võtsid galilealased Tema vastu, sest nad olid näinud kõike seda, mis Ta oli teinud Jeruusalemas suurel pühal, sest ka nemad olid käinud neil pühil.</verse>
 				<verse number="46">Siis tuli Jeesus jälle Galilea Kaanasse, kus Ta oli teinud vee viinaks. Ja seal oli üks kuninga ametnik, kelle poeg oli haige Kapernaumas.</verse>
@@ -3168,11 +3242,13 @@
 				<verse number="21">Sest otsegu Isa äratab üles surnuid ja teeb elavaks, nõnda teeb ka Poeg elavaks, keda tahab.</verse>
 				<verse number="22">Sest Isa ei mõista kohut kellegi üle, vaid kõik kohtu on Ta annud Poja kätte,</verse>
 				<verse number="23">et kõik austaksid Poega, nagu nad austavad Isa. Kes ei austa Poega, see ei austa Isa, kes Tema on läkitanud. 24. Tõesti, tõesti ma ütlen teile, kes Minu sõna kuuleb ja usub seda, kes Mind on läkitanud, sellel on igavene elu ja see ei tule mitte kohtu alla, vaid on surmast läinud elusse!</verse>
+				<verse number="24"></verse>
 				<verse number="25">Tõesti, tõesti Ma ütlen teile, tund tuleb ja on juba käes, mil surnud peavad kuulma Jumala Poja häält, ja kes seda kuulevad, peavad elama!</verse>
 				<verse number="26">Sest otsegu Isal on elu iseeneses, nõnda on Ta annud ka Pojale, et elu on Temas Eneses.</verse>
 				<verse number="27">Ja Ta on Temale annud meelevalla ka kohut pidada, sellepärast et Ta on Inimese Poeg.</verse>
 				<verse number="28">Ärge pange seda imeks, sest tuleb tund, mil kõik, kes on haudades, kuulevad Tema häält</verse>
 				<verse number="29">ning tulevad välja need, kes on teinud head, elu ülestõusmiseks, aga kes on teinud halba, hukkamõistmise ülestõusmiseks.30. Mina ei või Iseenesest ühtki teha. Nagu Ma kuulen, nõnda Ma mõistan kohut ja Minu otsus on õige, sest Mina ei nõua Oma tahtmist, vaid Selle tahtmist, Kes Mind on läkitanud.</verse>
+				<verse number="30"></verse>
 				<verse number="31">Kui Mina tunnistan Iseenesest, siis ei ole Mu tunnistus mitte tõsi.</verse>
 				<verse number="32">On Teine, Kes Minust tunnistab, ja Ma tean, et see tunnistus, mida Ta Minust tunnistab, on tõsi.</verse>
 				<verse number="33">Teie läkitasite Johannese juure ja tema andis tõele tunnistust.</verse>
@@ -3184,6 +3260,7 @@
 				<verse number="39">Te uurite Pühi Kirju, sest te arvate enestel neis olevat igavese elu, ja need on, mis tunnistavad Minust,</verse>
 				<verse number="40">ja te ei taha tulla Minu juure, et te saaksite elu.</verse>
 				<verse number="41">Mina ei võta vastu austust inimestelt,42. aga Mina tunnen teid, et teil ei ole Jumala armastust iseenestes.</verse>
+				<verse number="42"></verse>
 				<verse number="43">Mina olen tulnud Oma Isa nimel, ja te ei võta Mind vastu, kui teine tuleb iseenese nimel, tema te võtate vastu.</verse>
 				<verse number="44">Kuidas te võite uskuda, kui te võtate austust vastu üksteiselt ega otsi seda austust, mis tuleb Ūksnes Jumalalt?</verse>
 				<verse number="45">Ärge mõtelge, et Mina kaebaksin teie peale Isa ees, on olemas, kes teie peale kaebab - Mooses, kelle peale te loodate.</verse>
@@ -3199,12 +3276,14 @@
 				<verse number="6">Ent seda Ta ütles teda kiusates, sest Ta teadis küll, mida Ta tahtis teha.</verse>
 				<verse number="7">Filippus vastas Talle: „Leibu kahesaja teenari eest ei jätku neile, et igaüks natukesegi võtaks!”</verse>
 				<verse number="8">Ūks Tema jüngritest, Andreas, Siimon Peetruse vend, ütleb Talle:</verse>
+				<verse number="9"></verse>
 				<verse number="10">Jeesus ütles: „Asetage inimesed maha istuma!” Ja seal paigas oli palju rohtu. Siis asetusid maha arvult umbes viis tuhat meest!</verse>
 				<verse number="11">Jeesus võttis nüüd leivad, tänas ja, andis neile, kes maas istusid, samuti kai neist kalukesist, niipalju kui nad tahtsid.</verse>
 				<verse number="12">Aga kui nende kõhud olid täis saanud, ütles Ta oma jüngritele: „Koguge ülejäänud palukesed kokku, et midagi ei läheks raisku!”</verse>
 				<verse number="13">Siis nad kogusid kokku kaksteistkümmend korvitäit palukesi, mis oli üle jäänud viiest odraleivas nendelt, kes olid söönud.</verse>
 				<verse number="14">Kui nüüd rahvas nägi tunnustähte, mille Jeesus oli teinud, ütlesid nad: „See on tõesti Prohvet, kes maailma pidi tulema!”</verse>
 				<verse number="15">Siis Jeesus sai aru, et nad tahavad tulla ja Teda vägisi võtta ning teha kuningaks. Ja Ta läks jälle kõrvale mäe ainuüksi.16. Aga kui õhtu tuli, läksid Tema jüngrid mereranda</verse>
+				<verse number="16"></verse>
 				<verse number="17">ja astusid paati ja tulid teisele poole merd Kapernauma. Aga pimedus oli juba käes ja Jeesus ei olnud veel tulnud nende juure.</verse>
 				<verse number="18">Ja meri hakkas lainetama, sest suur tuul puhus.</verse>
 				<verse number="19">Kui nad nüüd olid sõudnud umbes kakskümmend viis või kolmkümmend vagu maad, nägid nad Jeesust merel kõndivat ja paadi lähedale jõudvat, ja nad lõid kartma.</verse>
@@ -3214,6 +3293,7 @@
 				<verse number="23">Oli aga tulnud veel lootsikuid Tibeeriast selle paiga lähedale, kus nad olid leiba söönud, kui Issand oli Jumalat tänanud.</verse>
 				<verse number="24">Kui nüüd rahvas nägi, et seal ei olnud Jeesust ega Tema jüngreid, läksid nad lootsikusse ja tulid Kapernauma ning otsisid Jeesust.</verse>
 				<verse number="25">Ja kui nad Ta leidsid mere teiselt rannalt, ütlesid nad Talle: „Rabi, millal Sa siia said?”26. Jeesus vastas neile ning ütles: „Tõesti, tõesti Ma ütlen teile, et te ei otsi Mind, sellepärast et te nägite tunnustähti, vaid et te sõite leiba ja teie kõhud said täis!</verse>
+				<verse number="26"></verse>
 				<verse number="27">Ärge hankige rooga, mis hävib, vaid rooga, mis jääb igaveseks eluks, mida Inimese Poeg tahab teile anda, sest Teda on Jumal Isa pitseriga kinnitanud!”</verse>
 				<verse number="28">Siis ütlesid nad Temale: „Mis me peame tegema, et võiksime teha Jumala tegusid?”</verse>
 				<verse number="29">Jeesus vastas ning ütles neile: „See on Jumala tegu, et te usute Temasse, Kelle Ta on läkitanud!”</verse>
@@ -3222,11 +3302,13 @@
 				<verse number="32">Siis Jeesus ütles neile: „Tõesti, tõesti Ma ütlen teile! Mooses ei annud teile leiba taevast, aga Minu Isa annab teile tõelise leiva taevast!</verse>
 				<verse number="33">Sest Jumala leib on see, kes tuleb taevast alla ja annab maailmale elu!”</verse>
 				<verse number="34">Siis nad ütlesid Talle: „Issand, anna meile ikka seda leiba!”</verse>
+				<verse number="35"></verse>
 				<verse number="36">Aga Mina olen teile ütelnud, et te olete Mind näinud ega usu mitte!</verse>
 				<verse number="37">Kõik, mis Isa Minule annab, tuleb Minu juure, ja kes Minu juure tuleb, seda Ma ei lükka välja.</verse>
 				<verse number="38">Sest Ma olen taevast alla tulnud mitte Oma tahtmist tegema, vaid Selle tahtmist, Kes Mind on läkitänud.</verse>
 				<verse number="39">Aga see on Selle tahtmine, Kes Mind on läkitanud, et Ma ühtki ei kaota sellest kõigest, mis Ta Minule on annud, vaid et Ma selle üles äratan viimsel päeval.</verse>
 				<verse number="40">Sest see on Mu Isa tahtmine, et igaühel, kes Poega näeb ja Temasse usub, on igavene elu, ja Ma äratan tema üles viimsel päeval!”41. Siis nurisesid juudid Tema üle, et Ta oli ütelnud: „Mina olen leib, mis taevast on alla tulnud!”</verse>
+				<verse number="41"></verse>
 				<verse number="42">Ja nad ütlesid: „Eks see ole Jeesus, Joosepi poeg, Kelle isa ja Ema me tunneme? Kuidas Ta siis ütleb: Ma olen tulnud taevast?”</verse>
 				<verse number="43">Jeesus vastas ning ütles neile: „Ärge nurisege isekeskis!</verse>
 				<verse number="44">Ūkski ei või tulla Minu juure, kui teda ei tõmba Isa, kes Mind on läkitanud; ja Mina äratan tema üles viimsel päeval.</verse>
@@ -3299,6 +3381,7 @@
 				<verse number="38">Kes usub Minusse, nagu Kiri ütleb, selle ihust peavad voolama elava vee jõed!”</verse>
 				<verse number="39">Aga seda Ta ütles Vaimust, Kelle pidid saama need, kes Temasse usuvad; sest veel ei olnud Vaimu, ei olnud ju Jeesust veel mitte austatud.</verse>
 				<verse number="40">Siis ütlesid paljud rahva seast, kes seda kõnet kuulsid: „Tema on tõesti see prohvet!”</verse>
+				<verse number="41"></verse>
 				<verse number="42">Eks Kiri ütle, et Kristus tuleb Taaveti soost ja Petlemast, alevist, kust oli Taavet?”</verse>
 				<verse number="43">Siis tekkis lahkmeel rahva sekka Tema pärast.</verse>
 				<verse number="44">Aga mõned neist tahtsid Teda kinni võtta, kuid ükski ei pistnud kätt Tema külge.</verse>
@@ -3343,6 +3426,7 @@
 				<verse number="28">Siis ütles Jeesus: „Kui te Inimese Poja olete ülendanud, siis te mõistate, et Mina see olen ja et Ma ei tee midagi Iseenesest, vaid räägin seda selle järele, kuidas Mu Isa Mind on õpetanud.</verse>
 				<verse number="29">Ja See, kes Mind on läkitanud, on Minuga; Ta ei ole Mind üksi jätnud, sest Ma teen ikka, mis on Tema meelt mööda!”</verse>
 				<verse number="30">Kui Ta seda rääkis, uskusid paljud Temasse.</verse>
+				<verse number="31"></verse>
 				<verse number="32">ja tunnetate tõe, ja tõde teeb teid vabaks!”</verse>
 				<verse number="33">Nemad kostsid Temale: „Meie oleme Aabrahami sugu ega ole veel iialgi kedagi orjanud; kuidas Sa siis ütled: Te saate vabaks?”</verse>
 				<verse number="34">Jeesus kostis neile: „Tõesti, tõesti Ma ütlen teile, et igaüks, kes teeb pattu, on patu ori!</verse>
@@ -3352,6 +3436,7 @@
 				<verse number="38">Mina räägin, mida olen näinud Oma Isalt, ja teie teete, mida olete kuulnud oma isalt!”</verse>
 				<verse number="39">Nad vastasid ning ütlesid Temale: „Meie isa on Aabraham!” Jeesus ütles neile: „Kui te oleksite Aabrahami lapsed, siis te teeksite ka Aabrahami tegusid.</verse>
 				<verse number="40">Aga nüüd te püüate tappa Mind, Inimest, Kes olen rääkinud teile tõtt, mida Ma olen kuulnud Jumalalt. Seda ei ole Aabraham teinud.</verse>
+				<verse number="41"></verse>
 				<verse number="42">Jeesus ütles neile: „Oleks Jumal teie isa, siis te armastaksite Mind, sest Mina olen lähtunud Jumalast ja tulen Temast, sest Ma ei ole ju tulnud Iseenesest, vaid Tema on Mind läkitanud.</verse>
 				<verse number="43">Mispärast te ei mõista Minu kõnet? Sellepärast et te ei või kuulda Minu sõna.</verse>
 				<verse number="44">Teie olete oma isast kuradist ja oma isa himude järele te tahate teha! Tema on inimese tapja olnud algusest peale ega ole jäänud püsima tõesse, sest tõde ei ole tema sees. Kui ta räägib valet, siis ta räägib omast, sest ta on valetaja ja vale isa!</verse>
@@ -3361,6 +3446,7 @@
 				<verse number="48">Siis kostsid juudid ning ütlesid Talle: „Eks me ütle õigesti, et Sina oled samaarlane ja et Sul on kuri vaim?”</verse>
 				<verse number="49">Jeesus vastas: „Mul ei ole kurja vaimu, aga Ma austan Oma Isa ja teie teotate Mind.</verse>
 				<verse number="50">Mina aga ei otsi Oma au; Ūks on, Kes seda otsib ja kohut mõistab!</verse>
+				<verse number="51"></verse>
 				<verse number="52">Juudid ütlesid Temale: „Nüüd me oleme ära tunnud, et Sul on kuri vaim! Aabraham on surnud ja prohvetid, ja Sina ütled: Kui keegi Minu sõna peab, siis ta ei maitse surma igavesti!</verse>
 				<verse number="53">Kas Sina oled suurem kui meie isa Aabraham, kes on surnud? Ja prohvetid on surnud. Kelleks Sina ennast pead?”</verse>
 				<verse number="54">Jeesus vastas: „Kui Mina Iseenesele annan austust, siis ei ole Mu austus midagi; Minu Isa on, Kes Mulle annab austuse, Keda te ütlete oma Jumala olevat.</verse>
@@ -3434,6 +3520,7 @@
 				<verse number="18">Ūkski ei võta seda Minult, vaid Ma jätan selle Iseenesest. Mul on meelevald seda jätta ja Mul on meelevald seda jälle võtta. Selle käsusõna Ma olen saanud Oma Isalt!”</verse>
 				<verse number="19">Siis tekkis taas vaidlus juutide keskel nende sõnade pärast.</verse>
 				<verse number="20">Ja paljud nende seast ütlesid: „Temas on kuri vaim ja Ta jampsib! Miks te Teda kuulate?”</verse>
+				<verse number="21"></verse>
 				<verse number="22">Siis tulid templi uuendamise pühad Jeruusalemas. 0li talv.</verse>
 				<verse number="23">Ja Jeesus köndis pühakojas Saalomoni võlvitud hoones.</verse>
 				<verse number="24">Siis juudid asusid Ta ümber ja ütlesid Temale: „Kaua sa pead meie hinge kahevahel? Oled Sa Kristus, siis ütle meile seda lausa!”</verse>
@@ -3467,6 +3554,8 @@
 				<verse number="8">Jüngrid ütlesid Temale: „Rabi, äsja püüdsid juudid Sind kividega visata ja Sa lähed jälle sinna?”</verse>
 				<verse number="9">Jeesus kostis: „Eks kaksteistkümmend tundi ole päevas? Kui keegi kõnnib päeval, siis ta ei komista, sest ta näeb selle maailma valgust.</verse>
 				<verse number="10">Aga kui keegi kõnnib öösel siis ta komistab, sest temas ei ole valjust!”</verse>
+				<verse number="11"></verse>
+				<verse number="12"></verse>
 				<verse number="13">Aga Jeesus rääkis ta surmast; nemad aga mõtlesid, et Ta räägib une magamisest.</verse>
 				<verse number="14">Siis Jeesus ütles neile lausa: „Laatsarus on surnud,</verse>
 				<verse number="15">ja Ma olen rõõmus teie pärast, et Ma ei olnud seal, et te usuksite. Aga läki tema juure!”</verse>
@@ -3540,6 +3629,7 @@
 				<verse number="24">Tõesti, tõesti Ma ütlen teile: Kui nisuiva ei kuku mullasse ega sure, jääb ta üksi; aga kui ta sureb, siis ta kannab palju vilja!</verse>
 				<verse number="25">Kes oma elu armastab, see kaotab selle, ja kes oma elu vihkab siin maailmas, see hoiab selle igaveseks eluks.</verse>
 				<verse number="26">Kui keegi Mind teenib, see järgigu Mind, ja kus Mina olen, seal peab olema ka Minu teenija; ja kes Mind teenib, seda tahab Isa austada. Ja mis</verse>
+				<verse number="27"></verse>
 				<verse number="28">Isa, austa Oma nime!” Siis tuli hääl taevast: „Mina olen juba austanud ja austan veel!”</verse>
 				<verse number="29">Siis rahvahulk, kes seal seisis ja seda kuulis, ütles pikse olevat müristanud. Aga teised ütlesid: „Ingel rääkis Temaga!”</verse>
 				<verse number="30">Jeesus kostis ning ütles: „See hääl ei sündinud Minu pärast, vaid teie pärast.</verse>
@@ -3624,6 +3714,7 @@
 				<verse number="17">tõe Vaimu, Keda maailm ei või vastu võtta, sellepärast et ta Teda ei näe ega tunne, aga teie tunnete Teda, sest Tema jääb teie juure ja tahab olla teie sees.</verse>
 				<verse number="18">Ma ei jäta teid vaestekslasteks; Ma tulen teie juure.</verse>
 				<verse number="19">Veel on pisut aega, siis maailm ei näe Mind enam, aga teie näete Mind; sest Mina elan ja teie saate elama!</verse>
+				<verse number="20"></verse>
 				<verse number="21">Kellel on minu käsusõnad ja kes neid peab, see on, kes Mind armastab; kes aga Mind armastab, seda armastab Minu Isa ja Ma tahan teda armastada ja Iseennast temale ilmutada!”</verse>
 				<verse number="22">Temale ütleb Juudas, mitte Iskariot: „Issand, millest see oleneb, et Sa meile tahad Ennast ilmutada, aga mitte maailmale?”</verse>
 				<verse number="23">Jeesus vastas ning ütles temale: „Kui keegi Mind armastab, küll ta peab Minu sõna, ja Minu Isa armastab Teda, ja Me tuleme tema juure„ ja teeme eluaseme tema juure.</verse>
@@ -3703,6 +3794,7 @@
 				<verse number="1">Seda rääkis Jeesus ja tõstis Oma silmad taeva poole ning ütles: „Isa, tund on tulnud! Austa Oma Poega, et ka Poeg austaks Sind,</verse>
 				<verse number="2">nagu Sa oled Temale annud meelevalla kõige liha üle, et Ta annaks igavese elu kõigile, kelled Sina oled Temale annud!</verse>
 				<verse number="3">Aga see on igavene elu, et nad tunneksid Sind, ainust tõelist Jumalat ja Jeesust Kristust, kelle Sina oled läkitanud.</verse>
+				<verse number="4"></verse>
 				<verse number="5">Ja nüüd austa Mind Sina, Isa, Enese juures selle auga, mis Mul oli Sinu juures enne maailma olemasolu.</verse>
 				<verse number="6">Mina olen Sinu nime ilmutanud inimestele, kelled Sa Mulle oled annud maailmast. Nemad olid Sinu Omad ja Sina andsid nad Mulle, ja nad on pidanud Sinu sõna.</verse>
 				<verse number="7">Nüüd nad teavad, et kõik, mis Sina Mulle oled annud, on Sinult.</verse>
@@ -3747,12 +3839,14 @@
 				<verse number="18">Aga teenrid ja sulased seisid ja olid teinud sütetule, sest oli külm, ja soojendasid endid. Ja Peetrus seisis nende juures ning soojendas ennast.</verse>
 				<verse number="19">Ūlempreester küsis nüüd Jeesuselt Tema jüngrite ja Tema õpetuse kohta.</verse>
 				<verse number="20">Jeesus kostis temale: „Mina olen avalikult rääkinud maailmale; Mina olen alati õpetanud koguduse- ja pühakojas, kuhu kõik juudid kokku tulevad, ja salaja Ma ei ole midagi rääkinud.</verse>
+				<verse number="21"></verse>
 				<verse number="22">Aga kui Ta seda oli ütelnud, lõi üks sulaseist, kes seisid seal juures, Jeesust kõrva ääre ning üttes: „Kas Sa nõnda vastad ülempreestrile?”</verse>
 				<verse number="23">Jeesus kostis temale: „Kui Ma olen rääkinud pahasti, siis tõesta, et see on paha; aga kui Ma olen hästi rääkinud, miks sa Mind siis lööd?”</verse>
 				<verse number="24">Siis Annas saatis Tema seotult ülempreester Kaifase juurde.</verse>
 				<verse number="25">Aga Siimon Peetrus seisis ja soojendas ennast. Siis ütlesid nad temale: „Eks sinagi ole Tema jüngrite seast?” Tema salgas ja ütles: „Mina ei ole!”</verse>
 				<verse number="26">Ūks ülempreestri teenreist, selle sugulane, kelle kõrva Peetrus oli ära raiunud, ütleb: „Kas mina sind ei näinud ühes Temaga aias?”</verse>
 				<verse number="27">Siis Peetrus salgas jälle, ja sedamaid laulis kukk.</verse>
+				<verse number="28"></verse>
 				<verse number="29">Siis läks Pilaatus välja nende juure ja ütles: „Mis teil on kaebamist Selle Inimese peale?</verse>
 				<verse number="30">Nemad vastasid ning ütlesid temale: „Kui see ei oleks kurjategija, me ei oleks annud Teda sinu kätte!”</verse>
 				<verse number="31">Siis ütles Pilaatus neile „Võtke teie Ta ja mõistke oma käsuõpetuse järele kohut Tema üle!” Juudid ütlesid temale: „Meil ei ole luba kedagi tappa!”</verse>
@@ -3800,9 +3894,11 @@
 				<verse number="31">Aga et oli valmistuspäev ja et kehad ei jääks hingamispäevaks ristile - sest see hingamispäev oli suur - palusid juudid Pilaatust, et ristilöödute sääreluud murtaks ja nad maha võetaks.</verse>
 				<verse number="32">Siis tulid sõjamehed ja murdsid esimese sääreluud ja teise omad, kes ühes Temaga olid risti löödud.</verse>
 				<verse number="33">Aga kui nad tulid Jeesuse juure ja nägid Ta juba surnud olevat, ei murdnud nad Tema sääreluid, 34, vaid üks sõjameestest pistis odaga Tema küljesse; ja kohe tuli välja verd ja vett.</verse>
+				<verse number="34"></verse>
 				<verse number="35">Ja see, kes seda nägi, on seda tunnistanud, ja tema tunnistus on tõsi, ja tema teab, et ta räägib tõtt, et teiegi usuksite.</verse>
 				<verse number="36">Sest see on sündinud, et Kiri täide läheks: „Tema luid ärgu murtagu!”</verse>
 				<verse number="37">Ja taas ütleb teine Kiri: „Nad saavad näha, Kellesse nad on pistnud!” 38. Aga pärast seda Joosep Arimaatiast, kes oli Jeesuse jünger, kuid salaja, kartusest juutide eest, palus Pilaatuselt, ei ta tohiks maha võtta Jeesuse ihu. Ja Pilaatus andis temale loa. Siis ta tuli ja võttis Jeesuse ihu maha.</verse>
+				<verse number="38"></verse>
 				<verse number="39">Nikodeemuski, kes varem oli öösel Jeesuse juure tulnud, tuli ja tõi segatud mürri ja aaloet ligi sada naela.</verse>
 				<verse number="40">Siis nad võtsid Jeesuse ihu ja mähkisid ta linastesse riietesse lõhnarohtudega, nõnda nagu on juutide matmisviis.</verse>
 				<verse number="41">Aga seal paigas, kus Ta oli risti löödud, oli aed ja aias uus haud, kuhu veel iialgi ei olnud kedagi pandud.</verse>
@@ -3864,6 +3960,7 @@
 				<verse number="20">Aga Peetrus pöördus ja näeb jüngrit, keda Jeesus armastas, järel sammuvat, selle, kes õhtusöömaajal oli laskunud Jeesuse rinnale ja ütelnud „Issand, kes see on, kes Sind ära annab?”</verse>
 				<verse number="21">Kui nüüd Peetrus teda nägi, ütleb Jeesusele: „Issand, aga kuidas jääb temaga?”</verse>
 				<verse number="22">Jeesus ütleb talle: „Kui Ma tahan, et ta jääb, kuni Ma tulen, mis see sinusse puutub? Järgi sina Mind!</verse>
+				<verse number="23"></verse>
 				<verse number="24">See on see jünger, kes neist asjust tunnistab ja on selle kirjutanud; ja me teame, et tema tunnistus on tõsi.</verse>
 			</chapter>
 		</book>
@@ -5637,6 +5734,7 @@
 				<verse number="13">Teid ei ole veel tabanud muud kui inimlik kiusatus; aga ustav on Jumal, Kes ei lase teid rohkem kiusata kui te suudate kanda, vaid ühes kiusatusega valmistab ka väljapääsu, n</verse>
 				<verse number="14">Sellepärast, minu armsad, p</verse>
 				<verse number="15">Ma räägin n</verse>
+				<verse number="16"></verse>
 				<verse number="17">Sellepärast et on ainult üks leib, siis me, kuigi paljud, oleme üks ihu; sest me k</verse>
 				<verse number="18">Vaadake Iisraeli peale, nagu ta liha poolest on! Eks need, kes söövad ohvreid, ole altari osalised?</verse>
 				<verse number="19">Mis ma nüüd ütlen? Kas seda, et ebajumala ohver on midagi? V</verse>
