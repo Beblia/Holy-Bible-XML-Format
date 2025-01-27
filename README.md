@@ -3,6 +3,8 @@ Welcome. Here you will find XML Bibles from various languages, created from the 
 200+ Languages and 900+ Bible Versions.
 Any questions or comments: andrey@beblia.com
 
+Use at your own discretion, no warranty’s. 
+
 Visit our site:
 https://beblia.com
 God Bless.
