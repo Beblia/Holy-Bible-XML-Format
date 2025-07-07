@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bible translation="Czech Bible (SKRABAL) 1951 - Dr Pavel Škrabal" status="Public Domain">
+<bible translation="Czech Bible (SKRABAL) 1951 - Dr Pavel Škrabal" status="Public Domain" link="https://www.obohu.cz/bible/index.php?styl=SKRamp;k=2Pamp;kap=1">
 	<testament name="New">
 		<book number="40">
 			<chapter number="1">
@@ -3163,7 +3163,7 @@
 			</chapter>
 			<chapter number="4">
 				<verse number="1">Když tedy Pán poznal, že farizeové uslyšeli, jak Ježíšovi přibývá více učedníků a že více křtí než Jan</verse>
-				<verse number="2">- ačkoliv Ježíš sám nekřtil, nýbrž jeho učedníci -, </verse>
+				<verse number="2">- ačkoliv Ježíš sám nekřtil, nýbrž jeho učedníci -,</verse>
 				<verse number="3">opustil Judsko a odešel opět do Galileje.</verse>
 				<verse number="4">Musel však projít Samařskem.</verse>
 				<verse number="5">Přijde tedy k samařskému městu, které se nazývá Sychar, blízko pole, které dal Jakub svému synu Josefovi. Tam byl Jakubův pramen.</verse>
