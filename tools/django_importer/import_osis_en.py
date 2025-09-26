@@ -1,16 +1,13 @@
-# preaching_app_project/preacher_helper/management/commands/import_osis.py
-
-# preacher_helper/management/commands/import_osis.py
 # -*- coding: utf-8 -*-
 
 """
-Commande de gestion Django pour importer un fichier de la Bible au format OSIS XML
-dans la base de données.
+Django management command to import a Bible file in OSIS XML format
+into the database.
 
-Ce script est conçu pour être robuste et efficace en mémoire, en utilisant une
-analyse itérative (iterparse) du fichier XML. Il gère la structure spécifique
-du fichier Sg1910_v11n.osis.xml, qui utilise des balises "jalons" (milestones)
-pour délimiter les versets.
+This script is designed to be robust and memory-efficient by using
+iterative parsing (iterparse) of the XML file. It handles the specific
+structure of the Sg1910_v11n.osis.xml file, which uses milestone tags
+to delimit verses.
 """
 
 import os
@@ -22,12 +19,12 @@ from django.conf import settings
 
 from preacher_helper.models import Book, Chapter, Verse, WordStrong
 
-# Espace de noms XML pour le format OSIS.
+# XML namespace for the OSIS format.
 OSIS_NS = "http://www.bibletechnologies.net/2003/OSIS/namespace"
 
-# Liste des identifiants OSIS des livres dans leur ordre canonique.
-# Cette liste est cruciale pour assurer que les livres sont triés correctement
-# dans l'application, et non par ordre alphabétique.
+# List of OSIS book IDs in their canonical order.
+# This list is crucial to ensure that books are sorted correctly
+# in the application, and not alphabetically.
 CANONICAL_OSIS_ID_ORDER = [
     "Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth", "1Sam", "2Sam",
     "1Kgs", "2Kgs", "1Chr", "2Chr", "Ezra", "Neh", "Esth", "Job", "Ps", "Prov",
@@ -38,70 +35,69 @@ CANONICAL_OSIS_ID_ORDER = [
     "1Pet", "2Pet", "1John", "2John", "3John", "Jude", "Rev"
 ]
 class Command(BaseCommand):
-    help = 'Importe un fichier XML OSIS de manière robuste.'
-
+    help = 'Robustly imports an OSIS XML file.'
     def handle(self, *args, **options):
         xml_file_path = os.path.join(settings.BASE_DIR, 'osis_origine', 'Sg1910_v11n.osis.xml')
         
         if not os.path.exists(xml_file_path):
-            raise CommandError(f"Le fichier XML n'a pas été trouvé : {xml_file_path}")
+            raise CommandError(f"XML file not found: {xml_file_path}")
 
-        self.stdout.write(self.style.SUCCESS(f"Début de l'importation robuste..."))
+        self.stdout.write(self.style.SUCCESS("Starting robust import..."))
 
         try:
-            # La transaction atomique garantit que si une erreur se produit,
-            # la base de données est restaurée à son état précédent.
+            # The atomic transaction ensures that if an error occurs,
+            # the database is rolled back to its previous state.
             with transaction.atomic():
                 self.run_import(xml_file_path)
         except Exception as e:
             import traceback
             traceback.print_exc()
-            raise CommandError(f"Une erreur fatale est survenue: {e}")
+            raise CommandError(f"A fatal error occurred: {e}")
 
-        self.stdout.write(self.style.SUCCESS("\nImportation terminée avec succès !"))
+        self.stdout.write(self.style.SUCCESS("\nImport finished successfully!"))
 
     def run_import(self, xml_file_path):
-        # Le script est idempotent : il nettoie les anciennes données avant chaque import.
-        self.stdout.write("Nettoyage des anciennes données...")
+        # The script is idempotent: it cleans up old data before each import.
+        self.stdout.write("Cleaning up old data...")
         WordStrong.objects.all().delete()
         Verse.objects.all().delete()
         Chapter.objects.all().delete()
         Book.objects.all().delete()
-        self.stdout.write("Anciennes données supprimées.")
+        self.stdout.write("Old data deleted.")
 
-        # Variables d'état pour suivre la position dans le document XML.
+        # State variables to track the position in the XML document.
         current_book, current_chapter, current_verse_obj = None, None, None
-        is_in_verse_scope = False  # Indique si cela se trouve entre un <verse sID> et <verse eID>.
-        words_to_create = []       # Liste pour la création en masse des objets WordStrong.
-        verse_text_parts = []      # Liste pour assembler le texte complet d'un verset.
-        position_counter = 0       # Compteur pour la position des mots dans un verset.
+        is_in_verse_scope = False  # Flag to indicate if we are between a <verse sID> and <verse eID>.
+        words_to_create = []       # List for bulk creation of WordStrong objects.
+        verse_text_parts = []      # List to assemble the full text of a verse.
+        position_counter = 0       # Counter for word position within a verse.
 
-        # Dictionnaire pour le récapitulatif final.
+        # Dictionary for the final summary.
         counters = {
             'books': 0, 'chapters': 0, 'verses': 0, 'words': 0,
             'words_in_w': 0, 'text_fragments': 0
         }
 
-        # Utilisation d' etree.iterparse pour parcourir le fichier de manière itérative,
-        # ce qui est crucial pour ne pas charger tout le fichier (potentiellement volumineux) en mémoire.
+        # Using etree.iterparse to process the file iteratively,
+        # which is crucial to avoid loading the entire (potentially large) file into memory.
         context = etree.iterparse(xml_file_path, events=('start', 'end'), remove_blank_text=True)
 
         for event, element in context:
             local_name = etree.QName(element.tag).localname
 
-            # Logique exécutée au DÉBUT d'une balise
+            # Logic executed at the START of a tag
             if event == 'start':
                 if local_name == 'div' and element.get('type') == 'book':
                     book_title_element = element.find(f'{{{OSIS_NS}}}title')
-                    book_title = book_title_element.text.strip() if book_title_element is not None and book_title_element.text else "Titre Manquant"
+                    book_title = book_title_element.text.strip() if book_title_element is not None and book_title_element.text else "Missing Title"
                     osis_id = element.get('osisID', '').strip()
                     if osis_id:
                         try:
-                            # Utilisation de la liste canonique pour définir l'ordre de tri.
+                            # Using the canonical list to define the sort order.
                             order = CANONICAL_OSIS_ID_ORDER.index(osis_id) + 1
                         except ValueError:
                             order = 999
-                            self.stdout.write(self.style.WARNING(f"Livre avec OSIS ID '{osis_id}' non trouvé dans l'ordre canonique."))
+                            self.stdout.write(self.style.WARNING(f"Book with OSIS ID '{osis_id}' not found in canonical order."))
                         
                         current_book, created = Book.objects.get_or_create(
                             osis_id=osis_id,
@@ -117,12 +113,12 @@ class Command(BaseCommand):
                         current_chapter, created = Chapter.objects.get_or_create(book=current_book, chapter_number=chapter_number, defaults={'osis_id': osis_id_attr})
                         if created: counters['chapters'] += 1
 
-                # Une balise <verse sID> marque le début d'un jalon de verset.
-                # Activation du mode "collecte de texte".
+                # A <verse sID> tag marks the beginning of a verse milestone.
+                # Activating the "text collection" mode.
                 elif local_name == 'verse' and element.get('sID') and current_chapter:
                     is_in_verse_scope = True
                     words_to_create = []
-                    verse_text_parts = [] # Réinitialiser pour chaque verset
+                    verse_text_parts = [] # Reset for each verse
                     position_counter = 0
                     
                     verse_n_str = element.get('n', '').strip()
@@ -130,16 +126,16 @@ class Command(BaseCommand):
                         verse_number = int(verse_n_str)
                         current_verse_obj, created = Verse.objects.get_or_create(
                             chapter=current_chapter, verse_number=verse_number,
-                            defaults={'osis_id': element.get('osisID', '').strip(), 'text': '[en cours]'}
+                            defaults={'osis_id': element.get('osisID', '').strip(), 'text': '[in progress]'}
                         )
                         if created: counters['verses'] += 1
             
-            # Logique exécutée à la FIN d'une balise
+            # Logic executed at the END of a tag
             elif event == 'end':
-                # --- Logique de collecte de texte pour le verset complet ---
-                # Si le mode "collecte" est actif et que la balise n'est pas un verset lui-même,
-                # Capture du contenu (.text) et le texte qui la suit (.tail).
-                # CLEF pour gérer la structure en jalons du fichier OSIS.
+                # --- Text collection logic for the full verse ---
+                # If collection mode is active and the tag is not a verse itself,
+                # capture its content (.text) and the text that follows it (.tail).
+                # KEY to handling the milestone structure of the OSIS file.
                 if is_in_verse_scope and local_name != 'verse':
                     if element.text:
                         verse_text_parts.append(element.text)
@@ -149,14 +145,14 @@ class Command(BaseCommand):
                         verse_text_parts.append(element.tail)
                         counters['text_fragments'] += len(element.tail.split())
 
-                # --- Logique de tokenisation pour les numéros Strong ---
-                # Cette partie est distincte et a pour but de créer des objets WordStrong
-                # pour une analyse plus fine du texte.
+                # --- Tokenization logic for Strong's numbers ---
+                # This part is separate and aims to create WordStrong objects
+                # for a more detailed analysis of the text.
                 if is_in_verse_scope and current_verse_obj:
                     if local_name == 'w':
                         word_text = element.text.strip() if element.text else ''
                         if word_text:
-                            counters['words_in_w'] += 1 # Compteur pour les mots dans <w>
+                            counters['words_in_w'] += 1 # Counter for words within <w>
                             position_counter += 1
                             strong_numbers = element.get('lemma', '').replace('strong:', '').split()
                             words_to_create.append(WordStrong(
@@ -172,15 +168,15 @@ class Command(BaseCommand):
                                 verse=current_verse_obj, text=token, position=position_counter, strong_ids=None
                             ))
 
-                # Une balise <verse eID> marque la fin d'un jalon de verset.
-                # C'est ici qu'est assemblé le texte collecté et que le tout est sauvegardé.
+                # A <verse eID> tag marks the end of a verse milestone.
+                # This is where the collected text is assembled and everything is saved.
                 if local_name == 'verse' and element.get('eID') and current_verse_obj:
-                    # Assemblage de tous les morceaux de texte collectés.
+                    # Assembling all the collected text fragments.
                     full_text = ''.join(verse_text_parts).strip()
-                    # Normalisation des espaces multiples.
+                    # Normalizing multiple spaces.
                     full_text = ' '.join(full_text.split()).strip()
 
-                    # Ajout du numéro de verset au début du texte pour l'affichage.
+                    # Adding the verse number at the beginning of the text for display.
                     full_text = f"[{current_verse_obj.verse_number}] {full_text}"
 
                     current_verse_obj.text = full_text
@@ -190,21 +186,21 @@ class Command(BaseCommand):
                         WordStrong.objects.bulk_create(words_to_create)
                         counters['words'] += len(words_to_create)
 
-                    # Réinitialisation des variables d'état pour le prochain verset.
+                    # Resetting state variables for the next verse.
                     is_in_verse_scope = False
                     current_verse_obj = None
                     words_to_create = []
                     verse_text_parts = []
 
-                # --- Gestion de la mémoire ---
-                # Il est crucial de nettoyer les éléments de l'arbre XML au fur et à mesure
-                # pour éviter que l'application ne sature la RAM.
+                # --- Memory management ---
+                # It is crucial to clean up XML tree elements as we go
+                # to prevent the application from saturating RAM.
                 element.clear()
                 while element.getprevious() is not None:
                     del element.getparent()[0]
 
-        summary = (f"Récapitulatif : {counters['books']} livres, {counters['chapters']} chapitres, "
-                   f"{counters['verses']} versets, {counters['words']} tokens forts.\n"
-                   f"Détail du texte collecté : {counters['words_in_w']} mots balisés (<w>) et "
-                   f"{counters['text_fragments']} fragments de texte hors balises.")
+        summary = (f"Summary: {counters['books']} books, {counters['chapters']} chapters, "
+                   f"{counters['verses']} verses, {counters['words']} strong tokens.\n"
+                   f"Collected text details: {counters['words_in_w']} tagged words (<w>) and "
+                   f"{counters['text_fragments']} text fragments outside tags.")
         self.stdout.write(self.style.SUCCESS(summary))
